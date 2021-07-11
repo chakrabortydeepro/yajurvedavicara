@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Provitional Edition</title>
+                <title type="alt">Yajurvedavicāra</title>
+                <editor>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</authority>
+                <date calendar="Gregorian">2021</date>
+                <publisher>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</publisher>
+                <pubPlace>Edmonton, Calcutta, Agartala</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+
+                <msDesc xml:lang="en">
+                    <msIdentifier>
+                        <idno type="siglum">YVEd</idno>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>This is a provisionary edition of the text, currently still under
+                            active revision, based on one manuscript witness </summary>
+
+                        <msItem n="1" defective="false">
+
+                            <author xml:lang="sa" role="author">unknown</author>
+
+                            <title xml:lang="sa">Yajurvedavicāra</title>
+
+                            <textLang mainLang="sa-Latn">Sanskrit in IAST
+                                transliteration.</textLang>
+
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="xml">
+                            <supportDesc material="digital">
+                                <extent>
+                                    <measure quantity="18" unit="sūtras">With commentary.</measure>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" when="2021">2021 AD</origDate>
+                            <origPlace>Edmonton, Calcutta, Agartala</origPlace>
+                        </origin>
+                    </history>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <revisionDesc>
+            <change when="2021-07-03" who="Deepro Chakraborty">
+                <p>created the file</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text xml:lang="sa-Latn">
+        <body>
+
+            <p xml:id="namaskara"> || śrīgaṇeśāya namaḥ || </p>
+            <p xml:id="yvv-1"> catvāro vedā vijñātā bhavanti | ṛgvedo yajurvedaḥ sāmavedo
+                'tharvavedaś ceti | tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ pañca bhavanti || āśvalāyanī
+                śāṅkhāyanī śākalā bāṣkalā māṇḍūkeyāś ceti | tatra śākalasya śiṣyāḥ pañca |</p>
+
+            <lg>
+                <l xml:id="yvv-2">mudgalo gokhalo vātsyaḥ śārāraḥ śiśiras tathā | </l>
+                <l xml:id="yvv-3">paṃcaite śākalāḥ śiṣyāḥ śākhābhedapravartakāḥ ||</l>
+            </lg>
+        </body>
+    </text>
+</TEI>
