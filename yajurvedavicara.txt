@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
@@ -405,7 +409,21 @@
         kartavyaṃ sarvaṃ cādhvaryukarma ca | āpastaṃbasya cābhāve bodhāyana <lb n="11"/>mathāpi vā |
         sṛ kū śā-ravabhiśca sarvaiśca hyāpastaṃbena kārayet | anyathā <lb n="12"/> tu na kartavyaṃ
         śākhāvicchiṃnadarśanāt || yaṃ dvātriguṇapaṭhanaṃ trisvareṇānu <lb n="13"/>dāttasvaritaiḥ
-        ṛgvedānāṃ saṃhitāmātrasya | na brāhmaṇasya | taittirī </p>
+        ṛgvedānāṃ saṃhitāmātrasya | na brāhmaṇasya | taittirī<pb n="8r"/><lb n="1"/>yakā etādṛśaṃ
+				cādhyayataṃ taittirīyāṇāmeva | etadanyat śākhāṃta<lb n="2"/>rā smṛtā iti |
+				korthaḥ? vaiśaṃpāyanādguroradhītāyāṃ yājñavalkyena yajurve<lb n="3"/>dasaṃhitā
+						<add place="left margin">ta</add>tyāgānaṃtaraṃ vājīrūpeṇa sūryeṇa vegena saṃnyastāḥ
+					vājasenyaḥ <lb n="4"/>paṃcadaśa śākhābhedāḥ | śākhāṃtarā ekasyā śākhāyāḥ | anyaśākhā i<lb
+						n="5"/>ti | śākhāṃtarā ittyarthe kriyamāṇe ṛgveditvaṃ sāmaveditvaṃ vā atharva<lb n="6"
+					/>ṇaveditvaṃ vā paṃcamatvaṃ vā syādataśca śākhāṃtarāḥ śākhāyāṃ | aṃtarbhūtaya<lb n="7"
+					/>jurvedaśākhāṃtarbhūtā ityarthaḥ | āyā<unclear>vrayāmā</unclear>ni yajūṃṣi bhavantīti
+						liṃgā<lb n="8"/>t | eteṣāṃ pārāyaṇasaṃhitāmātrasyetyalamiti prasaṃgata || paṃcamamāha ||
+						<lb n="9"/>yathā ṛgvedapārāyaṇe saṃhitāpārāyaṇaṃ padapārāyaṇaṃ kramapārāyaṇaṃ <lb n="10"
+					/>ceti | tathā hi | kramapāṭhena vinā udāttādisvarasaṃdehanirāsamātraṃ saṃde<lb n="11"/>he
+					nirāso na bhavati. iti kramapaṭhanamāvaśyakatvena vinā saṃhitāpā<lb n="12"/>rāyaṇaṃ
+						nārtha<del>i</del>vat | ataśca ṛgvedaśākhāyāṃ tritapārāyaṇamāvaśyam | </m
+
+
 
       <pb n="8v"/>
       <lb n="1"/>
@@ -427,20 +445,7 @@
         yajñamṛdhau muniṃ|| arthavantaṃ kramaṃ brūyāddevatāyā</p>
 
 
-      <pb n="8r"/>
-      <p>
-        <lb n="1"/>yakā etādṛśaṃ cādhyayataṃ taittirīyāṇāmeva | etadanyat śākhāṃta<lb n="2"/>rā
-        smṛtā iti | korthaḥ? vaiśaṃpāyanādguroradhītāyāṃ yājñavalkyena yajurve<lb n="3"/>dasaṃhitā
-          <add place="left margin">ta</add>tyāgānaṃtaraṃ vājīrūpeṇa sūryeṇa vegena saṃnyastāḥ
-        vājasenyaḥ <lb n="4"/>paṃcadaśa śākhābhedāḥ | śākhāṃtarā ekasyā śākhāyāḥ | anyaśākhā i<lb
-          n="5"/>ti | śākhāṃtarā ittyarthe kriyamāṇe ṛgveditvaṃ sāmaveditvaṃ vā atharva<lb n="6"
-        />ṇaveditvaṃ vā paṃcamatvaṃ vā syādataśca śākhāṃtarāḥ śākhāyāṃ | aṃtarbhūtaya<lb n="7"
-        />jurvedaśākhāṃtarbhūtā ityarthaḥ | āyā<unclear>vrayāmā</unclear>ni yajūṃṣi bhavantīti
-          liṃgā<lb n="8"/>t | eteṣāṃ pārāyaṇasaṃhitāmātrasyetyalamiti prasaṃgata || paṃcamamāha ||
-          <lb n="9"/>yathā ṛgvedapārāyaṇe saṃhitāpārāyaṇaṃ padapārāyaṇaṃ kramapārāyaṇaṃ <lb n="10"
-        />ceti | tathā hi | kramapāṭhena vinā udāttādisvarasaṃdehanirāsamātraṃ saṃde<lb n="11"/>he
-        nirāso na bhavati. iti kramapaṭhanamāvaśyakatvena vinā saṃhitāpā<lb n="12"/>rāyaṇaṃ
-          nārtha<del>i</del>vat | ataśca ṛgvedaśākhāyāṃ tritapārāyaṇamāvaśyam | </p>
+
 
       <pb n="9r"/>
       <lb n="1"/>
