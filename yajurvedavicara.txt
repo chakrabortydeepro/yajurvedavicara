@@ -9,7 +9,7 @@
         <title>[MS 465 from CSC]</title>
       </titleStmt>
       <publicationStmt>
-        <p>Aniruddha, Deepro, Devalina, Manji, Parthasarathi, Shilpi</p>
+        <p>Aniruddha, Deepro, Devalina, Paritosh, Manji, Parthasarathi, Shilpi</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
