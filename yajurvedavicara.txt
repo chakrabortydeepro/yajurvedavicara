@@ -131,8 +131,11 @@
       <change when="2021-07-07" who="Parthasarathi Sil">
         <p>added the transcription of 7r</p>
       </change>
-			<change when="2021-07-11" who="Deepro Chakraborty">
+      <change when="2021-07-11" who="Deepro Chakraborty">
         <p>added the transcription of 9v</p>
+      </change>
+      <change when="2021-07-13" who="Anusrita Mandal">
+        <p>added the transcription of 11v</p>
       </change>
     </revisionDesc>
   </teiHeader>
@@ -413,18 +416,18 @@
         sṛ kū śā-ravabhiśca sarvaiśca hyāpastaṃbena kārayet | anyathā <lb n="12"/> tu na kartavyaṃ
         śākhāvicchiṃnadarśanāt || yaṃ dvātriguṇapaṭhanaṃ trisvareṇānu <lb n="13"/>dāttasvaritaiḥ
         ṛgvedānāṃ saṃhitāmātrasya | na brāhmaṇasya | taittirī<pb n="8r"/><lb n="1"/>yakā etādṛśaṃ
-				cādhyayataṃ taittirīyāṇāmeva | etadanyat śākhāṃta<lb n="2"/>rā smṛtā iti |
-				korthaḥ? vaiśaṃpāyanādguroradhītāyāṃ yājñavalkyena yajurve<lb n="3"/>dasaṃhitā
-						<add place="left margin">ta</add>tyāgānaṃtaraṃ vājīrūpeṇa sūryeṇa vegena saṃnyastāḥ
-					vājasenyaḥ <lb n="4"/>paṃcadaśa śākhābhedāḥ | śākhāṃtarā ekasyā śākhāyāḥ | anyaśākhā i<lb
-						n="5"/>ti | śākhāṃtarā ittyarthe kriyamāṇe ṛgveditvaṃ sāmaveditvaṃ vā atharva<lb n="6"
-					/>ṇaveditvaṃ vā paṃcamatvaṃ vā syādataśca śākhāṃtarāḥ śākhāyāṃ | aṃtarbhūtaya<lb n="7"
-					/>jurvedaśākhāṃtarbhūtā ityarthaḥ | āyā<unclear>vrayāmā</unclear>ni yajūṃṣi bhavantīti
-						liṃgā<lb n="8"/>t | eteṣāṃ pārāyaṇasaṃhitāmātrasyetyalamiti prasaṃgata || paṃcamamāha ||
-						<lb n="9"/>yathā ṛgvedapārāyaṇe saṃhitāpārāyaṇaṃ padapārāyaṇaṃ kramapārāyaṇaṃ <lb n="10"
-					/>ceti | tathā hi | kramapāṭhena vinā udāttādisvarasaṃdehanirāsamātraṃ saṃde<lb n="11"/>he
-					nirāso na bhavati. iti kramapaṭhanamāvaśyakatvena vinā saṃhitāpā<lb n="12"/>rāyaṇaṃ
-						nārtha<del>i</del>vat | ataśca ṛgvedaśākhāyāṃ tritapārāyaṇamāvaśyam | </p>
+        cādhyayataṃ taittirīyāṇāmeva | etadanyat śākhāṃta<lb n="2"/>rā smṛtā iti | korthaḥ?
+        vaiśaṃpāyanādguroradhītāyāṃ yājñavalkyena yajurve<lb n="3"/>dasaṃhitā <add
+          place="left margin">ta</add>tyāgānaṃtaraṃ vājīrūpeṇa sūryeṇa vegena saṃnyastāḥ vājasenyaḥ
+          <lb n="4"/>paṃcadaśa śākhābhedāḥ | śākhāṃtarā ekasyā śākhāyāḥ | anyaśākhā i<lb n="5"/>ti |
+        śākhāṃtarā ittyarthe kriyamāṇe ṛgveditvaṃ sāmaveditvaṃ vā atharva<lb n="6"/>ṇaveditvaṃ vā
+        paṃcamatvaṃ vā syādataśca śākhāṃtarāḥ śākhāyāṃ | aṃtarbhūtaya<lb n="7"
+        />jurvedaśākhāṃtarbhūtā ityarthaḥ | āyā<unclear>vrayāmā</unclear>ni yajūṃṣi bhavantīti
+          liṃgā<lb n="8"/>t | eteṣāṃ pārāyaṇasaṃhitāmātrasyetyalamiti prasaṃgata || paṃcamamāha ||
+          <lb n="9"/>yathā ṛgvedapārāyaṇe saṃhitāpārāyaṇaṃ padapārāyaṇaṃ kramapārāyaṇaṃ <lb n="10"
+        />ceti | tathā hi | kramapāṭhena vinā udāttādisvarasaṃdehanirāsamātraṃ saṃde<lb n="11"/>he
+        nirāso na bhavati. iti kramapaṭhanamāvaśyakatvena vinā saṃhitāpā<lb n="12"/>rāyaṇaṃ
+          nārtha<del>i</del>vat | ataśca ṛgvedaśākhāyāṃ tritapārāyaṇamāvaśyam | </p>
 
 
 
@@ -456,18 +459,21 @@
 
 
       <p><pb n="9v"/><lb n="1"/>śaṃ na iṃdrānuvākena ity anena āśvalāyanaśākhīyapaṭhitaghoṣa
-			yachā<lb n="2"/>tir ūpalakṣyate | atra ca vedakrameṇa prathamata iyaṃ śāṃti paṭhanīyaḥ |
-			paścā <lb n="3"/>yājuṣī śāntiḥ | śaṃ no vātaḥ pacatām ityādiyajurvedapaṭhitāḥ paṭhanīyāḥ |
-			e<lb n="4"/>tatprasaṅgenaiva eteṣāṃ maṃtrāṇāṃ ṛṣidaivatachaṃdāṃsi darśayiṣyan | pratiṣṭhā<lb n="5"/>si
-			pratiṣṭhāvaṃto bhūyāsmeti maṃtrasya mayi parvatapūruṣaṃ mayi parvatavarcasaṃ <lb n="6"/>mayi
-			parvatabheṣajaṃ | namo bhavāyetyādikā | namo rudr<subst><del rend="crossed_out">o</del><add>a</add></subst>bhya
-			ityādikāḥ | ja<lb n="7"/>yādihome cittaṃ ca svāhetyādayaḥ | anye py etajjātīyāḥ ye maṃtrāḥ teṣāṃ
-			ya<lb n="8"/>jūṃṣi tvā chaṃdā bhāva ity uktaṃ | anyachaṃdo varttata iti siddhāṃtaḥ | tathā sati
-			ya<lb n="9"/>juśchando na vi<unclear reason="eccentric_ductus">dha</unclear>ta iti kāryaḥ |
-			kiṃ sarvayajurvedaśākhīyānāṃ maṃtrāṇāṃ <lb n="10"/>chaṃdo bhāvaḥ | uktamaṃtraviśeṣāṇāṃ vā
-			tatra na tāvatāghāḥ | mahārṇavakā<lb n="11"/>reṇa sarveṣāṃ darśitatvāt na dvitīyaḥ |
-			maṃtraviśeṣānirvacanāt | atrocya<pb n="10r"/><lb n="1"/>te | nigadākhyaṃ yajurgaṇa yajurveda
-			itye<unclear>tāṃtaḥ</unclear> <add place="top">pāti</add> yajurvedaśabdena aniyatā<lb n="2"/>kṣarā<add place="margin"
+          yachā<lb n="2"/>tir ūpalakṣyate | atra ca vedakrameṇa prathamata iyaṃ śāṃti paṭhanīyaḥ |
+        paścā <lb n="3"/>yājuṣī śāntiḥ | śaṃ no vātaḥ pacatām ityādiyajurvedapaṭhitāḥ paṭhanīyāḥ |
+          e<lb n="4"/>tatprasaṅgenaiva eteṣāṃ maṃtrāṇāṃ ṛṣidaivatachaṃdāṃsi darśayiṣyan |
+          pratiṣṭhā<lb n="5"/>si pratiṣṭhāvaṃto bhūyāsmeti maṃtrasya mayi parvatapūruṣaṃ mayi
+        parvatavarcasaṃ <lb n="6"/>mayi parvatabheṣajaṃ | namo bhavāyetyādikā | namo rudr<subst>
+          <del rend="crossed_out">o</del>
+          <add>a</add>
+        </subst>bhya ityādikāḥ | ja<lb n="7"/>yādihome cittaṃ ca svāhetyādayaḥ | anye py etajjātīyāḥ
+        ye maṃtrāḥ teṣāṃ ya<lb n="8"/>jūṃṣi tvā chaṃdā bhāva ity uktaṃ | anyachaṃdo varttata iti
+        siddhāṃtaḥ | tathā sati ya<lb n="9"/>juśchando na vi<unclear reason="eccentric_ductus"
+          >dha</unclear>ta iti kāryaḥ | kiṃ sarvayajurvedaśākhīyānāṃ maṃtrāṇāṃ <lb n="10"/>chaṃdo
+        bhāvaḥ | uktamaṃtraviśeṣāṇāṃ vā tatra na tāvatāghāḥ | mahārṇavakā<lb n="11"/>reṇa sarveṣāṃ
+        darśitatvāt na dvitīyaḥ | maṃtraviśeṣānirvacanāt | atrocya<pb n="10r"/><lb n="1"/>te |
+        nigadākhyaṃ yajurgaṇa yajurveda itye<unclear>tāṃtaḥ</unclear>
+        <add place="top">pāti</add> yajurvedaśabdena aniyatā<lb n="2"/>kṣarā<add place="margin"
           >vasāna</add>yajuriṣe tvorje titve yajuḥ. āśvalāyanāraṇyakabhāṣye | gadyātma<lb n="3"
         />kayajurveda iti śrīdharaḥ | vākyaṃ yajuriti yajurvedaśākhinaḥ | tatrāmaṃtrā<lb n="4"
         />tmakā maṃtrātmakayajurgaṇasya sakalasyāpi chaṃdābhāvaḥ | yajuḥsamudāyā<lb n="5"
@@ -499,6 +505,32 @@
         />dapaṭhitatvāt | atraivaṃ daśamaṃ darśayati | tacca hemādrimādhavanṛsiṃhaprasādakā<lb
           n="11"/>lā darśaprayogapārijātādinibaṃdheṣu upākarmanirṇayaprasaṃgena vyākhyā<lb n="12"
         />taṃ | tathāhi | adhyāyānāmupākarma śrāvaṇyāṃ śravaṇena vā | hastenauṣadhibhāve </p>
+
+
+      <pb n="11v"/>
+      <lb n="1"/>
+      <p>
+        <lg>
+          <l>kālinohasta iti vyavasthitaṃ| tathaiva sva sva gatye pratipādanāt| atra ca dhani</l>
+          <l>ṣṭhā pratipadyuktamiti vākye udayakāle vyāpinyāṃ paurṇmāsyāṃ yajurvedibhiḥ eṣā</l>
+          <l>karmakartavyaṃ ityuktaṃ| atra yajurvedaśabdena taittirīyak evocyate| hemādyāditi</l>
+          <l>vandhakāraiḥ|tathāhi| caturdaśyāṃ samutpanaavasurau madhukaiṭabhau vedān
+            svīkurvataḥ</l>
+          <l>padmayonestau juhutaḥ stutiḥ| hatvā tāvasurau devaḥ pātālatalavāsinau| āha</l>
+          <l>tyatāścatistasmai dadau lokaguruḥ svayaṃ||amūlaśkṛtirvaṇyedayike punaḥ|</l>
+          <l>ato bhūtayuteta tasminyupākaraṇamiṣyate| asuraṃ varjayetkaalaṃ vedāharaṇaśoka</l>
+          <l>yā| pracetaḥ|bhavedupākṛtiḥ paurṇamāsyāṃ<unclear reason="ink" unit="akṣara"
+              quantity="3">pūrvāhna</unclear> eva tu| brāhmanān bhojayettatrapi</l>
+          <l><unclear reason="damaged" unit="akṣara" quantity="1">tṛ</unclear>nudiśya devatān|
+            bhaviṣyottare saṃprāpteśrāvaṇasyāṃte pūrṇamāśādinodaye|</l>
+          <l>smānaṃ kurvīta matimānaskṛti smṛtividhānataḥ| tato devān pitṛścaivatarpayetya</l>
+          <l>ramāṃbhasā|upākarmādi caivoktaṃ ṛṣīṇāṃ caiva tarpaṇaṃ| kurvīta brāhmaṇasārdha vedā</l>
+          <l>nuddiśya śaktitaḥ hutyādi vākyeṣu uadayavyāpinyāṃ paurṇamāsyāmupākarmakarta </l>
+          <l>vyaṃ| tacca taittirīyakaiḥ| atha<unclear reason="ink" unit="akṣara" quantity="2"
+              >bahṛ</unclear>Ca kārikāsu| parvaṇyau dayikī kuryuḥ śrāvaṇyāṃ</l>
+        </lg>
+      </p>
+
 
       <pb n="13r"/>
       <p>
