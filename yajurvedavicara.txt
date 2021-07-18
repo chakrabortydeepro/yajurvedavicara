@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
@@ -136,6 +132,9 @@
       </change>
       <change when="2021-07-13" who="Anusrita Mandal">
         <p>added the transcription of 11v</p>
+      </change>
+      <change when="2021-07-17" who="Parthasarathi Sil">
+        <p>added the transcription of 11r</p>
       </change>
     </revisionDesc>
   </teiHeader>
@@ -505,6 +504,23 @@
         />dapaṭhitatvāt | atraivaṃ daśamaṃ darśayati | tacca hemādrimādhavanṛsiṃhaprasādakā<lb
           n="11"/>lā darśaprayogapārijātādinibaṃdheṣu upākarmanirṇayaprasaṃgena vyākhyā<lb n="12"
         />taṃ | tathāhi | adhyāyānāmupākarma śrāvaṇyāṃ śravaṇena vā | hastenauṣadhibhāve </p>
+
+
+      <pb n="11r"/>
+      <p>
+        <lb n="1"/>vā paṃcamyāṃ śravaṇena veti | āśvalāyanaḥ | athāto dhyāyopākaraṇamoṣadhī<lb n="2"
+        />no prādurbhāve śravaṇena śrāvaṇasya paṃcamyāṃ hastena veti| nigamepi | athātodhyāyo <lb
+          n="3"/>pākarmaśravaṇena śrāvaṇyāṃ paurṇamāsyāṃ | baudhāyanaḥ| śrāvaṇyāṃ paurṇamāsyāṃ māṣā
+          <lb n="4"/>ṣṭyāṃ vā pākasya chaṃdāsyadhītya chaṃdāsyadhīyīta | vasiṣṭopi | abhātaḥ
+        svādhyāyo <lb n="5"/>pākakarma śrāvaṇyāṃ prauṣṭapadyāṃ ceti | manur api| śrāvaṇyāṃ
+        prauṣṭhapadyāṃ <unclear reason="eccentric_ductus" confidence="0.5">vāpy</unclear> upākasya <lb n="6"/>yathāvidhiḥ | yuktachaṃdāṃsyadhīyīta māsāci
+        prārddhaṃ paṃcama ityādivākyeṣu sa<lb n="7"/>rveṣāṃ śākhīnāṃ copākarmaṇi vyavasthitaḥ|
+        kālaviśeṣā śrūyaṃte || ataścedaṃ vya<lb n="8"/>vasthāpakaṃ vacanaṃ | upākarma prakurvati
+        kramātsāmayajurvidaḥ | grahasaṃkrāṃtya yukteṣu <lb n="9"/>hastaśravaṇaparvasu | dhaniṣṭhā
+        pratiṣṭhā pratipadyukte tyāṣṭa<unclear>ṛ</unclear>kṣasamanvitaṃ | śravaṇākarma ku<lb n="10"/>rveti
+        ṛgyajuḥsāmapāṭhakāḥ | eva ha saṃkrāṃtyarahitā śrutiparvakarāḥ kramāt | para<lb n="11"/>vidvā
+        du pāde yā ṛgyajuḥsāmaśākhibhiḥ| ityādi vākyālocanayā ṛgvedādīnāṃ <lb n="12"/>udayakālinaḥ
+        śravaṇaḥ| yajurvedīnāṃ udayakālinaparva| sāmavedināṃ udayagānā </p>
 
 
       <pb n="11v"/>
