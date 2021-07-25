@@ -136,6 +136,9 @@
       <change when="2021-07-17" who="Parthasarathi Sil">
         <p>added the transcription of 11r</p>
       </change>
+      <change when="2021-07-17" who="Anusrita Mandal">
+        <p>corrected the transcription of 11v</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -513,39 +516,34 @@
           n="3"/>pākarmaśravaṇena śrāvaṇyāṃ paurṇamāsyāṃ | baudhāyanaḥ| śrāvaṇyāṃ paurṇamāsyāṃ māṣā
           <lb n="4"/>ṣṭyāṃ vā pākasya chaṃdāsyadhītya chaṃdāsyadhīyīta | vasiṣṭopi | abhātaḥ
         svādhyāyo <lb n="5"/>pākakarma śrāvaṇyāṃ prauṣṭapadyāṃ ceti | manur api| śrāvaṇyāṃ
-        prauṣṭhapadyāṃ <unclear reason="eccentric_ductus" confidence="0.5">vāpy</unclear> upākasya <lb n="6"/>yathāvidhiḥ | yuktachaṃdāṃsyadhīyīta māsāci
-        prārddhaṃ paṃcama ityādivākyeṣu sa<lb n="7"/>rveṣāṃ śākhīnāṃ copākarmaṇi vyavasthitaḥ|
-        kālaviśeṣā śrūyaṃte || ataścedaṃ vya<lb n="8"/>vasthāpakaṃ vacanaṃ | upākarma prakurvati
-        kramātsāmayajurvidaḥ | grahasaṃkrāṃtya yukteṣu <lb n="9"/>hastaśravaṇaparvasu | dhaniṣṭhā
-        pratiṣṭhā pratipadyukte tyāṣṭa<unclear>ṛ</unclear>kṣasamanvitaṃ | śravaṇākarma ku<lb n="10"/>rveti
+        prauṣṭhapadyāṃ <unclear reason="eccentric_ductus" confidence="0.5">vāpy</unclear> upākasya
+          <lb n="6"/>yathāvidhiḥ | yuktachaṃdāṃsyadhīyīta māsāci prārddhaṃ paṃcama ityādivākyeṣu
+          sa<lb n="7"/>rveṣāṃ śākhīnāṃ copākarmaṇi vyavasthitaḥ| kālaviśeṣā śrūyaṃte || ataścedaṃ
+          vya<lb n="8"/>vasthāpakaṃ vacanaṃ | upākarma prakurvati kramātsāmayajurvidaḥ |
+        grahasaṃkrāṃtya yukteṣu <lb n="9"/>hastaśravaṇaparvasu | dhaniṣṭhā pratiṣṭhā pratipadyukte
+          tyāṣṭa<unclear>ṛ</unclear>kṣasamanvitaṃ | śravaṇākarma ku<lb n="10"/>rveti
         ṛgyajuḥsāmapāṭhakāḥ | eva ha saṃkrāṃtyarahitā śrutiparvakarāḥ kramāt | para<lb n="11"/>vidvā
         du pāde yā ṛgyajuḥsāmaśākhibhiḥ| ityādi vākyālocanayā ṛgvedādīnāṃ <lb n="12"/>udayakālinaḥ
         śravaṇaḥ| yajurvedīnāṃ udayakālinaparva| sāmavedināṃ udayagānā </p>
 
-
       <pb n="11v"/>
       <lb n="1"/>
-      <p>
-        <lg>
-          <l>kālinohasta iti vyavasthitaṃ| tathaiva sva sva gatye pratipādanāt| atra ca dhani</l>
-          <l>ṣṭhā pratipadyuktamiti vākye udayakāle vyāpinyāṃ paurṇmāsyāṃ yajurvedibhiḥ eṣā</l>
-          <l>karmakartavyaṃ ityuktaṃ| atra yajurvedaśabdena taittirīyak evocyate| hemādyāditi</l>
-          <l>vandhakāraiḥ|tathāhi| caturdaśyāṃ samutpanaavasurau madhukaiṭabhau vedān
-            svīkurvataḥ</l>
-          <l>padmayonestau juhutaḥ stutiḥ| hatvā tāvasurau devaḥ pātālatalavāsinau| āha</l>
-          <l>tyatāścatistasmai dadau lokaguruḥ svayaṃ||amūlaśkṛtirvaṇyedayike punaḥ|</l>
-          <l>ato bhūtayuteta tasminyupākaraṇamiṣyate| asuraṃ varjayetkaalaṃ vedāharaṇaśoka</l>
-          <l>yā| pracetaḥ|bhavedupākṛtiḥ paurṇamāsyāṃ<unclear reason="ink" unit="akṣara"
-              quantity="3">pūrvāhna</unclear> eva tu| brāhmanān bhojayettatrapi</l>
-          <l><unclear reason="damaged" unit="akṣara" quantity="1">tṛ</unclear>nudiśya devatān|
-            bhaviṣyottare saṃprāpteśrāvaṇasyāṃte pūrṇamāśādinodaye|</l>
-          <l>smānaṃ kurvīta matimānaskṛti smṛtividhānataḥ| tato devān pitṛścaivatarpayetya</l>
-          <l>ramāṃbhasā|upākarmādi caivoktaṃ ṛṣīṇāṃ caiva tarpaṇaṃ| kurvīta brāhmaṇasārdha vedā</l>
-          <l>nuddiśya śaktitaḥ hutyādi vākyeṣu uadayavyāpinyāṃ paurṇamāsyāmupākarmakarta </l>
-          <l>vyaṃ| tacca taittirīyakaiḥ| atha<unclear reason="ink" unit="akṣara" quantity="2"
-              >bahṛ</unclear>Ca kārikāsu| parvaṇyau dayikī kuryuḥ śrāvaṇyāṃ</l>
-        </lg>
-      </p>
+      <p>kālinohasta iti vyavasthitaṃ | tathaiva sva sva gatye pratipādanāt | atra ca dhani<lb n="2"
+        />ṣṭhā pratipadyuktamiti vākye udayakāle vyāpinyāṃ paurṇmāsyāṃ yajurvedibhiḥ eṣā <lb n="3"
+        />karmakartavyaṃ ityuktaṃ | atra yajurvedaśabdena taittirīyak evocyate | hemādyāditi<lb n="4"
+        />vandhakāraiḥ|tathāhi | caturdaśyāṃ samutpanaavasurau madhukaiṭabhau vedān svīkurvataḥ <lb
+          n="5"/>padmayonestau juhutaḥ stutiḥ | hatvā tāvasurau devaḥ pātālatalavāsinau| āha<lb
+          n="6"/>tyatāścatistasmai dadau lokaguruḥ svayaṃ || amūlaśkṛtirvaṇyedayike punaḥ| <lb n="7"
+        />ato bhūtayuteta tasminyupākaraṇamiṣyate | asuraṃ varjayetkaalaṃ vedāharaṇaśoka<lb n="8"
+        />yā| pracetaḥ|bhavedupākṛtiḥ paurṇamāsyāṃ<unclear reason="ink" unit="akṣara" quantity="3"
+          >pūrvāhna</unclear> eva tu| brāhmanān bhojayet tatrapi <lb n="9"/><unclear reason="damaged"
+          unit="akṣara" quantity="1">tṛ</unclear>nudiśya devatān | bhaviṣyottare
+        saṃprāpteśrāvaṇasyāṃte pūrṇamāśādinodaye | <lb n="10"/>smānaṃ kurvīta matimānaskṛti
+        smṛtividhānataḥ | tato devān pitṛścaivatarpayetya <lb n="11"/>ramāṃbhasā | upākarmādi caivoktaṃ
+        ṛṣīṇāṃ caiva tarpaṇaṃ | kurvīta brāhmaṇasārdha vedā<lb n="12"/>n uddiśya śaktitaḥ hutyādi
+        vākyeṣu uadayavyāpinyāṃ paurṇamāsyāmupākarmakarta<lb n="13"/>vyaṃ| tac ca taittirīyakaiḥ |
+          atha<unclear reason="ink" unit="akṣara" quantity="2">bahṛ</unclear>ca kārikāsu | parvaṇyau
+        dayikī kuryuḥ śrāvaṇyāṃ </p>
 
 
       <pb n="13r"/>
