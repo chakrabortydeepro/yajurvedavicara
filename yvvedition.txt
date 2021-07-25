@@ -3,12 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
             <titleStmt>
-                <title>Provitional Edition</title>
+                <title>Provisional Edition</title>
                 <title type="alt">Yajurvedavicāra</title>
-                <editor>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</editor>
+                <editor>Aniruddha Kar, Anusrita Mandal, Deepro Chakraborty, Parthasarathi Sil</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</authority>
+                <authority>Aniruddha Kar, Anusrita Mandal, Deepro Chakraborty, Parthasarathi Sil</authority>
                 <date calendar="Gregorian">2021</date>
                 <publisher>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</publisher>
                 <pubPlace>Edmonton, Calcutta, Agartala</pubPlace>
@@ -61,6 +61,9 @@
             <change when="2021-07-03" who="Deepro Chakraborty">
                 <p>created the file</p>
             </change>
+            <change when="2021-07-03" who="Deepro, Parthasarathi, Anusrita">
+                <p>verified the readings until the middle of yvv-4</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -68,14 +71,91 @@
         <body>
 
             <p xml:id="namaskara"> || śrīgaṇeśāya namaḥ || </p>
-            <p xml:id="yvv-1"> catvāro vedā vijñātā bhavanti | ṛgvedo yajurvedaḥ sāmavedo
-                'tharvavedaś ceti | tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ pañca bhavanti || āśvalāyanī
-                śāṅkhāyanī śākalā bāṣkalā māṇḍūkeyāś ceti | tatra śākalasya śiṣyāḥ pañca |</p>
+            <p xml:id="yvv-1">
+                <lg>
+                    <l>catvāro vedā vijñātā bhavanti |</l>
+                    <l>ṛgvedo yajurvedaḥ sāmavedo 'tharvavedaś ceti |</l>
+                </lg> tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ pañca bhavanti || āśvalāyanī śāṅkhāyanī
+                śākalā bāṣkalā māṇḍūkeyāś ceti | tatra śākalasya śiṣyāḥ pañca |</p>
 
-            <lg>
-                <l xml:id="yvv-2">mudgalo gokhalo vātsyaḥ śārāraḥ śiśiras tathā | </l>
-                <l xml:id="yvv-3">paṃcaite śākalāḥ śiṣyāḥ śākhābhedapravartakāḥ ||</l>
-            </lg>
+            <l xml:id="yvv-2">mudgalo gokhalo vātsyaḥ śārāraḥ śiśiras tathā | </l>
+            <l xml:id="yvv-3">pañcaite śākalāḥ śiṣyāḥ śākhābhedapravartakāḥ ||</l>
+
+            <p xml:id="yvv-4">tatra sarveṣāṃ ucchinnatvāt [...] vedapārāyaṇāmnāye
+                śākalyaśaiśirīyakasaṃhitāpārāyaṇamiti |
+                pr<supplied>āti</supplied>śākhyavṛttikārasiddhāntaḥ | āśvalāyanīsūtram ityādi
+                    prakṛtānupa<supplied confidence="0.5">yu</supplied>ktena vistāreṇa prapañcitam
+                ||
+                <caesura/>
+                 yajurvedaḥ ko vā iti vicārasya prakṛtatvāt tad eva vicāryate ||
+                <caesura/>
+                 tatra tāvat karmāṇi dvividhāni bhavanti | kānicit traividhakāni agnihotrādīni |
+                kānicid ekavedasādhyāni | svasvaśākhīyaṣoḍaśasaṃskārādīni tāny api
+                karmāṅgatraividhakabrāhmaṇabhojanāntā āśīrvādapaṭhanenopacārāt traividhakāni
+                bhavanti | tatrāpi tattadvedatvena kroḍīkṛtyanām eva traividhatvaṃ | anyathā
+                vājasaneyāgnihotrasya traividhāntargatataittirīyayajurvedasādhyatvābhāve na
+                traividhakatvābhāvaprasaṅgaḥ | na ca trabhavata
+                tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena traividha<gap reason="damage"
+                    unit="akṣara" quantity="1"/><unclear reason="damage">tā</unclear> tathāpi
+                sūtrānāliṅgaitatvena pravṛttānāṃ <unclear reason="damage"
+                    >kā</unclear>pīkūpataḍāgā<del rend="crossed out">dī</del><unclear
+                    reason="overwriting">sughā</unclear>panāni sarvaśākhāsādhāraṇyena vidhāya |
+                nānāśāṃtikapauṣṭikādīnāṃ kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādī<unclear
+                    reason="damage">nī nā</unclear>nuṣṭhānaprasaṃgaḥ | tathā hi
+                tattatkarmānuṣṭhānapaddhatikārai maṃḍapapratiṣṭhāvasa<gap reason="damage"
+                    unit="akṣara" quantity="1"/>likhitaṃ | tad uktaṃ | atha yāmye | </p>
+
+            <l xml:id="yvv-5">namas te dharmarājāya tretāyugādhipāya ca |</l>
+            <l xml:id="yvv-6">yajurvedādhidevāya subha <unclear reason="eccentric_ductus"
+                    confidence="0.3">da</unclear>dvāradakṣiṇe |</l>
+
+            <p xml:id="yvv-7"><lb n="2"/>atha yajurvedadhyānaḥ<unclear reason="damaged"
+                    unit="akṣara" quantity="1" confidence="0.5">kya> </unclear> rna rākṣoyajurvedaḥ
+                    <lb n="2"/>traiṣṭubhobrahmadaivataḥ |kāśayapeyaskta vipre<unclear reason="ink"
+                    unit="akṣara" quantity="1"/>ṛtvik tvam aikha ajāsyaḥ <lb n="3"/>pītavarṇāsyā
+                yajurvedākṣa sūtradhṛk | vāmekuli <unclear reason="damage" unit="aksara"
+                    quantity="3"/> bhūtido saṃga<lb n="4"/>vasadaḥ | ityādivākyeṣu vistārabhayād
+                upekṣateṣu cānyeṣu vākyeṣu <lb n="5"/>stūyamāṇā yajuḥ śābdajāsya savecarakādi veda
+                sādhāraṇatve niga <lb n="6"/><unclear reason="damage">da</unclear>viharaprasaṃgaḥ
+                |dakṣiṇa yajurvedānāṃ ṛtvijāvityanyaviśeṣapara <lb n="7"/>tve pramāṇa saṃdeha iti
+                cet | atra vadaṃti |yajurvedaśābdasya viśeṣaratve <lb n="8"/>na ca
+                vākyapramāṇābhāvaḥ |pramāṇasamūhasya satvārthāhi |tatra tāvat caraṇa <lb n="9"
+                />vyūhāvisaṃvādi śrībhāgavatameva pramāṇaṃ |dvitīyaṃ nṛsiṃhaprasāde pratiṣṭhā <lb
+                    n="10"/>sāre sthaladvaye yajurvedavyākhyānameva pramāṇaṃ|tṛtīyaṃ caraṇavyūhe
+                yaju <lb n="11"/>rvedavyākhyānameva caturthaṛgvedātideśe na yajurvedapārāyaṇāmiti
+                    prātiḥ<pb n="3r"/><lb n="1"/>śākhyabhāṣyaṃ | paṃcamaṃ pārāyaṇaprasaṃgena
+                mahārṇavaḥ | <del>ya</del><add place="above">ta</add>traiva yajurvedaḥ chaṃdā<lb
+                    n="2"/>bhāvaḥ | saptamaṃ manubhāṣye | iṣe tveti vyākhyānaṃ | aṣṭamaṃ
+                    āpastaṃbasūtrakaparddi<lb n="3"/>bhāṣyaṃ | anyāni bahūni saṃti |
+                samayābhāvādupekṣitāni || tatra tāvatprathamamā<lb n="4"/>ha | </p>
+
+            <l xml:id="yvv-8">tenāsau caturo vedoścaturbhi rvedanai prabhuḥ | </l>
+            <l xml:id="yvv-9">sa vyāhṛtikāṃ oṃkārāścaturhotravicakṣaṇaḥ | </l>
+            <l xml:id="yvv-10">putrān adhyāpayāmāsa subrahman brahmakovidān ||</l>
+            <l xml:id="yvv-11">te tu dharmopadeṣṭāraḥ svaputrebhyaḥ samādiśat ||</l>
+            <l xml:id="yvv-12">te paraṃparayā prāptā tattachiṣyairdhṛtavrataiḥ | </l>
+            <l xml:id="yvv-13">caturyugeṣvapyastāṃ dvāpārādau maharṣibhiḥ | </l>
+            <l xml:id="yvv-14">kṣīṇāyuḥ kṣīṇasattvācca durmedhāvī svakālataḥ | </l>
+            <l xml:id="yvv-15">vedān brahmarṣayo vyastān svargatvāllokabhāvanaḥ | </l>
+            <l xml:id="yvv-16">brahmeṇaśādyairlokapālairyācito dharmaguptaye | </l>
+            <l xml:id="yvv-17">parāśarāt saivatyāmaṃśāṃ <damage/>kalayā vibhuḥ | </l>
+            <l xml:id="yvv-18">avatīrṇo mahābhāga vedaṃ cakre caturvidhaṃ | </l>
+            <l xml:id="yvv-19">ṛgatharvayajusāmnī śaśīrudhṛtya vargaśaḥ | </l>
+            <l xml:id="yvv-20">catasraḥ saṃhi<add place="below">tā</add>ś cakre maṃtrair maṇigaṇā
+                iva | </l>
+            <l xml:id="yvv-21">tāsāṃ <add place="below">tu</add> viturāchi<pb n="3v"/><lb n="1"
+                />ṣyānupāhuya mahāmatiḥ |</l>
+            <l xml:id="yvv-22">ekaikaṃ saṃhitā brahmanekaikasmai dadau vibhuḥ | </l>
+            <l xml:id="yvv-23">pai<lb n="2"/>lāyasaṃhitāmādyāṃ bahvṛcākhyāmuvāca ha | </l>
+            <l xml:id="yvv-24">vaiśaṃpāyanasaṃ<damage/>nigadākhyaṃ <lb n="3"
+                    />yajur<unclear>ga</unclear>ṇaṃ | </l>
+            <l xml:id="yvv-25">sāmnāṃ jaiminiye prāha tathā chaṃdogasahitaṃ | </l>
+            <l xml:id="yvv-26">atharvāṃgiraso nā<lb n="4"/>ma svaśiṣyāya sumaṃtave | </l>
+
+
+
+
+
         </body>
     </text>
 </TEI>
