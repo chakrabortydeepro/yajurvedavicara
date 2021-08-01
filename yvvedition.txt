@@ -5,10 +5,12 @@
             <titleStmt>
                 <title>Provisional Edition</title>
                 <title type="alt">Yajurvedavicāra</title>
-                <editor>Aniruddha Kar, Anusrita Mandal, Deepro Chakraborty, Parthasarathi Sil</editor>
+                <editor>Aniruddha Kar, Anusrita Mandal, Deepro Chakraborty, Parthasarathi
+                    Sil</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>Aniruddha Kar, Anusrita Mandal, Deepro Chakraborty, Parthasarathi Sil</authority>
+                <authority>Aniruddha Kar, Anusrita Mandal, Deepro Chakraborty, Parthasarathi
+                    Sil</authority>
                 <date calendar="Gregorian">2021</date>
                 <publisher>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</publisher>
                 <pubPlace>Edmonton, Calcutta, Agartala</pubPlace>
@@ -64,6 +66,9 @@
             <change when="2021-07-03" who="Deepro, Parthasarathi, Anusrita">
                 <p>verified the readings until the middle of yvv-4</p>
             </change>
+            <change when="2021-07-31" who="Deepro">
+                <p>verified the readings of xml:ids 5-7</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -105,29 +110,52 @@
                 tattatkarmānuṣṭhānapaddhatikārai maṃḍapapratiṣṭhāvasa<gap reason="damage"
                     unit="akṣara" quantity="1"/>likhitaṃ | tad uktaṃ | atha yāmye | </p>
 
+            <!-- the following xml:id 5-7 are verified by Deepro -->
             <l xml:id="yvv-5">namas te dharmarājāya tretāyugādhipāya ca |</l>
-            <l xml:id="yvv-6">yajurvedādhidevāya subha <unclear reason="eccentric_ductus"
-                    confidence="0.3">da</unclear>dvāradakṣiṇe |</l>
+            <l xml:id="yvv-6">yajurvedādhidevāya subhadradvāradakṣiṇe ||</l>
 
-            <p xml:id="yvv-7"><lb n="2"/>atha yajurvedadhyānaḥ<unclear reason="damaged"
-                    unit="akṣara" quantity="1" confidence="0.5">kya> </unclear> rna rākṣoyajurvedaḥ
-                    <lb n="2"/>traiṣṭubhobrahmadaivataḥ |kāśayapeyaskta vipre<unclear reason="ink"
-                    unit="akṣara" quantity="1"/>ṛtvik tvam aikha ajāsyaḥ <lb n="3"/>pītavarṇāsyā
-                yajurvedākṣa sūtradhṛk | vāmekuli <unclear reason="damage" unit="aksara"
-                    quantity="3"/> bhūtido saṃga<lb n="4"/>vasadaḥ | ityādivākyeṣu vistārabhayād
-                upekṣateṣu cānyeṣu vākyeṣu <lb n="5"/>stūyamāṇā yajuḥ śābdajāsya savecarakādi veda
-                sādhāraṇatve niga <lb n="6"/><unclear reason="damage">da</unclear>viharaprasaṃgaḥ
-                |dakṣiṇa yajurvedānāṃ ṛtvijāvityanyaviśeṣapara <lb n="7"/>tve pramāṇa saṃdeha iti
-                cet | atra vadaṃti |yajurvedaśābdasya viśeṣaratve <lb n="8"/>na ca
-                vākyapramāṇābhāvaḥ |pramāṇasamūhasya satvārthāhi |tatra tāvat caraṇa <lb n="9"
-                />vyūhāvisaṃvādi śrībhāgavatameva pramāṇaṃ |dvitīyaṃ nṛsiṃhaprasāde pratiṣṭhā <lb
-                    n="10"/>sāre sthaladvaye yajurvedavyākhyānameva pramāṇaṃ|tṛtīyaṃ caraṇavyūhe
-                yaju <lb n="11"/>rvedavyākhyānameva caturthaṛgvedātideśe na yajurvedapārāyaṇāmiti
-                    prātiḥ<pb n="3r"/><lb n="1"/>śākhyabhāṣyaṃ | paṃcamaṃ pārāyaṇaprasaṃgena
-                mahārṇavaḥ | <del>ya</del><add place="above">ta</add>traiva yajurvedaḥ chaṃdā<lb
-                    n="2"/>bhāvaḥ | saptamaṃ manubhāṣye | iṣe tveti vyākhyānaṃ | aṣṭamaṃ
-                    āpastaṃbasūtrakaparddi<lb n="3"/>bhāṣyaṃ | anyāni bahūni saṃti |
-                samayābhāvādupekṣitāni || tatra tāvatprathamamā<lb n="4"/>ha | </p>
+            <p xml:id="yvv-7">atha yajurvedadhyānam || </p>
+
+            <l xml:id="yvv-7a">kārtarākṣo yajurvedaḥ traiṣṭubho brahmadaivataḥ |</l>
+            <l xml:id="yvv-7b">kāśyapeyas tu viprendra ṛtvik tvaṃ makhe <gap unit="syllable" n="2"
+                />||</l>
+            <l xml:id="yvv-7c">ajāsyaḥ pītava<choice>
+                    <orig>rṇā</orig>
+                    <corr>rṇo</corr>
+                </choice> syād yajurve<choice>
+                    <orig>dā</orig>
+                    <corr>do</corr>
+                </choice> 'kṣasūtradhṛk |</l>
+            <l xml:id="yvv-7d">vāme kuliśapāṇis tu bhūtido maṅgalapradaḥ ||</l>
+
+            <p xml:id="yvv-7e">ityādivākyeṣu vistārabhayād upe<choice>
+                    <orig>kṣa</orig>
+                    <corr>kṣi</corr>
+                </choice>teṣu cānyeṣu vākyeṣu śrūyamāṇo yajuḥśābdas tasya sarve
+                carakādivedasādhāraṇatve nigadaviharaprasaṅgaḥ | dakṣiṇe yajurvedānāṃ ṛtvijāv ity
+                atra viśeṣaparatve pramāṇasandeha iti cet | atra vadanti |
+                <caesura/>
+                 yajurvedaśābdasya viśeṣaparatvena ca vākyapramāṇābhāvaḥ | pramāṇasamūhasya
+                    <sic>satvā</sic> tathā hi | tatra tāvat caraṇavyūhāvisaṃvādi śrībhāgavatam eva
+                pramāṇam |
+                <caesura/>
+                 dvitīyaṃ nṛsiṃhaprasāde pratiṣṭhāsāre sthaladvaye yajurvedavyākhyānam eva pramāṇaṃ|
+                <caesura/>
+                 tṛtīyaṃ caraṇavyūhe yajurvedalakṣaṇam eva |
+                <caesura/>
+                 caturthaṃ ṛgvedātideśena yajurvedapārāyaṇām iti prātiśākhyabhāṣyam |
+                <caesura/>
+                 pañcamaṃ pārāyaṇaprasaṅgena mahārṇavaḥ |
+                <caesura/>
+                tatraiva yajurvedaḥ chandābhāvaḥ |
+                <caesura/>
+                 saptamaṃ manubhāṣye | iṣe tveti vyākhyānam |
+                <caesura/>
+                 aṣṭamam āpastambasūtrakapardibhāṣyaṃ |
+                <caesura/>
+                 anyāni bahūni santi | samayābhāvād upekṣitāni ||
+                <caesura/>
+                 tatra tāvat prathamam āha | </p>
 
             <l xml:id="yvv-8">tenāsau caturo vedoścaturbhi rvedanai prabhuḥ | </l>
             <l xml:id="yvv-9">sa vyāhṛtikāṃ oṃkārāścaturhotravicakṣaṇaḥ | </l>
@@ -151,6 +179,14 @@
                     />yajur<unclear>ga</unclear>ṇaṃ | </l>
             <l xml:id="yvv-25">sāmnāṃ jaiminiye prāha tathā chaṃdogasahitaṃ | </l>
             <l xml:id="yvv-26">atharvāṃgiraso nā<lb n="4"/>ma svaśiṣyāya sumaṃtave | </l>
+
+
+
+
+
+
+
+
 
 
 
