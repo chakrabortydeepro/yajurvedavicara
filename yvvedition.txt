@@ -69,6 +69,9 @@
             <change when="2021-07-31" who="Deepro">
                 <p>verified the readings of xml:ids 5-7</p>
             </change>
+            <change when="2021-07-31" who="Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-4</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -96,19 +99,15 @@
                 <caesura/>
                  tatra tāvat karmāṇi dvividhāni bhavanti | kānicit traividhakāni agnihotrādīni |
                 kānicid ekavedasādhyāni | svasvaśākhīyaṣoḍaśasaṃskārādīni tāny api
-                karmāṅgatraividhakabrāhmaṇabhojanāntā āśīrvādapaṭhanenopacārāt traividhakāni
-                bhavanti | tatrāpi tattadvedatvena kroḍīkṛtyanām eva traividhatvaṃ | anyathā
+                karmāṅgatraividhakabrāhmaṇabhojanāntā<supplied>ny</supplied> āśīrvādapaṭhanenopacārāt traividhakāni
+                bhavanti | tatrāpi tattadvedatvena kroḍīkṛtānām eva traividhatvam | anyathā
                 vājasaneyāgnihotrasya traividhāntargatataittirīyayajurvedasādhyatvābhāve na
-                traividhakatvābhāvaprasaṅgaḥ | na ca trabhavata
-                tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena traividha<gap reason="damage"
-                    unit="akṣara" quantity="1"/><unclear reason="damage">tā</unclear> tathāpi
-                sūtrānāliṅgaitatvena pravṛttānāṃ <unclear reason="damage"
-                    >kā</unclear>pīkūpataḍāgā<del rend="crossed out">dī</del><unclear
-                    reason="overwriting">sughā</unclear>panāni sarvaśākhāsādhāraṇyena vidhāya |
-                nānāśāṃtikapauṣṭikādīnāṃ kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādī<unclear
-                    reason="damage">nī nā</unclear>nuṣṭhānaprasaṃgaḥ | tathā hi
-                tattatkarmānuṣṭhānapaddhatikārai maṃḍapapratiṣṭhāvasa<gap reason="damage"
-                    unit="akṣara" quantity="1"/>likhitaṃ | tad uktaṃ | atha yāmye | </p>
+                traividhakatvābhāvaprasaṅgaḥ | na <choice><orig>ca</orig><corr>cā</corr></choice>tra bhavatu
+                tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena traividha<supplied>ka</supplied>tvam | tathāpi
+                <sic>sūtrānāliṅgaitatvena</sic> pravṛttānāṃ vāpīkūpataḍāgādīṣu dhāpanāni sarvaśākhāsādhāraṇyena vidhāya |
+                nānāśāntikapauṣṭikādīnāṃ kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādīnāṃ vānuṣṭhānaprasaṅgaḥ | tathā hi
+                tattatkarmānuṣṭhānapaddhatikārair maṇḍapapratiṣṭhāvasa<gap reason="damage"
+                    unit="akṣara" quantity="1"/>likhitam | tad uktam | atha yāmye | </p>
 
             <!-- the following xml:id 5-7 are verified by Deepro -->
             <l xml:id="yvv-5">namas te dharmarājāya tretāyugādhipāya ca |</l>
@@ -143,7 +142,7 @@
                 <caesura/>
                  tṛtīyaṃ caraṇavyūhe yajurvedalakṣaṇam eva |
                 <caesura/>
-                 caturthaṃ ṛgvedātideśena yajurvedapārāyaṇām iti prātiśākhyabhāṣyam |
+                 caturthaṃ ṛgvedātideśena yajurvedapārāyaṇām iti prāti<choice><orig>ḥ</orig><corr></corr></choice>śākhyabhāṣyam |
                 <caesura/>
                  pañcamaṃ pārāyaṇaprasaṅgena mahārṇavaḥ |
                 <caesura/>

@@ -170,20 +170,20 @@
         <lb n="6"/>rāyaṇāmnāye śākalyaśaiśirīyakasaṃhitāpārāyaṇamiti | prā<supplied><lb n="7"
           />ti</supplied>śākhyavṛttikārasiddhāṃtaḥ | āśvalāyanasūtramityādi prakṛtānupa<gap
           unit="syllable" n="1"/><lb n="8"/>ktena vistāreṇa prapaṃcitaṃ || yajurvedaḥ ko vā iti
-        vicārasya prakṛtatvā<lb n="7"/>ttadeva vicāryate || tatra tāvatkarmāṇi dvividhāni bhavaṃti |
+        vicārasya prakṛtatvā<lb n="7"/>t tad eva vicāryate || tatra tāvatkarmāṇi dvividhāni bhavaṃti |
           kānicittraividha<lb n="7"/>kāni agnihotrādīni | kānicidekavedasādhyāni |
           svasvaśākhīyaṣo<pb n="2r"/><lb n="1"/>ḍaśa saṃskārādīni tāny api
         karmāṃgatraividhakabrāhmaṇabhojanāṃtā ā<lb n="2"/>śīrvādapaṭhanenopacārāt traividhakāni
         bhavaṃti | tatrāpi tattadvedatvena <unclear reason="eccentric_ductus">kro<lb n="3"
-          />ḍī</unclear>kṛtyanām eva traividhatvaṃ | anyathā vājasaneyāgnihotrasya
+          />ḍī</unclear>kṛ<unclear>tā</unclear>nām eva traividhatvaṃ | anyathā vājasaneyāgnihotrasya
           traividhāntarga<lb n="4"/>tataittirīyayajurvedasādhyatvābhāve na
-        traividhakatvābhāvaprasaṅgaḥ | na ca tra<lb n="5"/>bhavata
+        traividhakatvābhāvaprasaṅgaḥ | na <sic>ca</sic>tra<lb n="5"/> bhava<unclear>tu</unclear>
         tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena traividha<lb n="6"/><gap
-          reason="damage" unit="akṣara" quantity="1"/><unclear reason="damage">tā</unclear> tathāpi
-        sūtrānāliṅgaitatvena pravṛttānāṃ <unclear reason="damage">kā</unclear>pīkūpataḍāgā<del
-          rend="crossed out">dī</del><unclear reason="overwriting">sughā</unclear><lb n="7"/>panāni
+          reason="damage" unit="akṣara" quantity="1"/><unclear reason="damage">tvaṃ</unclear> | tathāpi
+        sūtrānāliṅgaitatvena pravṛttānāṃ <unclear reason="damage">vā</unclear>pīkūpataḍāgā<del
+          rend="crossed out">dī</del><unclear reason="overwriting">ṣu dhā</unclear><lb n="7"/>panāni
         sarvaśākhāsādhāraṇyena vidhāya | nānāśāṃtikapauṣṭikādīnāṃ <lb n="8"/>kāmyānāṃ
-          rudrānuṣṭhānalakṣahomakoṭihomādī<unclear reason="damage">nī nā</unclear>nuṣṭhānaprasaṃgaḥ
+          rudrānuṣṭhānalakṣahomakoṭihomādī<unclear reason="damage">nāṃ vā</unclear>nuṣṭhānaprasaṃgaḥ
         | <lb n="9"/>tathā hi tattatkarmānuṣṭhānapaddhatikārai maṃḍapapratiṣṭhāvasa<gap
           reason="damage" unit="akṣara" quantity="1"/>likhitaṃ | ta<lb n="10"/>d uktaṃ | atha yāmye
         | </p>
