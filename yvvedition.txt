@@ -130,7 +130,7 @@
             <p xml:id="yvv-7e">ityādivākyeṣu vistārabhayād upe<choice>
                     <orig>kṣa</orig>
                     <corr>kṣi</corr>
-                </choice>teṣu cānyeṣu vākyeṣu śrūyamāṇo yajuḥśābdas tasya sarve
+                </choice>teṣu cānyeṣu vākyeṣu śrūyamāṇo yajuḥśabdas tasya sarve
                 carakādivedasādhāraṇatve nigadaviharaprasaṅgaḥ | dakṣiṇe yajurvedānāṃ ṛtvijāv ity
                 atra viśeṣaparatve pramāṇasandeha iti cet | atra vadanti |
                 <caesura/>
