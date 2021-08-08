@@ -72,6 +72,9 @@
             <change when="2021-07-31" who="Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-4</p>
             </change>
+            <change when="2021-08-07" who="Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-8-26</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -99,15 +102,20 @@
                 <caesura/>
                  tatra tāvat karmāṇi dvividhāni bhavanti | kānicit traividhakāni agnihotrādīni |
                 kānicid ekavedasādhyāni | svasvaśākhīyaṣoḍaśasaṃskārādīni tāny api
-                karmāṅgatraividhakabrāhmaṇabhojanāntā<supplied>ny</supplied> āśīrvādapaṭhanenopacārāt traividhakāni
-                bhavanti | tatrāpi tattadvedatvena kroḍīkṛtānām eva traividhatvam | anyathā
-                vājasaneyāgnihotrasya traividhāntargatataittirīyayajurvedasādhyatvābhāve na
-                traividhakatvābhāvaprasaṅgaḥ | na <choice><orig>ca</orig><corr>cā</corr></choice>tra bhavatu
-                tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena traividha<supplied>ka</supplied>tvam | tathāpi
-                <sic>sūtrānāliṅgaitatvena</sic> pravṛttānāṃ vāpīkūpataḍāgādīṣu dhāpanāni sarvaśākhāsādhāraṇyena vidhāya |
-                nānāśāntikapauṣṭikādīnāṃ kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādīnāṃ vānuṣṭhānaprasaṅgaḥ | tathā hi
-                tattatkarmānuṣṭhānapaddhatikārair maṇḍapapratiṣṭhāvasa<gap reason="damage"
-                    unit="akṣara" quantity="1"/>likhitam | tad uktam | atha yāmye | </p>
+                    karmāṅgatraividhakabrāhmaṇabhojanāntā<supplied>ny</supplied>
+                āśīrvādapaṭhanenopacārāt traividhakāni bhavanti | tatrāpi tattadvedatvena
+                kroḍīkṛtānām eva traividhatvam | anyathā vājasaneyāgnihotrasya
+                traividhāntargatataittirīyayajurvedasādhyatvābhāve na traividhakatvābhāvaprasaṅgaḥ |
+                na <choice>
+                    <orig>ca</orig>
+                    <corr>cā</corr>
+                </choice>tra bhavatu tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena
+                    traividha<supplied>ka</supplied>tvam | tathāpi <sic>sūtrānāliṅgaitatvena</sic>
+                pravṛttānāṃ vāpīkūpataḍāgādīṣu dhāpanāni sarvaśākhāsādhāraṇyena vidhāya |
+                nānāśāntikapauṣṭikādīnāṃ kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādīnāṃ
+                vānuṣṭhānaprasaṅgaḥ | tathā hi tattatkarmānuṣṭhānapaddhatikārair
+                    maṇḍapapratiṣṭhāvasa<gap reason="damage" unit="akṣara" quantity="1"/>likhitam |
+                tad uktam | atha yāmye | </p>
 
             <!-- the following xml:id 5-7 are verified by Deepro -->
             <l xml:id="yvv-5">namas te dharmarājāya tretāyugādhipāya ca |</l>
@@ -142,11 +150,14 @@
                 <caesura/>
                  tṛtīyaṃ caraṇavyūhe yajurvedalakṣaṇam eva |
                 <caesura/>
-                 caturthaṃ ṛgvedātideśena yajurvedapārāyaṇām iti prāti<choice><orig>ḥ</orig><corr></corr></choice>śākhyabhāṣyam |
+                 caturthaṃ ṛgvedātideśena yajurvedapārāyaṇām iti prāti<choice>
+                    <orig>ḥ</orig>
+                    <corr/>
+                </choice>śākhyabhāṣyam |
                 <caesura/>
                  pañcamaṃ pārāyaṇaprasaṅgena mahārṇavaḥ |
                 <caesura/>
-                tatraiva yajurvedaḥ chandābhāvaḥ |
+                 tatraiva yajurvedaḥ chandābhāvaḥ |
                 <caesura/>
                  saptamaṃ manubhāṣye | iṣe tveti vyākhyānam |
                 <caesura/>
@@ -155,29 +166,30 @@
                  anyāni bahūni santi | samayābhāvād upekṣitāni ||
                 <caesura/>
                  tatra tāvat prathamam āha | </p>
+            
+            <!-- the following texts are from Bhāgavatapurāṇa 12.6.44 -->
 
-            <l xml:id="yvv-8">tenāsau caturo vedoścaturbhi rvedanai prabhuḥ | </l>
-            <l xml:id="yvv-9">sa vyāhṛtikāṃ oṃkārāścaturhotravicakṣaṇaḥ | </l>
+            <l xml:id="yvv-8">tenāsau caturo vedā<supplied>ṃ</supplied>ś caturbhir vadanai<supplied>ḥ</supplied> prabhuḥ | </l>
+            <l xml:id="yvv-9">sa vyāhṛtikān soṅkārāṃś caturhotravicakṣaṇaḥ | </l>
             <l xml:id="yvv-10">putrān adhyāpayāmāsa subrahman brahmakovidān ||</l>
-            <l xml:id="yvv-11">te tu dharmopadeṣṭāraḥ svaputrebhyaḥ samādiśat ||</l>
-            <l xml:id="yvv-12">te paraṃparayā prāptā tattachiṣyairdhṛtavrataiḥ | </l>
-            <l xml:id="yvv-13">caturyugeṣvapyastāṃ dvāpārādau maharṣibhiḥ | </l>
-            <l xml:id="yvv-14">kṣīṇāyuḥ kṣīṇasattvācca durmedhāvī svakālataḥ | </l>
-            <l xml:id="yvv-15">vedān brahmarṣayo vyastān svargatvāllokabhāvanaḥ | </l>
-            <l xml:id="yvv-16">brahmeṇaśādyairlokapālairyācito dharmaguptaye | </l>
-            <l xml:id="yvv-17">parāśarāt saivatyāmaṃśāṃ <damage/>kalayā vibhuḥ | </l>
-            <l xml:id="yvv-18">avatīrṇo mahābhāga vedaṃ cakre caturvidhaṃ | </l>
-            <l xml:id="yvv-19">ṛgatharvayajusāmnī śaśīrudhṛtya vargaśaḥ | </l>
-            <l xml:id="yvv-20">catasraḥ saṃhi<add place="below">tā</add>ś cakre maṃtrair maṇigaṇā
+            <l xml:id="yvv-11">te tu dharmopadeṣṭāraḥ svaputrebhyaḥ samādiśan ||</l>
+            <l xml:id="yvv-12">te paraṃparayā prāptās tattacchiṣyair dhṛtavrataiḥ | </l>
+            <l xml:id="yvv-13">caturyugeṣv a<supplied>tha</supplied>vyastā dvāparādau maharṣibhiḥ | </l>
+            <l xml:id="yvv-14">kṣīṇāyuḥkṣīṇasattvāñ ca durmedhān vīkṣya kālataḥ | </l>
+            <l xml:id="yvv-15">vedān brahmarṣayo vyastān svargatvāl lokabhāvanaḥ | </l>
+            <l xml:id="yvv-16">brahmeśādyair lokapālair yācito dharmaguptaye | </l>
+            <l xml:id="yvv-17">parāśarāt satyavatyām aṃśāṃśakalayā vibhuḥ | </l>
+            <l xml:id="yvv-18">avatīrṇo mahābhāga vedaṃ cakre caturvidham | </l>
+            <l xml:id="yvv-19">ṛgatharvayajussāmnāṃ rāśīr uddhṛtya vargaśaḥ | </l>
+            <l xml:id="yvv-20">catasraḥ saṃhitāś cakre mantrair maṇigaṇā
                 iva | </l>
-            <l xml:id="yvv-21">tāsāṃ <add place="below">tu</add> viturāchi<pb n="3v"/><lb n="1"
-                />ṣyānupāhuya mahāmatiḥ |</l>
-            <l xml:id="yvv-22">ekaikaṃ saṃhitā brahmanekaikasmai dadau vibhuḥ | </l>
-            <l xml:id="yvv-23">pai<lb n="2"/>lāyasaṃhitāmādyāṃ bahvṛcākhyāmuvāca ha | </l>
-            <l xml:id="yvv-24">vaiśaṃpāyanasaṃ<damage/>nigadākhyaṃ <lb n="3"
-                    />yajur<unclear>ga</unclear>ṇaṃ | </l>
-            <l xml:id="yvv-25">sāmnāṃ jaiminiye prāha tathā chaṃdogasahitaṃ | </l>
-            <l xml:id="yvv-26">atharvāṃgiraso nā<lb n="4"/>ma svaśiṣyāya sumaṃtave | </l>
+            <l xml:id="yvv-21">tāsāṃ tu caturaḥ śiṣyān upāhūya mahāmatiḥ |</l>
+            <l xml:id="yvv-22">ekaikaṃ saṃhitā<supplied>ṃ</supplied> brahman ekaikasmai dadau vibhuḥ | </l>
+            <l xml:id="yvv-23">pailāya saṃhitām ādyāṃ bahvṛcākhyām uvāca ha | </l>
+            <l xml:id="yvv-24">vaiśaṃpāyanasaṃjñāya nigadākhyaṃ yajurgaṇam | </l>
+            <l xml:id="yvv-25">sāmnāṃ jaiminaye prāha tathā chandogasa<supplied>ṃ</supplied>hitām | </l>
+            <l xml:id="yvv-26">atharvāṅgirasaṃ nāma svaśiṣyāya sumantave | </l>
+
 
 
 
