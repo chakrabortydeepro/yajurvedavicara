@@ -75,6 +75,9 @@
             <change when="2021-08-07" who="Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-8-26</p>
             </change>
+            <change when="2021-08-21" who="Aniruddha Anusrita Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-27-39</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -189,18 +192,21 @@
             <l xml:id="yvv-24">vaiśaṃpāyanasaṃjñāya nigadākhyaṃ yajurgaṇam | </l>
             <l xml:id="yvv-25">sāmnāṃ jaiminaye prāha tathā chandogasa<supplied>ṃ</supplied>hitām | </l>
             <l xml:id="yvv-26">atharvāṅgirasaṃ nāma svaśiṣyāya sumantave | </l>
-
-
-
-
-
-
-
-
-
-
-
-
+            
+            <p xml:id="yvv-27">tatrāpy ādau taittirīyaśākhotpattiprastāvam āha | </p>
+            
+            <l xml:id="yvv-28">vaiśampāyanaśiṣyā vai carakādhvaryavo 'bhavan |</l>
+            <l xml:id="yvv-29">yac cerur brahmahatyāṃhaḥ kṣapaṇaṃ svaguror vratam || </l>
+            <l xml:id="yvv-30">yājñavalkyaś ca tacchiṣya āhāho bhagavān kiyat | </l>
+            <l xml:id="yvv-31">caritenālpasārāṇāṃ cariṣye 'haṃ suduścaram || </l>
+            <l xml:id="yvv-32">ity ukto gurur apy āha kupito yāhy alaṃ tvayā | </l>
+            <l xml:id="yvv-33">viprāvamantrā śiṣyeṇa ma<supplied>da</supplied>dhītaṃ tu tyajatv iti ||</l>
+            <l xml:id="yvv-34">devarātasutaḥ so 'pi viditvā yajuṣāṃ gaṇān | </l>
+            <l xml:id="yvv-35">tato gato 'tha munayo dadṛśus tān yajurgaṇān || </l>
+            <l xml:id="yvv-36">yajūṃṣi tittirā bhūtvā tallolupatayādaduḥ | </l>
+            <l xml:id="yvv-37">taittirīyā iti yajuḥśākhā āsan sūpeśalāḥ || </l>
+            <l xml:id="yvv-38">yājñavalkyas tato brahman chandāṃsy adhigaveṣayan | </l>
+            <l xml:id="yvv-39">guror avidyamānāni sūpatasthe 'rkam īśvaram| </l>
 
 
         </body>

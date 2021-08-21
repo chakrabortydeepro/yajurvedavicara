@@ -148,6 +148,9 @@
       <change when="2021-08-01" who="Deepro and Parthasarathi">
         <p>updated the transcription</p>
       </change>
+      <change when="2021-08-21" who="Aniruddha Anusrita Parthasarathi and Deepro">
+        <p>updated the transcription</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -266,21 +269,21 @@
           unit="syllable" n="1"/>nigadākhyaṃ <lb n="3"/>yajur<unclear>ga</unclear>ṇaṃ | </l>
       <l xml:id="yvv-25">sāmnāṃ jaimi<sic>ni</sic>ye prāha tathā chaṃdogasahit<unclear reason="damage">a</unclear>ṃ | </l>
       <l xml:id="yvv-26">atharvāṃgira<sic>so</sic> nā<lb n="4"/>ma svaśiṣyāya sumaṃtave | </l>
-
-
+      
       <p xml:id="yvv-27">tatrāpyādau taittirīyaśākhotpattiprastāvamāha | </p>
-      <l xml:id="yvv-28">vai<lb n="5"/>śaṃpāyanaśiṣyā vai carakādhvaryavobhavan |</l>
-      <l xml:id="yvv-29">yaccaikabrahmahatyāṃhaḥ kṣapaṇasya <lb n="6"/>gurorvrataṃ | </l>
-      <l xml:id="yvv-30">yājñavalkyasya tachiṣyā āhāho bhagavān kiyat | </l>
-      <l xml:id="yvv-31">caritenā<lb n="7"/>lpasārāṇāṃ cariṣyehaṃ suduścaraṃ | </l>
-      <l xml:id="yvv-32">ityukto gururapyāha kupito yātyalaṃ tvayā | </l>
+      
+      <l xml:id="yvv-28">vai<lb n="5"/>śaṃpāyanaśiṣyā vai carakādhvaryavo bhavan |</l>
+      <l xml:id="yvv-29">yac cerur brahmahatyāṃhaḥ kṣapaṇaṃ sva<lb n="6"/>guror vrataṃ | </l>
+      <l xml:id="yvv-30">yājñavalkya<sic>sya</sic> tachiṣyā āhāho bhagavān kiyat | </l>
+      <l xml:id="yvv-31">caritenā<lb n="7"/>lpasārāṇāṃ cariṣye haṃ suduścaraṃ | </l>
+      <l xml:id="yvv-32">ity ukto gurur apy āha kupito yāhy alaṃ tvayā | </l>
       <l xml:id="yvv-33"><lb n="8"/>viprāvamaṃtrā śiṣyeṇa madhītaṃ tu tyajatviti ||</l>
-      <l xml:id="yvv-34">devarātaḥ sutaḥ sopi viditvā ya<lb n="9"/>juṣāṃ gaṇaṃ | </l>
-      <l xml:id="yvv-35">tato gatotha munayo dadarśustān yajurgaṇān | </l>
-      <l xml:id="yvv-36">yājuṣī ttaittirī bhūtvā <lb n="10"/>tallolupatayādaduḥ | </l>
-      <l xml:id="yvv-37">taittirīyā iti yajuḥśākhā āsansūpeśalaḥ | </l>
-      <l xml:id="yvv-38">yājñava<lb n="11"/>lkyastato brahman chaṃdāṃsyadhigaveṣayat | </l>
-      <l xml:id="yvv-39">guror avidyamānāni tapasta<unclear>sve</unclear><pb n="4r"/><lb n="1"/>
+      <l xml:id="yvv-34">devarāta<sic>ḥ</sic> sutaḥ so pi viditvā ya<lb n="9"/>juṣāṃ ga<sic>ṇaṃ</sic> | </l>
+      <l xml:id="yvv-35">tato gato tha munayo da<sic>darśu</sic>s tān yajurgaṇān | </l>
+      <l xml:id="yvv-36"><sic>yājuṣī</sic> ttaittirībhūtvā <lb n="10"/>tallolupatayādaduḥ | </l>
+      <l xml:id="yvv-37">taittirīyā iti yajuḥśākhā āsan sūpeśa<sic>laḥ</sic> | </l>
+      <l xml:id="yvv-38">yājñava<lb n="11"/>lkyas tato brahman chaṃdāṃsy adhigaveṣayat | </l>
+      <l xml:id="yvv-39">guror avidyamānāni <sic>stapasta</sic><unclear>sthe</unclear><pb n="4r"/><lb n="1"/>
         rkam īśvaram| </l>
 
       <p xml:id="yvv-40">yājñavalkya uvāca | oṃ namo bhagavatetyādi | jārtorbhuṃkte ucchiṣṭarvā<lb
