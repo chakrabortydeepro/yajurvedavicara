@@ -81,6 +81,9 @@
             <change when="2021-09-05" who="Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-53-60</p>
             </change>
+            <change when="2021-09-05" who="Parthasarathi Deepro and Aniruddh">
+                <p>verified the readings of xml:ids yvv-60-65</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -255,11 +258,23 @@
             <lg>
                 <l xml:id="yvv-54">yajurvedataroḥ śākhāḥ saptaviṃśan mahāmune | </l>
                 <l xml:id="yvv-55">vaiśampāyananāmāsau vyāsaśiṣyaś cakāra vai || </l>
-                <l xml:id="yvv-56">śiṣyebhyaḥ pradadau tāś ca jagṛhus te 'py anukramāt | </l>
-                <l xml:id="yvv-57">yājñavalkyas tu tasyābhūd brahmarātasuto dvijaḥ || </l>
-                <l xml:id="yvv-58">śiṣyaḥ paramadharmajño guruvṛttirataḥ sadā | </l>
-                <l xml:id="yvv-59">ṛṣir yo 'dya mahāmerau samāje nāgamiṣyati || </l>
-                <l xml:id="yvv-60">tasya vai saptarātraṃ tu brahmahatyā bhaviṣyati | </l>
+                <l xml:id="yvv-56">śiṣyebhyaḥ pradadau tāś ca jagṛhus te 'py anukramāt || </l>
+                <l xml:id="yvv-57">yājñavalkyas tu tasyābhūd brahmarātasuto dvijaḥ | </l>
+                <l xml:id="yvv-58">śiṣyaḥ paramadharmajño guruvṛttirataḥ sadā || </l>
+                <l xml:id="yvv-59">ṛṣir yo 'dya mahāmerau samāje nāgamiṣyati | </l>
+                <l xml:id="yvv-60">tasya vai saptarātraṃ tu brahmahatyā bhaviṣyati || </l>
+                
+                <l xml:id="yvv-61">pūrvam evaṃ munigaṇaiḥ samayo yaḥ kṛto dvija | </l>
+                <l xml:id="yvv-62">vaiśampāyana ekas tu taṃ vyatikrāntavāṃs tathā || </l>
+                <l xml:id="yvv-63">svastriyaṃ bālakaṃ so 'tha padā spṛṣṭam aghātayat | </l>
+                <l xml:id="yvv-64">śiṣyān āhūya bho śiṣyā brahmahatyāpahaṃ vrataṃ | </l>
+                <l xml:id="yvv-65">caradhva<supplied>ṃ</supplied> matkṛte sarvair na vicāryam idaṃ tathā ||</l>
+                <!-- <l xml:id="yvv-66">athāha yājñavalkyas taṃ kim etair va ebhir dvijaiḥ | </l>
+                <l xml:id="yvv-67">kleśitairalpatejobhiścariṣyehamidaṃ vrataṃ ||</l>
+                <l xml:id="yvv-68">tataḥ kruddho <lb n="7"/>guruḥ prāha yājñavalkyaṃ mahāmuniṃ ||</l>
+                <l xml:id="yvv-69">mucyatāṃ yatvayādhītāṃ matto viśavamānakaḥ | </l>
+                <l xml:id="yvv-70"><lb n="8"/>nistejasā vadasyetān yastvaṃ brāhmaṇadveṣṭinaḥ | </l>
+                <l>tena śiṣyeṇa nāryosti mamā<lb n="9"/>jñābhaṃgakāriṇā ||</l> -->
             </lg>
 
 

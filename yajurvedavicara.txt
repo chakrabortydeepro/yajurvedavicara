@@ -154,6 +154,9 @@
       <change when="2021-09-05" who="Parthasarathi and Deepro">
         <p>updated the transcription</p>
       </change>
+      <change when="2021-09-19" who="Parthasarathi Deepro and Aniruddha">
+        <p>updated the transcription</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -336,16 +339,16 @@
         <l xml:id="yvv-59">ṛṣi<del>rye</del><add place="above">r yo</add> dya mahāmerau sa<lb n="2"
           />māje nāgamiṣyati | </l>
         <l xml:id="yvv-60">tasya vai saptarātraṃ tu brahmahatyā bhaviṣyati | </l>
-        <l>pūrvamena muni<lb n="3"/>gaṇaiḥ samayopahūto dvijaḥ | </l>
-        <l>vaiśaṃpāyana ekastu taṃ vyatikrāṃtavāṃstathā | </l>
-        <l>sva<lb n="4"/>striyaṃ bālakaṃ sotha padāspṛṣṭamaghātayat | </l>
-        <l>śiṣyānāhūya bho śiṣyā brahmahatyā <lb n="5"/>paraṃ vrataṃ | </l>
-        <l>caradhva matkṛte sarvairna vicāryamidaṃ tathā ||</l>
-        <l>athāha yājñavalkyastaṃ <lb n="6"/>kimetai<unclear>rva e</unclear>bhirdvijaiḥ | </l>
-        <l>kleśitairalpatejobhiścariṣyehamidaṃ vrataṃ ||</l>
-        <l>tataḥ kruddho <lb n="7"/>guruḥ prāha yājñavalkyaṃ mahāmuniṃ ||</l>
-        <l>mucyatāṃ yatvayādhītāṃ matto viśavamānakaḥ | </l>
-        <l><lb n="8"/>nistejasā vadasyetān yastvaṃ brāhmaṇadveṣṭinaḥ | </l>
+        <l xml:id="yvv-61">pūrvam e<sic>na</sic>ṃ muni<lb n="3"/>gaṇaiḥ samayo ya<sic>ṃ</sic> kṛto dvija<del rend="crossed out">ḥ</del> | </l>
+        <l xml:id="yvv-62">vaiśaṃpāyana ekas tu taṃ vyatikrāṃtavāṃs tathā | </l>
+        <l xml:id="yvv-63">sva<lb n="4"/>striyaṃ bālakaṃ so tha padā spṛṣṭam aghātayat | </l>
+        <l xml:id="yvv-64">śiṣyān āhūya bho śiṣyā brahmahatyā <lb n="5"/>paraṃ vrataṃ | </l>
+        <l xml:id="yvv-65">caradhva matkṛte sarvair na vicāryam idaṃ tathā ||</l>
+        <l xml:id="yvv-66">athāha yājñavalkyas taṃ <lb n="6"/>kim etai<unclear>r va e</unclear>bhir dvijaiḥ | </l>
+        <l xml:id="yvv-67">kleśitairalpatejobhiścariṣyehamidaṃ vrataṃ ||</l>
+        <l xml:id="yvv-68">tataḥ kruddho <lb n="7"/>guruḥ prāha yājñavalkyaṃ mahāmuniṃ ||</l>
+        <l xml:id="yvv-69">mucyatāṃ yatvayādhītāṃ matto viśavamānakaḥ | </l>
+        <l xml:id="yvv-70"><lb n="8"/>nistejasā vadasyetān yastvaṃ brāhmaṇadveṣṭinaḥ | </l>
         <l>tena śiṣyeṇa nāryosti mamā<lb n="9"/>jñābhaṃgakāriṇā ||</l>
         <l>yājñavalkyastataḥ prāha bha<unclear>tryai</unclear> tattena yoditaṃ | </l>
         <l>mamāpyalaṃ tvayā<lb n="9"/>dhītaṃ yanmayā tadidaṃ dvija | </l>
