@@ -81,8 +81,14 @@
             <change when="2021-09-05" who="Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-53-60</p>
             </change>
-            <change when="2021-09-05" who="Parthasarathi Deepro and Aniruddh">
+            <change when="2021-09-19" who="Parthasarathi Deepro and Aniruddh">
                 <p>verified the readings of xml:ids yvv-60-65</p>
+            </change>
+            <change when="2021-09-24" who="Deepro">
+                <p>verified the readings of xml:ids yvv-40-42</p>
+            </change>
+            <change when="2021-09-24" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-43-45</p>
             </change>
         </revisionDesc>
     </teiHeader>
@@ -218,22 +224,22 @@
 
             <l xml:id="yvv-40">yājñavalkya uvāca |
                 <caesura/>
-                 oṃ namo bhagavatetyādi
-                |<!-- jīrṇe bhukte ucchiṣṭarvā<lb n="2"/>te yātayāma śabde iti
-                nighaṇṭuḥ | evamevārthaḥ | yātayāma yajuḥ | kāma upasarā<lb n="3"/>mītyaṃta tuṣṭāva
+                 oṃ namo bhagavate <supplied>i</supplied>tyādi
+                | <supplied>a</supplied>jīrṇabhukte ucchiṣṭavānte yātayāmaśabda iti
+                nighaṇṭuḥ |<!-- corrected according to the entry "Kṛṣṇayajurveda" in Vācaspatyam p.2217-->  evam evārthaḥ | yātayāmayajuḥkāma upasarāmītyantaṃ tuṣṭāva
                 | </l>
 
-            <l xml:id="yvv-41">evamuktaḥ sa bhagavān vājīrūpadharo hariḥ | </l>
-            <l xml:id="yvv-42">yajuṃṣya yātayā<lb n="4"/>māni munaye dātprasādataḥ | </l>
-            <l xml:id="yvv-43">yajurbhirakarochākhā dvatrā śa paṃcadaśau rvibhuḥ | </l>
-            <l xml:id="yvv-44">jagadu<lb n="5"/>rvājasanyastāḥ kāṇvāmādhyaṃdinādayaḥ | </l>
+            <l xml:id="yvv-41">evam uktaḥ sa bhagavān vājirūpadharo hariḥ | </l>
+            <l xml:id="yvv-42">yajūṃṣy ayātayāmāni munaye 'dāt prasādataḥ<!--"prasāditaḥ" in other places --> || </l>
+            <l xml:id="yvv-43">yajurbhir akaroc chākhā daśa pañcadaśair vibhuḥ | </l>
+            <l xml:id="yvv-44">jagṛhur vājasanyas tāḥ kāṇvamādhyandinādayaḥ || </l>
 
-            <p xml:id="yvv-45"> ityādi graṃthaparyālocanayā yaju<lb n="6"/>rveda sā gānaṃtaraṃ
-                devarātasutena ābrāhmaṇatva bhiyātsavitaḥ sūryo vājī<lb n="7"/> rūpeṇa vājebhyaḥ
-                kesarebhyaḥ vājena vegena vā sa nyakhā tyaktāḥ| śākhā vāja<lb n="8"/>sanīyasaṃjñā |
-                śākhā raṃ utva parihārārthaṃ cāturvedyatvasaṃkhyā saṃrakṣaṇārthaṃ<lb n="9"/>ca
-                vājīrūpeṇa sūryeṇa | yātayāmāni yāni yajūṃṣi munaye ca yāni tai ryajurbhi<lb n="10"
-                />raparitaiḥ sa muninā vājasanyaḥ paṃcadaśa śākhā akarot | tasmāc ca muneḥ <lb
+            <p xml:id="yvv-45"> ityādigranthaparyālocanayā yajurvedatyāgānantaraṃ
+                devarātasutena abrāhmaṇatvabhiyā savitā sūryo
+                vājirūpeṇa vājebhyaḥ kesarebhyaḥ vājena vegena vā sannyastāḥ tyaktāḥ | śākhā vājasaneyasaṃjñā
+                | śākhāraṇḍatvaparihārārthaṃ cāturvedyatvasaṃkhyāsaṃrakṣaṇārthaṃ ca vājirūpeṇa
+                sūryeṇāyātayāmāni yāni yajūṃṣi munaye vṛttāni tair
+                yajurbhir uparatāni sa muninā vājasanyaḥ pañcadaśa śākhā akarot | <!--tasmāc ca muneḥ <lb
                     n="11"/>kaṇvamādhyandinādayaḥ adhyayanaṃ cakruḥ | te paṃcadaśa bhavaṃti |
                     tasmādvaiśaṃpāya<pb n="4v"/><lb n="1"/>nādhyāpitamukhyayajurvedasya parimito
                 niraṃtarāṃ atiśayena praśle<lb n="2"/>ṣo nāma vibhāgastena gadyamānatvāṃ nigadākhyo
@@ -249,8 +255,8 @@
         <l xml:id="yvv-50">vaiśaṃpā<lb n="8"/>yananāmānaṃ yajurvedasya cāgrahīt | </l>
         <l xml:id="yvv-51">jaiminī sāmavedasya tathaivavātharva<add place="margin">ve</add>vit | </l>
         <l xml:id="yvv-52"><lb n="9"/>sumaṃtustasya śiṣyobhūdvedavyāsasya dhīmataḥ | </l>
-      </lg>-->
-            </l>
+      </lg> --> </p>
+            
 
             <p xml:id="yvv-53">prakṛtānupayukte tena ṛgvedavibhāgamupekṣya yajurvedasya vistaraṃ
                 bhāgam āha || </p>

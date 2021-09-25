@@ -157,6 +157,12 @@
       <change when="2021-09-19" who="Parthasarathi Deepro and Aniruddha">
         <p>updated the transcription</p>
       </change>
+      <change when="2021-09-24" who="Deepro">
+        <p>updated the transcription</p>
+      </change>
+      <change when="2021-09-25" who="Aniruddha Parthasarathi and Deepro">
+        <p>updated the transcription</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -294,27 +300,28 @@
       <l xml:id="yvv-39">guror avidyamānāni <sic>stapasta</sic><unclear>sthe</unclear><pb n="4r"
           /><lb n="1"/> rkam īśvaram| </l>
 
-      <l xml:id="yvv-40">yājñavalkya uvāca | oṃ namo bhagavatetyādi | jīrṇe bhukte ucchiṣṭarvā<lb
-          n="2"/>te yātayāma śabde iti nighaṃṭuḥ | evamevārthaḥ | yātayāma yajuḥ | kāma upasarā<lb
-          n="3"/>mītyaṃta tuṣṭāva | </l>
+      <l xml:id="yvv-40">yājñavalkya uvāca | oṃ namo bhagavatetyādi | jī<sic>rṇe</sic> bhukte
+          ucchiṣṭarvāṃ<lb n="2"/>te yātayāmaśabda iti nighaṃṭuḥ | evam evārthaḥ | yātayāma yajuḥ
+          <sic>|</sic> kāma upasarā<lb n="3"/>mītyaṃtaṃ tuṣṭāva | </l>
 
-      <l xml:id="yvv-41">evamuktaḥ sa bhagavān vājīrūpadharo hariḥ | </l>
-      <l xml:id="yvv-42">yajuṃṣya yātayā<lb n="4"/>māni munaye dātprasādataḥ | </l>
-      <l xml:id="yvv-43">yajurbhirakarochākhā dvatrā śa paṃcadaśau rvibhuḥ | </l>
-      <l xml:id="yvv-44">jagadu<lb n="5"/>rvājasanyastāḥ kāṇvāmādhyaṃdinādayaḥ | </l>
+      <l xml:id="yvv-41">evam uktaḥ sa bhagavān vā<sic>jī</sic>rūpadharo hariḥ | </l>
+      <l xml:id="yvv-42">ya<sic>ju</sic>ṃṣy ayātayā<lb n="4"/>māni munaye dāt prasādataḥ | </l>
+      <l xml:id="yvv-43">yajurbhir akaroc chākhā daśa paṃcadaśair vibhuḥ | </l>
+      <l xml:id="yvv-44">jagṛhu<lb n="5"/>r vājasanyas tāḥ kā<sic>ṇvā</sic>mādhyaṃdinādayaḥ | </l>
 
-      <p xml:id="yvv-45"> ityādi graṃthaparyālocanayā yaju<lb n="6"/>rveda sā gānaṃtaraṃ
-        devarātasutena ābrāhmaṇatva bhiyātsavitaḥ sūryo vājī<lb n="7"/> rūpeṇa vājebhyaḥ kesarebhyaḥ
-        vājena vegena vā sa nyakhā tyaktāḥ| śākhā vāja<lb n="8"/>sanīyasaṃjñā | śākhā raṃ utva
-        parihārārthaṃ cāturvedyatvasaṃkhyā saṃrakṣaṇārthaṃ<lb n="9"/>ca vājīrūpeṇa sūryeṇa |
-        yātayāmāni yāni yajūṃṣi munaye ca yāni tai ryajurbhi<lb n="10"/>raparitaiḥ sa muninā
-        vājasanyaḥ paṃcadaśa śākhā akarot | tasmāc ca muneḥ <lb n="11"/>kaṇvamādhyandinādayaḥ
-        adhyayanaṃ cakruḥ | te paṃcadaśa bhavaṃti | tasmādvaiśaṃpāya<pb n="4v"/><lb n="1"
-        />nādhyāpitamukhyayajurvedasya parimito niraṃtarāṃ atiśayena praśle<lb n="2"/>ṣo nāma
-        vibhāgastena gadyamānatvāṃ nigadākhyo yajurgaṇo yajurveda iti | <unclear>la<lb n="3"
-          />kṣaṇā</unclear>krāṃtatvāttasya mukhatvaṃ | <lb n="4"/> vājasaneyināṃ tu gauṇatvaṃ
-        upāstaṃ yajuradhyayana<lb n="5"/>mātraṃ | pārāyaṇaṃ tu saṃhitāmātrasyeti | agre vakṣyāmaḥ
-        |</p>
+      <p xml:id="yvv-45"> ityādigraṃthaparyālocanayā yaju<lb n="6"/>rvedatyāgānaṃtaraṃ
+        devarātasutena <sic>ā</sic>brāhmaṇatvabhiyā<sic>t</sic> savi<sic>taḥ</sic> sūryo
+          vā<sic>jī</sic><lb n="7"/>rūpeṇa vājebhyaḥ kesarebhyaḥ vājena vegena vā sanya<unclear
+          reason="worm-eaten">stāḥ</unclear> tyaktāḥ | śākhā vāja<lb n="8"/>sa<sic>nī</sic>yasaṃjñā
+        | śākhāraṃḍatvaparihārārthaṃ cāturvedyatvasaṃkhyāsaṃrakṣaṇārthaṃ <lb n="9"/>ca vājirūpeṇa
+        sūryeṇāyātayāmāni yāni yajūṃṣi munaye <unclear reason="worm-eaten">vṛttāni</unclear> tair
+          yajurbhi<lb n="10"/>r <sic>aparitaiḥ</sic> sa muninā vājasanyaḥ paṃcadaśa śākhā akarot | tasmāc ca
+        muneḥ <lb n="11"/>kaṇvamādhyandinādayaḥ adhyayanaṃ cakruḥ | te paṃcadaśa bhavaṃti |
+          tasmādvaiśaṃpāya<pb n="4v"/><lb n="1"/>nādhyāpitamukhyayajurvedasya parimito niraṃtarāṃ
+        atiśayena praśle<lb n="2"/>ṣo nāma vibhāgastena gadyamānatvāṃ nigadākhyo yajurgaṇo yajurveda
+        iti | <unclear>la<lb n="3"/>kṣaṇā</unclear>krāṃtatvāttasya mukhatvaṃ | <lb n="4"/>
+        vājasaneyināṃ tu gauṇatvaṃ upāstaṃ yajuradhyayana<lb n="5"/>mātraṃ | pārāyaṇaṃ tu
+        saṃhitāmātrasyeti | agre vakṣyāmaḥ |</p>
       <p xml:id="yvv-46">dvitīyaṃ darśayati |
         <caesura/>
          viṣṇu<lb n="6"/>purāṇe | </p>
@@ -332,19 +339,22 @@
       <lg>
         <l xml:id="yvv-54">yajurvedataroḥ śākhāḥ <lb n="11"/>saptaviṃśan mahāmune | </l>
         <l xml:id="yvv-55">vaiśaṃpāyananāmāsau vyāsaśiṣyaś cakāra vai | </l>
-        <l xml:id="yvv-56">śiṣye<lb n="12"/>bhyaḥ pradadau tāś ca ja<sic>gra</sic>hus te py anukramāt | </l>
+        <l xml:id="yvv-56">śiṣye<lb n="12"/>bhyaḥ pradadau tāś ca ja<sic>gra</sic>hus te py
+          anukramāt | </l>
         <l xml:id="yvv-57">yājñavalkyas tu tasyābhūd brahmarāta<sic>ḥ</sic><pb n="5r"/><lb n="1"
           />suto dvijaḥ | </l>
         <l xml:id="yvv-58">śiṣyaḥ paramadharmajño guruvṛttirataḥ sadā | </l>
         <l xml:id="yvv-59">ṛṣi<del>rye</del><add place="above">r yo</add> dya mahāmerau sa<lb n="2"
           />māje nāgamiṣyati | </l>
         <l xml:id="yvv-60">tasya vai saptarātraṃ tu brahmahatyā bhaviṣyati | </l>
-        <l xml:id="yvv-61">pūrvam e<sic>na</sic>ṃ muni<lb n="3"/>gaṇaiḥ samayo ya<sic>ṃ</sic> kṛto dvija<del rend="crossed out">ḥ</del> | </l>
+        <l xml:id="yvv-61">pūrvam e<sic>na</sic>ṃ muni<lb n="3"/>gaṇaiḥ samayo ya<sic>ṃ</sic> kṛto
+            dvija<del rend="crossed out">ḥ</del> | </l>
         <l xml:id="yvv-62">vaiśaṃpāyana ekas tu taṃ vyatikrāṃtavāṃs tathā | </l>
         <l xml:id="yvv-63">sva<lb n="4"/>striyaṃ bālakaṃ so tha padā spṛṣṭam aghātayat | </l>
         <l xml:id="yvv-64">śiṣyān āhūya bho śiṣyā brahmahatyā <lb n="5"/>paraṃ vrataṃ | </l>
         <l xml:id="yvv-65">caradhva matkṛte sarvair na vicāryam idaṃ tathā ||</l>
-        <l xml:id="yvv-66">athāha yājñavalkyas taṃ <lb n="6"/>kim etai<unclear>r va e</unclear>bhir dvijaiḥ | </l>
+        <l xml:id="yvv-66">athāha yājñavalkyas taṃ <lb n="6"/>kim etai<unclear>r va e</unclear>bhir
+          dvijaiḥ | </l>
         <l xml:id="yvv-67">kleśitairalpatejobhiścariṣyehamidaṃ vrataṃ ||</l>
         <l xml:id="yvv-68">tataḥ kruddho <lb n="7"/>guruḥ prāha yājñavalkyaṃ mahāmuniṃ ||</l>
         <l xml:id="yvv-69">mucyatāṃ yatvayādhītāṃ matto viśavamānakaḥ | </l>
