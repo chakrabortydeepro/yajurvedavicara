@@ -90,6 +90,9 @@
             <change when="2021-09-24" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-43-45</p>
             </change>
+            <change when="2021-10-30" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-45, 66-73</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -224,39 +227,41 @@
 
             <l xml:id="yvv-40">yājñavalkya uvāca |
                 <caesura/>
-                 oṃ namo bhagavate <supplied>i</supplied>tyādi
-                | <supplied>a</supplied>jīrṇabhukte ucchiṣṭavānte yātayāmaśabda iti
-                nighaṇṭuḥ |<!-- corrected according to the entry "Kṛṣṇayajurveda" in Vācaspatyam p.2217-->  evam evārthaḥ | yātayāmayajuḥkāma upasarāmītyantaṃ tuṣṭāva
-                | </l>
+                 oṃ namo bhagavate <supplied>i</supplied>tyādi | <supplied>a</supplied>jīrṇabhukte
+                ucchiṣṭavānte yātayāmaśabda iti nighaṇṭuḥ
+                |<!-- corrected according to the entry "Kṛṣṇayajurveda" in Vācaspatyam p.2217-->
+                evam evārthaḥ | yātayāmayajuḥkāma upasarāmītyantaṃ tuṣṭāva | </l>
 
             <l xml:id="yvv-41">evam uktaḥ sa bhagavān vājirūpadharo hariḥ | </l>
-            <l xml:id="yvv-42">yajūṃṣy ayātayāmāni munaye 'dāt prasādataḥ<!--"prasāditaḥ" in other places --> || </l>
+            <l xml:id="yvv-42">yajūṃṣy ayātayāmāni munaye 'dāt
+                prasādataḥ<!--"prasāditaḥ" in other places --> || </l>
             <l xml:id="yvv-43">yajurbhir akaroc chākhā daśa pañcadaśair vibhuḥ | </l>
             <l xml:id="yvv-44">jagṛhur vājasanyas tāḥ kāṇvamādhyandinādayaḥ || </l>
 
-            <p xml:id="yvv-45"> ityādigranthaparyālocanayā yajurvedatyāgānantaraṃ
-                devarātasutena abrāhmaṇatvabhiyā savitā sūryo
-                vājirūpeṇa vājebhyaḥ kesarebhyaḥ vājena vegena vā sannyastāḥ tyaktāḥ | śākhā vājasaneyasaṃjñā
-                | śākhāraṇḍatvaparihārārthaṃ cāturvedyatvasaṃkhyāsaṃrakṣaṇārthaṃ ca vājirūpeṇa
-                sūryeṇāyātayāmāni yāni yajūṃṣi munaye vṛttāni tair
-                yajurbhir uparatāni sa muninā vājasanyaḥ pañcadaśa śākhā akarot | <!--tasmāc ca muneḥ <lb
-                    n="11"/>kaṇvamādhyandinādayaḥ adhyayanaṃ cakruḥ | te paṃcadaśa bhavaṃti |
-                    tasmādvaiśaṃpāya<pb n="4v"/><lb n="1"/>nādhyāpitamukhyayajurvedasya parimito
-                niraṃtarāṃ atiśayena praśle<lb n="2"/>ṣo nāma vibhāgastena gadyamānatvāṃ nigadākhyo
-                yajurgaṇo yajurveda iti | <unclear>la<lb n="3"/>kṣaṇā</unclear>krāṃtatvāttasya
-                mukhatvaṃ | <lb n="4"/> vājasaneyināṃ tu gauṇatvaṃ upāstaṃ yajuradhyayana<lb n="5"
-                />mātraṃ | pārāyaṇaṃ tu saṃhitāmātrasyeti | agre vakṣyāmaḥ | </p>
-                 
-                 <p xml:id="yvv-46">dvitīyaṃ darśayati |<caesura/> viṣṇu<lb n="6"/>purāṇe | </p>
-      <lg>
-        <l xml:id="yvv-47">brahmaṇāṃ nodito vyāsau vedābhyastaṃ pracakrame | </l>
-        <l xml:id="yvv-48">atha śiṣyātsajagrā<lb n="7"/>ha caturo vedapāragān | </l>
-        <l xml:id="yvv-49">ṛgvedaśrāvakaṃ pailaṃ sa jagrāha mahāmatiḥ |</l>
-        <l xml:id="yvv-50">vaiśaṃpā<lb n="8"/>yananāmānaṃ yajurvedasya cāgrahīt | </l>
-        <l xml:id="yvv-51">jaiminī sāmavedasya tathaivavātharva<add place="margin">ve</add>vit | </l>
-        <l xml:id="yvv-52"><lb n="9"/>sumaṃtustasya śiṣyobhūdvedavyāsasya dhīmataḥ | </l>
-      </lg> --> </p>
-            
+            <p xml:id="yvv-45"> ityādigranthaparyālocanayā yajurvedatyāgānantaraṃ devarātasutena
+                abrāhmaṇatvabhiyā savitā sūryo vājirūpeṇa vājebhyaḥ kesarebhyaḥ vājena vegena vā
+                sannyastāḥ tyaktāḥ | śākhā vājasaneyasaṃjñā | śākhāraṇḍatvaparihārārthaṃ
+                cāturvedyatvasaṃkhyāsaṃrakṣaṇārthaṃ ca vājirūpeṇa sūryeṇāyātayāmāni yāni yajūṃṣi
+                munaye vṛttāni tair yajurbhir uparatāni sa muninā vājasanyaḥ pañcadaśa śākhā akarot
+                | tasmāc ca muneḥ kaṇvamādhyandinādayaḥ adhyayanaṃ cakruḥ | te pañcadaśa bhavanti |
+                tasmād vaiśaṃpāyanādhyāpitamukhyayajurvedasya parimito nitarām atiśayena praśleṣo
+                nāma vibhāgas tena gadyamānatvān nigadākhyo yajurgaṇo yajurveda iti |
+                lakṣaṇākrāntatvāt tasya mukhatvam | vājasaneyināṃ tu gauṇatvam | upāstaṃ
+                yajuradhyayanamātram | pārāyaṇaṃ tu saṃhitāmātrasyeti | agre vakṣyāmaḥ | </p>
+
+            <p xml:id="yvv-46">dvitīyaṃ darśayati |
+                <caesura/>
+                 viṣṇupurāṇe | </p>
+            <lg>
+                <l xml:id="yvv-47">brahmaṇāṃ nodito vyāso vedān vyasyan pracakrame | </l>
+                <!-- see vācaspatyam pg. 1411 entry on the Ṛgveda https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=vcp&page=1411-->
+                <l xml:id="yvv-48">atha śiṣyān sa jagrāha caturo vedapāragān || </l>
+                <l xml:id="yvv-49">ṛgvedaśrāvakaṃ pailaṃ sa jagrāha mahāmatiḥ |</l>
+                <l xml:id="yvv-50">vaiśampāyananāmānaṃ yajurvedasya cāgrahīt || </l>
+                <l xml:id="yvv-51">jaiminiḥ sāmavedasya tathaivātharvavedavit | </l>
+                <l xml:id="yvv-52">sumantus tasya śiṣyo 'bhūd vedavyāsasya dhīmataḥ || </l>
+            </lg>
+
 
             <p xml:id="yvv-53">prakṛtānupayukte tena ṛgvedavibhāgamupekṣya yajurvedasya vistaraṃ
                 bhāgam āha || </p>
@@ -269,18 +274,21 @@
                 <l xml:id="yvv-58">śiṣyaḥ paramadharmajño guruvṛttirataḥ sadā || </l>
                 <l xml:id="yvv-59">ṛṣir yo 'dya mahāmerau samāje nāgamiṣyati | </l>
                 <l xml:id="yvv-60">tasya vai saptarātraṃ tu brahmahatyā bhaviṣyati || </l>
-                
+
                 <l xml:id="yvv-61">pūrvam evaṃ munigaṇaiḥ samayo yaḥ kṛto dvija | </l>
                 <l xml:id="yvv-62">vaiśampāyana ekas tu taṃ vyatikrāntavāṃs tathā || </l>
                 <l xml:id="yvv-63">svastriyaṃ bālakaṃ so 'tha padā spṛṣṭam aghātayat | </l>
                 <l xml:id="yvv-64">śiṣyān āhūya bho śiṣyā brahmahatyāpahaṃ vrataṃ | </l>
-                <l xml:id="yvv-65">caradhva<supplied>ṃ</supplied> matkṛte sarvair na vicāryam idaṃ tathā ||</l>
-                <!-- <l xml:id="yvv-66">athāha yājñavalkyas taṃ kim etair va ebhir dvijaiḥ | </l>
-                <l xml:id="yvv-67">kleśitairalpatejobhiścariṣyehamidaṃ vrataṃ ||</l>
-                <l xml:id="yvv-68">tataḥ kruddho <lb n="7"/>guruḥ prāha yājñavalkyaṃ mahāmuniṃ ||</l>
-                <l xml:id="yvv-69">mucyatāṃ yatvayādhītāṃ matto viśavamānakaḥ | </l>
-                <l xml:id="yvv-70"><lb n="8"/>nistejasā vadasyetān yastvaṃ brāhmaṇadveṣṭinaḥ | </l>
-                <l>tena śiṣyeṇa nāryosti mamā<lb n="9"/>jñābhaṃgakāriṇā ||</l> -->
+                <l xml:id="yvv-65">caradhva<supplied>ṃ</supplied> matkṛte sarvair na vicāryam idaṃ
+                    tathā ||</l>
+                <l xml:id="yvv-66">athāha yājñavalkyas taṃ kim etair bahubhir dvijaiḥ | </l>
+                <l xml:id="yvv-67">kleśitair alpatejobhiś cariṣyeham idaṃ vrataṃ ||</l>
+                <l xml:id="yvv-68">tataḥ kruddho guruḥ prāha yājñavalkyaṃ mahāmunim ||</l>
+                <l xml:id="yvv-69">mucyatāṃ yat tvayādhītāṃ matto viprāvamānaka | </l>
+                <l xml:id="yvv-70">nistejasā vadasy etān yastvaṃ brāhmaṇa<sic>dveṣṭinaḥ</sic> | </l> <!-- all testimonies support the reading "brāhmaṇapuṅgavān"-->
+                <l xml:id="yvv-71">tena śiṣyeṇa nārtho 'sti mamājñābhaṅgakāriṇā || </l>
+                <l xml:id="yvv-72">yājñavalkyas tataḥ prāha bhaktyaitat te mayoditaṃ | </l>
+                <l xml:id="yvv-73">mamāpy alaṃ tvayādhītaṃ yan mayā tad idaṃ dvija || </l>
             </lg>
 
 
