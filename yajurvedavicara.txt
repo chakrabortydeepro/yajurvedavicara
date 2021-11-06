@@ -166,6 +166,9 @@
       <change when="2021-10-30" who="Aniruddha Parthasarathi and Deepro">
         <p>updated the transcription</p>
       </change>
+      <change when="2021-11-06" who="Anusrtia Parthasarathi and Deepro">
+        <p>updated the transcription of xml:ids yvv-74-83</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -366,36 +369,36 @@
         <l xml:id="yvv-72">yājñavalkyas tataḥ prāha bha<unclear>ktyai</unclear>tat te <sic>na</sic>yoditaṃ | </l>
         <l xml:id="yvv-73">mamāpy alaṃ tvayā<lb n="9"/>dhītaṃ yan mayā tad idaṃ dvija | </l>
       </lg>
-      <p>śrīparāśara uvāca </p>
+      <p xml:id="yvv-74">śrīparāśara uvāca </p>
       <lg>
-        <l>ityutkā rudhirāktāni svarūpāṇi <lb n="10"/>yajūṃ<unclear>tryai</unclear>tha | </l>
-        <l>chardayitvā dadau tasmai yayau ca svechayā muniḥ | </l>
-        <l>yajūṃṣy atha visṛṣṭāni yā<lb n="11"/>jñavalkyena vai dvijaḥ | </l>
-        <l>jagrahus tittirā bhūtvā taittirī<unclear>yā</unclear>s tu te tataḥ | </l>
-        <l>brahma<add place="below">ha</add>tyāvrataṃ cī<pb n="5v"/><lb n="1"/>rṇaṃ gurūṇāṃ noditaṃs
+        <l xml:id="yvv-75">ity utkο rudhirāktāni <sic>sva</sic>rūpāṇi <lb n="10"/>yajūṃ<unclear>ṣy a</unclear>tha | </l>
+        <l xml:id="yvv-76">chardayitvā dadau tasmai yayau ca svechayā muniḥ | </l>
+        <l xml:id="yvv-77">yajūṃṣy atha visṛṣṭāni yā<lb n="11"/>jñavalkyena vai dvijaḥ | </l>
+        <l xml:id="yvv-78">ja<sic>gra</sic>hus tittirā bhūtvā taittirī<unclear>yā</unclear>s tu te tataḥ | </l>
+        <l xml:id="yvv-79">brahma<add place="below">ha</add>tyāvrataṃ cī<pb n="5v"/><lb n="1"/>rṇaṃ gu<sic>rūṇāṃ</sic> nodi<sic>taṃs</sic>
           tu yaiḥ |</l>
-        <l>ca<add place="above">ra</add>kādhvaryavas te tu caraṇān munisattama | </l>
-        <l>yājñavalkyo<lb n="2"/>pi maṃtreṇa prāṇāyāmaparāyaṇaḥ | </l>
-        <l>tuṣṭāva praṇataḥ sūryaṃ yajūṃṣy abhili<unclear reason="overinking">khya</unclear> tataḥ
+        <l xml:id="yvv-80">ca<add place="above">ra</add>kādhvaryavas te tu caraṇān munisattama | </l>
+        <l xml:id="yvv-81">yājñavalkyo <lb n="2"/>pi maṃtreṇa prāṇāyāmaparāyaṇaḥ | </l>
+        <l xml:id="yvv-82">tuṣṭāva praṇataḥ sūryaṃ yajūṃṣy abhili<unclear reason="overinking">khya</unclear> tataḥ
           |</l>
       </lg>
 
-      <p><lb n="3"/>yājñavalkya uvāca |</p>
+      <p xml:id="yvv-83"><lb n="3"/>yājñavalkya uvāca |</p>
 
       <lg>
-        <l>namaḥ savitre dārāya mukter amitatejase | </l>
-        <l>ṛgyajuḥsāma<lb n="4"/>bhūtāya trapādhāmātmane namaḥ |</l>
+        <l xml:id="yvv-84">namaḥ savitre dārāya mukter amitatejase | </l>
+        <l xml:id="yvv-85">ṛgyajuḥsāma<lb n="4"/>bhūtāya trapādhāmātmane namaḥ |</l>
       </lg>
-      <p>ityādi parāśara uvācety ata stutiṃ <unclear reason="overinking">kartā</unclear> | </p>
+      <p xml:id="yvv-86">ityādi parāśara uvācety ata stutiṃ <unclear reason="overinking">kartā</unclear> | </p>
       <lg>
-        <l>ity e<lb n="5"/>vam ādibhis tena stūyamāna stavai raviḥ |</l>
-        <l>vāj<sic>ī</sic>rūpadharaḥ prāha <unclear reason="eccentric_ductus">vrī</unclear>yatām
+        <l xml:id="yvv-87">ity e<lb n="5"/>vam ādibhis tena stūyamāna stavai raviḥ |</l>
+        <l xml:id="yvv-88">vāj<sic>ī</sic>rūpadharaḥ prāha <unclear reason="eccentric_ductus">vrī</unclear>yatām
           abhivāṃchitāṃ |</l>
-        <l>yājñavalkyas <sic>tayā</sic> prāha praṇipatya divākaraṃ |</l>
-        <l>yajūṃṣi tāni me dehi yāni santi na me gurau | </l>
+        <l xml:id="yvv-89">yājñavalkyas <sic>tayā</sic> prāha praṇipatya divākaraṃ |</l>
+        <l xml:id="yvv-90">yajūṃṣi tāni me dehi yāni santi na me gurau | </l>
       </lg>
 
-      <p><lb n="7"/>parāśara uvāca |</p>
+      <p xml:id="yvv-91"><lb n="7"/>parāśara uvāca |</p>
       <lg>
         <l>evam ukto dadau tasmai yajūṃṣi bhagavān raviḥ |</l>
         <l>ayāt<subst>

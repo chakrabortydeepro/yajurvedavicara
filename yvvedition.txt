@@ -87,11 +87,14 @@
             <change when="2021-09-24" who="Deepro">
                 <p>verified the readings of xml:ids yvv-40-42</p>
             </change>
-            <change when="2021-09-24" who="Aniruddha Parthasarathi and Deepro">
+            <change when="2021-09-24" who="Aniruddha Anusrita Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-43-45</p>
             </change>
-            <change when="2021-10-30" who="Aniruddha Parthasarathi and Deepro">
+            <change when="2021-10-30" who="Aniruddha Anusrita Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-45, 66-73</p>
+            </change>
+            <change when="2021-11-06" who="Anusrtia Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-74-83</p>
             </change>
         </revisionDesc>
     </teiHeader>
@@ -290,7 +293,32 @@
                 <l xml:id="yvv-72">yājñavalkyas tataḥ prāha bhaktyaitat te mayoditaṃ | </l>
                 <l xml:id="yvv-73">mamāpy alaṃ tvayādhītaṃ yan mayā tad idaṃ dvija || </l>
             </lg>
+            <p xml:id="yvv-74">śrīparāśara uvāca </p>
+      <lg>
+        <l xml:id="yvv-75">ity utkο rudhirāktāni sarūpāṇi yajūṃṣy atha | </l>
+        <l xml:id="yvv-76">chardayitvā dadau tasmai yayau ca svechayā muniḥ || </l>
+        <l xml:id="yvv-77">yajūṃṣy atha visṛṣṭāni yājñavalkyena vai dvijaḥ | </l>
+        <l xml:id="yvv-78">jagṛhus tittirā bhūtvā taittirīyās tu te tataḥ || </l>
+        <l xml:id="yvv-79">brahmahatyāvrataṃ cīrṇaṃ guruṇā noditais tu yaiḥ |</l>
+        <l xml:id="yvv-80">carakādhvaryavas te tu caraṇān munisattama || </l>
+        <l xml:id="yvv-81">yājñavalkyo 'pi mantreṇa prāṇāyāmaparāyaṇaḥ | </l>
+        <l xml:id="yvv-82">tuṣṭāva praṇataḥ sūryaṃ yajūṃṣy abhilikhya tataḥ ||</l>
+      </lg>
 
+      <p xml:id="yvv-83"><lb n="3"/>yājñavalkya uvāca |</p>
+
+  <!--    <lg>
+        <l xml:id="yvv-84">namaḥ savitre dārāya mukter amitatejase | </l>
+        <l xml:id="yvv-85">ṛgyajuḥsāma<lb n="4"/>bhūtāya trapādhāmātmane namaḥ |</l>
+      </lg>
+      <p xml:id="yvv-86">ityādi parāśara uvācety ata stutiṃ <unclear reason="overinking">kartā</unclear> | </p>
+      <lg>
+        <l xml:id="yvv-87">ity e<lb n="5"/>vam ādibhis tena stūyamāna stavai raviḥ |</l>
+        <l xml:id="yvv-88">vāj<sic>ī</sic>rūpadharaḥ prāha <unclear reason="eccentric_ductus">vrī</unclear>yatām
+          abhivāṃchitāṃ |</l>
+        <l xml:id="yvv-89">yājñavalkyas <sic>tayā</sic> prāha praṇipatya divākaraṃ |</l>
+        <l xml:id="yvv-90">yajūṃṣi tāni me dehi yāni santi na me gurau | </l>
+      </lg> -->
 
         </body>
     </text>
