@@ -99,6 +99,12 @@
             <change when="2021-11-14" who="Aniruddha Anusrtia Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-84-97</p>
             </change>
+            <change when="2021-11-20" who="Anusrtia Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-98-102</p>
+            </change>
+            <change when="2021-12-04" who="Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-103-105</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -330,24 +336,50 @@
                 <l xml:id="yvv-93">ayātayāmasaṃjñāni yāni na vetti tadguruḥ || </l>
                 <l xml:id="yvv-94">yajūṃṣi <supplied>yai</supplied>r adhītāni tāni viprair
                     dvijottama | </l>
-                <l xml:id="yvv-95">vājinas te samākhyā<supplied>tāḥ</supplied> sūryaśvo bho 'bhavac ca naḥ
-                    || <!--see p. 43 of Sivanāmakalpalatālavāla: herausgegeben, übersetzt und erklärt, Part 1--></l>
+                <l xml:id="yvv-95">vājinas te samākhyā<supplied>tāḥ</supplied> sūryaśvo bho 'bhavac
+                    ca naḥ ||
+                    <!--see p. 43 of Sivanāmakalpalatālavāla: herausgegeben, übersetzt und erklärt, Part 1--></l>
                 <l xml:id="yvv-96">śākhābhedās tu teṣāṃ vai daśa pañca ca vājinām |</l>
-                <l xml:id="yvv-97">kaṇvādyās tu mahābhāga yājñavalkyapravartitāḥ ||
-                </l>
+                <l xml:id="yvv-97">kaṇvādyās tu mahābhāga yājñavalkyapravartitāḥ || </l>
             </lg>
 
-            <!-- <p xml:id="yvv-98">atha tṛtīyaṃ darśayati | nṛsiṃhaprasāda<lb n="11"
-                />sādhāraṇamūrttipratiṣṭhāprasaṃgena prakṛtānupayuktatvāpūrvatāvad ṛco japet | <lb
-                    n="12"/>ity etāvanmātram uktam | </p>
+            <p xml:id="yvv-98">atha tṛtīyaṃ darśayati |
+                nṛsiṃhaprasādasādhāraṇamūrttipratiṣṭhāprasaṅgena | </p>
+
+            <l xml:id="yvv-99"> prakṛtānupayuktatvā<supplied>t</supplied> pūrvato bahvṛco japet | </l>
+            <!-- partially found in the Matsyapurāṇa -->
+
+            <p xml:id="yvv-100"> ity etāvanmātram uktam | </p>
 
             <lg>
-                <l xml:id="yvv-99">rudrān puruṣasūktaṃ ca ślokādhyāyaṃ tu<unclear>śukri</unclear>yaṃ
-                    |</l>
-                <l xml:id="yvv-100">tathaiva maṃ<unclear reason="eccentric_ductus">ḍa</unclear><lb
-                        n="13"/>tā<add place="margin left">dhyā</add>yam adhvaryur dakṣiṇe japet |
-                </l>
-            </lg>-->
+                <!-- found in the Matsyapurāṇa -->
+                <l xml:id="yvv-101">rudrān puruṣasūktaṃ ca ślokādhyāyaṃ tu śukriyam | </l>
+                <l xml:id="yvv-102">tathaiva maṇḍalādhyāyam adhvaryur dakṣiṇe japet || </l>
+            </lg>
+
+            <p xml:id="yvv-103"> asyārthas tatrai<supplied>tā</supplied>vān | namas te rudramanya ca
+                ityādi mantrān rudrān | puruṣasūktaṃ sahasraśīrṣā puruṣa ityādi || ślokādhyāyaḥ |
+                deva savitaḥ prasuva yajñaṃ prasuva || devasavitaretat te prāha tat pra ca suva pra
+                ca yajetyā<supplied>dī</supplied> anuvākau | śukriyaṃ | satyaṃ prapadye | ṛtaṃ
+                prapadya ityādi | maṇḍalādhyāyaḥ | ādityo vā eṣa etanmaṇḍalam iti
+                taittirīyakaḥ prasiddhaḥ | sadakṣiṇadvāre japed ity arthaḥ | tatraiva
+                kūpodyāpanaprasaṅgenāha || </p>
+
+            <lg>
+                <l xml:id="yvv-104">śākraṃ raudraṃ ca saumyaṃ ca kauśmāṇḍaṃ jātavedasam | </l>
+                <l xml:id="yvv-105">saurasūktaṃ japeyus te dakṣiṇena yajurvidaḥ || </l>
+            </lg>
+
+           <!-- <p xml:id="yvv-106">śākraṃ śakrasya | <lb n="7"/>indraṃ vo viśvataspari havāmahe
+                janebhyaḥ ityanuvākaṃ.huve nu śakraṃ puruhuta | <note>sviradhaca </note>
+                <lb n="8"/>miti śakraliṃgaḥ | raudraṃ suktaṃ | imā rudrāyaṃ iti ṣaḍṛcaṃ ||
+                saumyasūktaṃ somo dhe<lb n="9"/>nu somo<unclear>arvatamāśumiti</unclear>ṣaḍṛcaṃ ||
+                kūṣmāṃḍau.yaddevā devahel̤anam iti catvā<lb n="10"/>ro nuvākāḥ | jātavedasaṃ sūktaṃ
+                | yastvā hṛdākāriṇetyanuvākaḥ. saurasūktaṃ | <lb n="11"/>sūryo
+                devī<del>muṣasa</del>miti bahvṛcaṃ | imāni sūktāni taittirīyāṇāṃ prasiddhānī<lb
+                    n="12"/>ti | trivikramapaddhatau evam evety alaṃ |</p> -->
+
+
 
         </body>
     </text>
