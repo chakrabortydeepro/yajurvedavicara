@@ -370,15 +370,30 @@
                 <l xml:id="yvv-105">saurasūktaṃ japeyus te dakṣiṇena yajurvidaḥ || </l>
             </lg>
 
-           <!-- <p xml:id="yvv-106">śākraṃ śakrasya | <lb n="7"/>indraṃ vo viśvataspari havāmahe
-                janebhyaḥ ityanuvākaṃ.huve nu śakraṃ puruhuta | <note>sviradhaca </note>
-                <lb n="8"/>miti śakraliṃgaḥ | raudraṃ suktaṃ | imā rudrāyaṃ iti ṣaḍṛcaṃ ||
-                saumyasūktaṃ somo dhe<lb n="9"/>nu somo<unclear>arvatamāśumiti</unclear>ṣaḍṛcaṃ ||
-                kūṣmāṃḍau.yaddevā devahel̤anam iti catvā<lb n="10"/>ro nuvākāḥ | jātavedasaṃ sūktaṃ
-                | yastvā hṛdākāriṇetyanuvākaḥ. saurasūktaṃ | <lb n="11"/>sūryo
-                devī<del>muṣasa</del>miti bahvṛcaṃ | imāni sūktāni taittirīyāṇāṃ prasiddhānī<lb
-                    n="12"/>ti | trivikramapaddhatau evam evety alaṃ |</p> -->
+           <p xml:id="yvv-106">śākraṃ śakrasya | indraṃ vo viśvataspari havāmahe
+                janebhyaḥ ity anuvākaṃ | huve nu śakraṃ puruhūtam iti śakraliṅgam | raudraṃ suktam | imā rudrāya iti ṣaḍṛcam ||
+                saumyasūktaṃ somo dhenu somo arvantamāśum iti ṣaḍṛcam ||
+                kūśmāṇḍam | yad devā devahel̤anam iti catvāro 'nuvākāḥ | jātavedasaṃ sūktaṃ
+                | yas tvā hṛdākīriṇety anuvākaḥ | saurasūktaṃ | sūryo
+                devīm iti bahvṛcaṃ | imāni sūktāni taittirīyāṇāṃ prasiddhānīti | trivikramapaddhatau evam evety alam |</p>
 
+            <p xml:id="yvv-107"> caturtham āha | </p>
+            
+            <lg>
+                <l xml:id="yvv-108">mantrabrāhmaṇayor vedas triguṇaṃ yatra paṭhyate
+                    |</l>
+                <l xml:id="yvv-109">yajurvedaḥ sa vijñeyo anye śākhāntarāḥ smṛtāḥ || </l>
+            </lg>
+            
+            <p xml:id="yvv-110">iti yajurvedalakṣaṇam || asyārthaḥ | mantraś ca brāhmaṇaṃ ca
+                mantrabrāhmaṇe tayoḥ mantrabrāhmaṇayoḥ tayoś ca veda iti saṃjñā || tad uktaṃ
+                mantrabrāhmaṇayor veda iti nāmadheyam ity ṛkśākhīyaprātiśākhyabhāṣyakāreṇa |
+                āpastambasāmānyasūtrabhāṣyakārakapardinā dhūrtasvāminā ca | tathā sati mantro
+                nāma saṃhitā mantras tādṛk mantrarūpasaṃhitāyāḥ tanmadhye eva tadagre
+                brāhmaṇatvena paṭhanam ity ubhayathā 'pi saṃhitātvena padatvena kramatvena ca
+                paṭhanaṃ triguṇaṃ paṭhanam iti sa mantrabrāhmaṇayor vedas triguṇaṃ yatra paṭhyate
+                ity arthaḥ | etādṛśaṃ paṭhanaṃ śākhāyām adhyayanaṃ sa yajurvedas tac ca
+                taittirīyaśākhāyām evāsti | </p>
 
 
         </body>

@@ -181,6 +181,9 @@
       <change when="2021-12-04" who="Parthasarathi and Deepro">
       <p>updated transcription of xml:ids yvv-103-105</p>
       </change>
+      <change when="2022-01-08" who="Anusrita Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-106-110</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -460,30 +463,30 @@
       </lg>
 
       <p xml:id="yvv-106">śākraṃ śakrasya | <lb n="7"/>indraṃ vo viśvataspari havāmahe janebhyaḥ
-        ityanuvākaṃ.huve nu śakraṃ puruhuta | <note>sviradhaca </note>
-        <lb n="8"/>miti śakraliṃgaḥ | raudraṃ suktaṃ | imā rudrāyaṃ iti ṣaḍṛcaṃ || saumyasūktaṃ somo
-          dhe<lb n="9"/>nu somo<unclear>arvatamāśumiti</unclear>ṣaḍṛcaṃ || kūṣmāṃḍau.yaddevā
-        devahel̤anam iti catvā<lb n="10"/>ro nuvākāḥ | jātavedasaṃ sūktaṃ | yastvā
-        hṛdākāriṇetyanuvākaḥ. saurasūktaṃ | <lb n="11"/>sūryo devī<del>muṣasa</del>miti bahvṛcaṃ |
+        ity anuvākaṃ | huve nu śakraṃ puruhuta | <add>stiradhaca </add>
+        <lb n="8"/>miti śakraliṃgaḥ | raudraṃ sūktaṃ | imā rudrāya iti ṣaḍṛcaṃ || saumyasūktaṃ somo
+          dhe<lb n="9"/>nu somo arvaṃtam āśum iti ṣaḍṛcaṃ || kūśmāṃḍaṃ | yad devā
+        devahel̤anam iti catvā<lb n="10"/>ro nuvākāḥ | jātavedasaṃ sūktaṃ | yas tvā
+        hṛdākīriṇety anuvākaḥ | saurasūktaṃ | <lb n="11"/>sūryo devī<del>m uṣasa</del>m iti bahvṛcaṃ |
         imāni sūktāni taittirīyāṇāṃ prasiddhānī<lb n="12"/>ti | trivikramapaddhatau evam evety alaṃ
         |</p>
 
       <p xml:id="yvv-107"> caturtham āha | </p>
 
       <lg>
-        <l xml:id="yvv-108">maṃtrabrāhmaṇayor vedas tri<pb n="6v"/><lb n="1"/>guṇaṃ yanna paṭhyate
+        <l xml:id="yvv-108">maṃtrabrāhmaṇayor vedas tri<pb n="6v"/><lb n="1"/>guṇaṃ yatra paṭhyate
           |</l>
         <l xml:id="yvv-109">yajurvedaḥ sa vijñeyo anye śākhāṃtarā smṛtāḥ | </l>
       </lg>
 
-      <p xml:id="yvv-110">iti ya<lb n="2"/>jurvedalakṣaṇaḥ || asyārthaḥ | maṃtraś ca brāhmaṇaṃ ca
-        maṃtrabrāhmaṇe tayoḥ maṃ<lb n="3"/>trabrāhmaṇayoḥ tayośca veda iti saṃjñā || taduktaṃ
-        maṃtrabrāhmaṇayorveda iti nā<lb n="4"/>madheyaṃ ity ṛkśākhīyaprātiśākhyabhāṣyakāreṇa |
-          āpastaṃbasāmānya<lb n="5"/>sūtrabhāṣye kārakapardinā dhūrttasvāminā ca | tathā sati maṃtro
-        nāma saṃhi<lb n="6"/>tā maṃtrastādṛk maṃtrarūpasaṃhitāyāḥ tanmadhye eva tadagre
+      <p xml:id="yvv-110">iti ya<lb n="2"/>jurvedalakṣaṇaṃ || asyārthaḥ | maṃtraś ca brāhmaṇaṃ ca
+        maṃtrabrāhmaṇe tayoḥ maṃ<lb n="3"/>trabrāhmaṇayoḥ tayoś ca veda iti saṃjñā || tad uktaṃ
+        maṃtrabrāhmaṇayor veda iti nā<lb n="4"/>madheyaṃ ity ṛkśākhīyaprātiśākhyabhāṣyakāreṇa |
+          āpastaṃbasāmānya<lb n="5"/>sūtrabhāṣyakārakapardinā dhūrttasvāminā ca | tathā sati maṃtro
+        nāma saṃhi<lb n="6"/>tā maṃtras tādṛk maṃtrarūpasaṃhitāyāḥ tanmadhye eva tadagre
         brāhmaṇatvena <lb n="7"/>paṭhanam ity ubhayathāpi saṃhitātvena padatvena kramatvena ca
-        paṭhanaṃ <lb n="8"/>triguṇapaṭhanam iti sa maṃtrabrāhmaṇayor vedas triguṇaṃ yatra paṭhyate
-        ityarthaḥ | e<lb n="9"/>tādṛśaṃ paṭhanaṃ śākhāyāṃ adhyayanaṃ sa yajurvedastac ca
+        paṭhanaṃ <lb n="8"/>triguṇaṃ paṭhanam iti sa maṃtrabrāhmaṇayor vedas triguṇaṃ yatra paṭhyate
+        ity arthaḥ | e<lb n="9"/>tādṛśaṃ paṭhanaṃ śākhāyāṃ adhyayanaṃ sa yajurvedas tac ca
           taittirīyaśākhā<lb n="10"/>yām evāsti | </p>
 
       <p xml:id="yvv-111">tathā hi | saṃ paśyāmi prajā ahamidu prajaso mānavīriti <lb n="11"
