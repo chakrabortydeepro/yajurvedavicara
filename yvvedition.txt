@@ -111,6 +111,9 @@
             <change when="2022-01-22" who="Aniruddha and Deepro">
                 <p>verified the readings of xml:ids yvv-111-116</p>
             </change>
+            <change when="2022-02-25" who="Aniruddha Partha Sarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-117-127a</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -408,17 +411,44 @@
                 āyuṣīti saṃhitāmantraḥ | etasyaiva brāhmaṇaṃ saṃhitāyām eva tad agne eva
                 saṃhitārūpeṇa vartate | tat katham ity apekṣāyām āha | imām agṛbhṇan raśanām
                 ṛtasyety aśvābhidhānīm ādatte iti brāhmaṇam | anayor api triguṇatvena paṭhanam |
-                evam anyāni bahuny api vākyāni santi <supplied>|</supplied> tāni vistarabhayān noktāni | </p>
+                evam anyāni bahuny api vākyāni santi <supplied>|</supplied> tāni vistarabhayān
+                noktāni | </p>
 
-            <p xml:id="yvv-113">anyac ca | agnihotraṃ vedatrayasādhyaṃ ṛgvedayajurvedasāmavedaiḥ <supplied>|</supplied> tatra ṛcaiva hautraṃ yājuṣādhvaryavaṃ sāmnaudgīthaṃ
-                    tathā ca sati āśvalāyanānāṃ sāmavedānāṃ vā agnihotraṃ svasvagṛhysūtroktaṃ saprapañcaṃ na dṛśyate | antaḥkāraṇābhāvāc chākhāntarīyam anuṣṭheyam | </p>
+            <p xml:id="yvv-113">anyac ca | agnihotraṃ vedatrayasādhyaṃ ṛgvedayajurvedasāmavedaiḥ
+                    <supplied>|</supplied> tatra ṛcaiva hautraṃ yājuṣādhvaryavaṃ sāmnaudgīthaṃ tathā
+                ca sati āśvalāyanānāṃ sāmavedānāṃ vā agnihotraṃ svasvagṛhyasūtroktaṃ saprapañcaṃ na
+                dṛśyate | antaḥkāraṇābhāvāc chākhāntarīyam anuṣṭheyam | </p>
 
             <p xml:id="yvv-114">tad uktaṃ dānakhaṇḍe |</p>
 
             <l xml:id="yvv-115">vidvadbhis tad anuṣṭheyam agnihotrādikarma ced iti |</l>
 
-            <p xml:id="yvv-116">agnihotraṃ yajurvedaśākhāsu vihitam | etac ca bahṛcaiḥ
-                sāmagair vānuṣṭhīyata ity uktaṃ | </p>
+            <p xml:id="yvv-116">agnihotraṃ yajurvedaśākhāsu vihitam | etac ca bahvṛcaiḥ sāmagair
+                vānuṣṭhīyata ity uktaṃ | </p>
+
+            <p xml:id="yvv-117"> atrāpi yajurvedaśabdena taittirīyaka eva | nanv āpastambādīnāṃ
+                pañcānām ekādhyayanatvāt | yajurvedaśabdena taittirīyakā eveti kuto niyamyate |
+                tatrāpi āpastambabaudhāyanobhābhyāṃ madhye ekena kartavyam iti sandeho 'bhidhīyate |
+                tad āpastambānām eva | prathamātikrame kāraṇābhāvādīn | āpastambābhāve
+                baudhāyanādikaṃ grāhyam iti prācīnagranthalekhanam || na tu vājasaneyinā |
+                ācārābhāvāt prācīnagranthalekhanābhāvāc ca | </p>
+
+            <p xml:id="yvv-118">tathā coktaṃ kapardikārikāyām |</p>
+
+            <lg>
+                <l xml:id="yvv-119"> trayīvidyātmakaṃ karma śrautaṃ tad abhidhīyate | </l>
+                <l xml:id="yvv-120"> śrutismṛtyātmakaṃ karma smārtaṃ caiva tad ucyate | </l>
+                <l xml:id="yvv-121"> yājurvedo bhave 'dhvaryur hotā ṛkśāhinas tathā | </l>
+                <l xml:id="yvv-122"> udgātā sāmavedī ca śrautaṃ karma tridhātmakam |</l>
+                <l xml:id="yvv-123"> ṛk_śākhoktaṃ ca hautraṃ tu adhvaryur yājuṣaḥ smṛtaḥ | </l>
+                <l xml:id="yvv-124"> āpastambena kartavyaṃ sarvaṃ cādhvaryukarma ca |</l>
+                <l xml:id="yvv-125"> āpastambasya cābhāve bodhāyanam athāpi vā | </l>
+                <l xml:id="yvv-126"> ṛk_śākhibhiś ca sarvaiś ca hy āpastambena kārayet | </l>
+                <l xml:id="yvv-127"> anyathā tu na kartavyaṃ śākhāvicchinnadarśanāt || </l>
+                <l xml:id="yvv-127a">adhvarodgātṛhotṝṇāṃ saṃti sūtrāṇy anekaśaḥ ||
+                    <caesura/>
+                     yatrāsti yonisaṃbaṃdhaḥ sūtre jñātikulocitaḥ ||</l>
+            </lg>
 
 
         </body>
