@@ -193,6 +193,9 @@
       <change when="2022-02-25" who="Aniruddha Parthasarathi and Deepro">
         <p>updated transcription of xml:ids yvv-117-127a</p>
       </change>
+      <change when="2022-03-04" who="Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-128-130</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -552,24 +555,29 @@
               function="line_number_from_top">12</metamark></add></l>
       </lg>
 
-      <p xml:id="yvv-128"><add place="right margin">sva</add>yaṃ dvātriguṇapaṭhanaṃ trisvareṇānu<lb
-          n="13"/>dāttasvaritaiḥ ṛgvedānāṃ saṃhitāmātrasya | na brāhmaṇasya | taittirī<pb n="8r"
-          /><lb n="1"/>yakā etādṛśaṃ cādhyayataṃ taittirīyāṇām eva | etad anyat śākhāṃta<lb n="2"
-        />rā smṛtā iti | ko rthaḥ? vaiśaṃpāyanād guror adhītāyāṃ yājñavalkyena yajurve<lb n="3"
-        />dasaṃhitā <add place="left margin">ta</add>tyāgānaṃtaraṃ vājīrūpeṇa sūryeṇa vegena
-        saṃnyastāḥ vājasenyaḥ <lb n="4"/>paṃcadaśa śākhābhedāḥ | śākhāṃtarā ekasyā śākhāyāḥ | </p>
+      <p xml:id="yvv-128"> yad vā triguṇapaṭhanaṃ tri<subst>
+          <del rend="line above"><unclear unit="syllable" n="1" reason="overwriting"/></del>
+          <add place="right margin">sva</add>
+        </subst>reṇa | u<lb n="13"/>dāttānudāttasvaritaiḥ ṛgvedīnāṃ saṃhitāmātrasya | na brāhmaṇasya
+        | taittirī<pb n="8r"/><lb n="1"/>yakā etādṛśaṃ cādhyayanaṃ taittirīyāṇām eva | etad anyat
+          śākhāṃta<lb n="2"/>rā smṛtā iti | ko 'rthaḥ | vaiśaṃpāyanād guror adhītāyāṃ yājñavalkyena
+          yajurve<lb n="3"/>dasaṃhitā <add place="left margin">ta</add>tyāgānaṃtaraṃ vājīrūpeṇa
+        sūryeṇa vegena saṃnyastāḥ vājasenyaḥ <lb n="4"/>paṃcadaśa śākhābhedāḥ | śākhāṃtarā ekasyā
+        śākhāyāḥ | </p>
 
       <p xml:id="yvv-129">anyaśākhā i<lb n="5"/>ti | śākhāṃtarā ittyarthe kriyamāṇe ṛgveditvaṃ
         sāmaveditvaṃ vā atharva<lb n="6"/>ṇaveditvaṃ vā paṃcamatvaṃ vā syād ataś ca śākhāṃtarāḥ
-        śākhāyāṃ | aṃtarbhūtaya<lb n="7"/>jurvedaśākhāṃtarbhūtā ity arthaḥ |
-          āyā<unclear>vrayāmā</unclear>ni yajūṃṣi bhavantīti liṃgā<lb n="8"/>t | eteṣāṃ
-        pārāyaṇasaṃhitāmātrasyety alam iti prasaṃgata || </p>
+        śākhāyāṃ | aṃtarbhūtaya<lb n="7"/>jurvedaśākhāṃtarbhūtā ity arthaḥ | āyātayāmāni yajūṃṣi
+        bhavantīti liṃgā<lb n="8"/>t | eteṣāṃ pārāyaṇasaṃhitāmātrasyety alam iti prasaṃgena || </p>
 
       <p xml:id="yvv-130"> paṃcamam āha || <lb n="9"/>yathā ṛgvedapārāyaṇe saṃhitāpārāyaṇaṃ
         padapārāyaṇaṃ kramapārāyaṇaṃ <lb n="10"/>ceti | tathā hi | kramapāṭhena vinā
-        udāttādisvarasaṃdehanirāsamātraṃ saṃde<lb n="11"/>he nirāso na bhavati. iti kramapaṭhanam
-        āvaśyakatvena vinā saṃhitāpā<lb n="12"/>rāyaṇaṃ nārtha<del>i</del>vat | ataśca
-        ṛgvedaśākhāyāṃ tritapārāyaṇamāvaśyam | </p>
+        udāttādisvarasaṃdehe nirāsamātraṃ saṃde<lb n="11"/>he nirāso na bhavati | iti kramapaṭhanam
+        āvaśyakatvena vinā saṃhitāpā<lb n="12"/>rāyaṇaṃ nārtha<del>i</del>vat | ataś ca
+        ṛgvedaśākhāyāṃ tritapārāyaṇa<subst>
+          <del><unclear reason="overwriting">ā</unclear></del>
+          <add place="below">m ā</add>
+        </subst>vaśyaṃ | </p>
 
 
       <p xml:id="yvv-131"><pb n="8v"/><lb n="1"/>tad ukta āraṇyake| anāthakāmo nirbhurjabruyāt

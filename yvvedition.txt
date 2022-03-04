@@ -114,6 +114,9 @@
             <change when="2022-02-25" who="Aniruddha Partha Sarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-117-127a</p>
             </change>
+            <change when="2022-03-04" who="Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-128-130</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -445,10 +448,29 @@
                 <l xml:id="yvv-125"> āpastambasya cābhāve bodhāyanam athāpi vā | </l>
                 <l xml:id="yvv-126"> ṛk_śākhibhiś ca sarvaiś ca hy āpastambena kārayet | </l>
                 <l xml:id="yvv-127"> anyathā tu na kartavyaṃ śākhāvicchinnadarśanāt || </l>
-                <l xml:id="yvv-127a">adhvarodgātṛhotṝṇāṃ saṃti sūtrāṇy anekaśaḥ ||
+                <l xml:id="yvv-127a"> adhvarodgātṛhotṝṇāṃ santi sūtrāṇy anekaśaḥ ||
                     <caesura/>
-                     yatrāsti yonisaṃbaṃdhaḥ sūtre jñātikulocitaḥ ||</l>
+                     yatrāsti yonisambandhaḥ sūtre jñātikulocitaḥ ||</l>
             </lg>
+
+            <p xml:id="yvv-128"> yad vā triguṇapaṭhanaṃ trisvareṇa | udāttānudāttasvaritaiḥ
+                ṛgvedināṃ saṃhitāmātrasya | na brāhmaṇasya | <sic>taittirīyakā</sic> etādṛśaṃ
+                cādhyayanaṃ taittirīyāṇām eva | etad anyat śākhāntarā smṛtā iti | ko 'rthaḥ |
+                vaiśampāyanād guror adhītāyāṃ yājñavalkyena yajurvedasaṃhitā<supplied>yāṃ</supplied>
+                tattyāgānantaraṃ vājīrūpeṇa sūryeṇa vegena sannyastā <sic>vājasenyaḥ</sic> pañcadaśa
+                śākhābhedāḥ | śākhāntarā ekasyā<supplied>ḥ</supplied> śākhāyāḥ | </p>
+
+            <p xml:id="yvv-129">anyaśākhā iti | śākhāntarā ityarthe kriyamāṇe ṛgveditvaṃ
+                sāmaveditvaṃ vā ātharvaṇaveditvaṃ vā pañcamatvaṃ vā syād ataś ca śākhāṃtarāḥ
+                śākhāyāṃ | antarbhūtayajurvedaśākhāntarbhūtā ity arthaḥ | āyātayāmāni yajūṃṣi
+                bhavantīti liṅgāt | eteṣāṃ pārāyaṇasaṃhitāmātrasyety alam iti prasaṅgena || </p>
+
+            <p xml:id="yvv-130"> pañcamam āha || yathā ṛgvedapārāyaṇe saṃhitāpārāyaṇaṃ padapārāyaṇaṃ
+                kramapārāyaṇaṃ ceti | tathā hi | kramapāṭhena vinā udāttādisvarasandehe <surplus
+                    reason="dittography?">nirāsamātraṃ sandehe</surplus> nirāso na bhavati | iti
+                kramapaṭhanam <surplus>āvaśyakatvena</surplus> vinā saṃhitāpārāyaṇaṃ nārthavat |
+                ataś ca ṛgvedaśākhāyāṃ tritapārāyaṇam āvaśyam | </p>
+
 
 
         </body>
