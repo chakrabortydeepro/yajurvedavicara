@@ -196,6 +196,9 @@
       <change when="2022-03-04" who="Parthasarathi and Deepro">
         <p>updated transcription of xml:ids yvv-128-130</p>
       </change>
+      <change when="2022-03-04" who="Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-131-133incomp.</p>
+      </change>      
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -580,22 +583,22 @@
         </subst>vaśyaṃ | </p>
 
 
-      <p xml:id="yvv-131"><pb n="8v"/><lb n="1"/>tad ukta āraṇyake| anāthakāmo nirbhurjabruyāt
-        svargakāmaḥ <unclear reason="eccentric_ductus" unit="akṣara" quantity="2" confidence="0.8"
-          >tyasma</unclear>mbha<lb n="2"/>yakāma ubhyayamatareṇeti || </p>
+      <p xml:id="yvv-131"><pb n="8v"/><lb n="1"/>tad uktaṃ āraṇyake | aṃnādyakāmo nirbhurjaṃ brūyāt
+        svargakāmaḥ pratṛṇṇam ubha<lb n="2"/>yakāma ubhyayam atareṇeti || </p>
 
       <p xml:id="yvv-132"> asyārthaḥ || dvayoḥ padayo kṣarayo vāpi saṃ<lb n="3"/>dhiḥ tasya
-        avicchedādhyayanaṃ taṃ nirbhujaṃ | saṃhitā pārāyaṇamucyate || pade<lb n="4"/>akṣarebhudced
-        vā saṃdhīm akurvatā uccāraṇaṃ pra <unclear reason="eccentric_ductus" unit="akṣara"
-          quantity="2" confidence="0.5">tyaṇaṃ</unclear>padapārāyaṇaṃ || </p>
+        avicchedādhyayanaṃ taṃ nirbhujaṃ | saṃhitā pārāyaṇam ucyate || pade <lb n="4"/>akṣare śuddhe
+        dve vā saṃdhīm akurvatā uccāraṇaṃ pratṛṇṇaṃ padapārāyaṇaṃ || </p>
 
-      <p xml:id="yvv-133">saṃhi<lb n="5"/>tāpadābhyām mubhābhyāṃ vyāptaṃ ubhayamatareṇa
-        kramapārāyaṇamityarthaḥ || <lb n="6"/>tathā ca sati tribhiḥ kṛtvā svarāt svaraṃ vijānāti
-        mātrā mātrāṃ hi bhaja<lb n="7"/>te sā saṃhiteti| evametāṃ saṃhitāṃ vedasaṃdhīyateprajayāya
-        bhūmir ya<lb n="8"/>śā sā brahmavarcase na svargeṇaloke na sa<unclear
-          reason="eccentric_ductus" unit="akṣara" quantity="2" confidence="0.2">
-        jjanā</unclear>yātīti | tasmat kramāha<lb n="9"/>te dvai padasaṃhitā dvai padascaraś ca na
-        sidhyeti | dvipadāsiddhe uttarārabhaḥ ka<lb n="10"/>rtuṃ na śakyate | ataś ca pada<unclear
+      <p xml:id="yvv-133">saṃhi<lb n="5"/>tāpadābhyām mubhābhyāṃ vyāptaṃ ubhayam aṃtareṇa
+        kramapārāyaṇam ity arthaḥ || <lb n="6"/>tathā ca sati tribhiḥ kṛtvā svarāt svaraṃ vijānāti
+        mātrāmātrāṃ hi bhaja<lb n="7"/>te sā saṃhiteti | evam etāṃ saṃhitāṃ yo veda saṃdhīyate
+        prajayā paśubhir ya<lb n="8"/>śasā brahmavarcasena svargeṇa lokena sa<unclear
+          reason="overinking">rva</unclear>m āyātīti | tasmat kramād ṛ<lb n="9"/>te dvaipadasaṃhitā
+        dvaipadasvaraś ca na si<subst>
+          <del rend="crossed out">dhye</del>
+          <add place="left margin">dhya</add>
+        </subst>ti | dvipadāsiddhe uttarārabhaḥ ka<lb n="10"/>rtuṃ na śakyate | ataś ca pada<unclear
           reason="eccentric_ductus" unit="akṣara" quantity="2" confidence="0.5"
         >bhyarca</unclear>ṛksūktasidhya bhavatāyaṃ<lb n="11"/>pitānāṃ pārāyaṇakarmaṇāṃ
         kramapārārāyaṇam uttamaṃ bhavati || </p>

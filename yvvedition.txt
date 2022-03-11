@@ -471,6 +471,31 @@
                 kramapaṭhanam <surplus>āvaśyakatvena</surplus> vinā saṃhitāpārāyaṇaṃ nārthavat |
                 ataś ca ṛgvedaśākhāyāṃ tritapārāyaṇam āvaśyam | </p>
 
+            <p xml:id="yvv-131"> tad uktam āraṇyake | annādyakāmo nirbhurjaṃ brūyāt svargakāmaḥ
+                pratṛṇṇam ubhayakāma ubhyayam atareṇeti || </p>
+
+            <p xml:id="yvv-132"> asyārthaḥ || dvayoḥ padayo<supplied>r
+                    a</supplied>kṣarayo<supplied>r</supplied> vāpi sandhiḥ tasya avicchedādhyayanaṃ
+                taṃ nirbhujaṃ | saṃhitā pārāyaṇam ucyate || pade<lb n="4"/>akṣarebhudced vā saṃdhīm
+                akurvatā uccāraṇaṃ pratṛṇṇaṃ padapārāyaṇam || </p>
+
+            <p xml:id="yvv-133">saṃhitāpadābhyām ubhābhyāṃ vyāptam ubhayam antareṇa kramapārāyaṇam
+                ity arthaḥ || tathā ca sati tribhiḥ kṛtvā svarāt svaraṃ vijānāti mātrāmātrāṃ hi
+                bhajate sā saṃhiteti | evam etāṃ saṃhitāṃ yo veda sandhīyate prajayā paśubhir yaśasā
+                brahmavarcasena svargeṇa lokena sarvam āyātīti | tasmat kramād ṛte dvaipadasaṃhitā
+                dvaipadasvaraś ca na sidhyati | <!--dvipadāsiddhe uttarārabhaḥ ka<lb n="10"/>rtuṃ na
+                śakyate | ataś ca pada<unclear reason="eccentric_ductus" unit="akṣara" quantity="2"
+                    confidence="0.5">bhyarca</unclear>ṛksūktasidhya bhavatāyaṃ<lb n="11"/>pitānāṃ
+                pārāyaṇakarmaṇāṃ kramapārārāyaṇam uttamaṃ bhavati || --> </p>
+
+            <!--<p xml:id="yvv-134"> cātraślokaḥ || </p>
+
+            <lg>
+                <l xml:id="yvv-135"><lb n="12"/>agādhena purādānaṃ dṛṣṭā yajñamṛdhau muniṃ || </l>
+                <l xml:id="yvv-136"> arthavantaṃ kramaṃ brūyād devatāyā<pb n="9r"/><lb n="1"/>ś ca
+                    śāstrataḥ || </l>
+            </lg> -->
+
 
 
         </body>
