@@ -196,9 +196,12 @@
       <change when="2022-03-04" who="Parthasarathi and Deepro">
         <p>updated transcription of xml:ids yvv-128-130</p>
       </change>
-      <change when="2022-03-04" who="Parthasarathi and Deepro">
+      <change when="2022-03-11" who="Aniruddha and Deepro">
         <p>updated transcription of xml:ids yvv-131-133incomp.</p>
-      </change>      
+      </change>
+      <change when="2022-03-26" who="Parthasarathi Aniruddha and Deepro">
+        <p>updated transcription of xml:ids yvv-333-136</p>
+      </change>       
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -594,19 +597,19 @@
         kramapārāyaṇam ity arthaḥ || <lb n="6"/>tathā ca sati tribhiḥ kṛtvā svarāt svaraṃ vijānāti
         mātrāmātrāṃ hi bhaja<lb n="7"/>te sā saṃhiteti | evam etāṃ saṃhitāṃ yo veda saṃdhīyate
         prajayā paśubhir ya<lb n="8"/>śasā brahmavarcasena svargeṇa lokena sa<unclear
-          reason="overinking">rva</unclear>m āyātīti | tasmat kramād ṛ<lb n="9"/>te dvaipadasaṃhitā
+          reason="overinking">rva</unclear>m āyātīti | tasmāt kramād ṛ<lb n="9"/>te dvaipadasaṃhitā
         dvaipadasvaraś ca na si<subst>
           <del rend="crossed out">dhye</del>
           <add place="left margin">dhya</add>
-        </subst>ti | dvipadāsiddhe uttarārabhaḥ ka<lb n="10"/>rtuṃ na śakyate | ataś ca pada<unclear
+        </subst>ti | dvipadāsiddhe uttarāraṃbhaḥ ka<lb n="10"/>rtuṃ na śakyate | ataś ca padā<unclear
           reason="eccentric_ductus" unit="akṣara" quantity="2" confidence="0.5"
-        >bhyarca</unclear>ṛksūktasidhya bhavatāyaṃ<lb n="11"/>pitānāṃ pārāyaṇakarmaṇāṃ
+        >rddharca</unclear> ṛksūktasidhya bhavatā pāṃcelena sthā<lb n="11"/>pitānāṃ pārāyaṇakarmaṇāṃ
         kramapārārāyaṇam uttamaṃ bhavati || </p>
 
       <p xml:id="yvv-134"> cātraślokaḥ || </p>
 
       <lg>
-        <l xml:id="yvv-135"><lb n="12"/>agādhena purādānaṃ dṛṣṭā yajñamṛdhau muniṃ || </l>
+        <l xml:id="yvv-135"><lb n="12"/>pragāthena purā dānaṃ dṛṣṭvā yajñamṛdhau muniṃ || </l>
         <l xml:id="yvv-136"> arthavantaṃ kramaṃ brūyād devatāyā<pb n="9r"/><lb n="1"/>ś ca śāstrataḥ
           || </l>
       </lg>

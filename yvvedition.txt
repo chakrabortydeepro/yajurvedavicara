@@ -117,6 +117,12 @@
             <change when="2022-03-04" who="Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-128-130</p>
             </change>
+            <change when="2022-03-11" who="Aniruddha and Deepro">
+                <p>verified the readings of xml:ids yvv-131-133incomp.</p>
+            </change>
+            <change when="2022-03-26" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-133-1336</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -482,19 +488,22 @@
             <p xml:id="yvv-133">saṃhitāpadābhyām ubhābhyāṃ vyāptam ubhayam antareṇa kramapārāyaṇam
                 ity arthaḥ || tathā ca sati tribhiḥ kṛtvā svarāt svaraṃ vijānāti mātrāmātrāṃ hi
                 bhajate sā saṃhiteti | evam etāṃ saṃhitāṃ yo veda sandhīyate prajayā paśubhir yaśasā
-                brahmavarcasena svargeṇa lokena sarvam āyātīti | tasmat kramād ṛte dvaipadasaṃhitā
-                dvaipadasvaraś ca na sidhyati | <!--dvipadāsiddhe uttarārabhaḥ ka<lb n="10"/>rtuṃ na
-                śakyate | ataś ca pada<unclear reason="eccentric_ductus" unit="akṣara" quantity="2"
-                    confidence="0.5">bhyarca</unclear>ṛksūktasidhya bhavatāyaṃ<lb n="11"/>pitānāṃ
-                pārāyaṇakarmaṇāṃ kramapārārāyaṇam uttamaṃ bhavati || --> </p>
+                brahmavarcasena svargeṇa lokena sarvam āyātīti | tasmāt kramād ṛte dvaipadasaṃhitā
+                dvaipadasvaraś ca na sidhyati | dvipadāsiddhe uttarārambhaḥ kartuṃ na śakyate | ataś
+                ca padārdharca ṛksūktasidhya bha<supplied>ga</supplied>vatā pāñcālena sthā<lb n="11"
+                />pitānāṃ pārāyaṇakarmaṇāṃ kramapārārāyaṇam uttamaṃ
+                bhavati<!-- https://books.google.ca/books?id=AgI-AAAAcAAJ&pg=PA450&lpg=PA450&dq=%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%82+%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%BE%E0%A4%82&source=bl&ots=dA8JuEb85f&sig=ACfU3U1mG_2UW4BfuMnoPh6nqU9v6sKaNg&hl=en&sa=X&ved=2ahUKEwjl7MK_sOT2AhX9CTQIHdzDClQQ6AF6BAgCEAM#v=onepage&q=%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%82%20%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%BE%E0%A4%82&f=false -->
+                || -->
+                <!-- Gālava, name of Bābhravya Pāñcāla, who was author of Ṛgveda kramapāṭha -->
+            </p>
 
-            <!--<p xml:id="yvv-134"> cātraślokaḥ || </p>
+            <p xml:id="yvv-134"> cātraślokaḥ || </p>
 
             <lg>
-                <l xml:id="yvv-135"><lb n="12"/>agādhena purādānaṃ dṛṣṭā yajñamṛdhau muniṃ || </l>
-                <l xml:id="yvv-136"> arthavantaṃ kramaṃ brūyād devatāyā<pb n="9r"/><lb n="1"/>ś ca
-                    śāstrataḥ || </l>
-            </lg> -->
+                <l xml:id="yvv-135"> pragāthena purā dānaṃ dṛṣṭvā <supplied>kruddho
+                        mahāmuniḥ</supplied> | </l>
+                <l xml:id="yvv-136"> arthavantaṃ kramaṃ brūyād devatāyāś ca śāstrataḥ || </l>
+            </lg>
 
 
 
