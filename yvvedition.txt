@@ -121,7 +121,10 @@
                 <p>verified the readings of xml:ids yvv-131-133incomp.</p>
             </change>
             <change when="2022-03-26" who="Aniruddha Parthasarathi and Deepro">
-                <p>verified the readings of xml:ids yvv-133-1336</p>
+                <p>verified the readings of xml:ids yvv-133-136</p>
+            </change>
+            <change when="2022-04-02" who="Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-137-140</p>
             </change>
         </revisionDesc>
     </teiHeader>
@@ -505,7 +508,25 @@
                 <l xml:id="yvv-136"> arthavantaṃ kramaṃ brūyād devatāyāś ca śāstrataḥ || </l>
             </lg>
 
+            <l xml:id="yvv-137"> ato 'py ṛgyajuṣāṃ bṛṃhaṇaṃ padaiḥ svaraiś cādhyāyanaṃ tathā tribhiḥ
+                ||
+                <!-- check Ṛgvedaprātiśākhya (37.7) http://www.detlef108.de/RV-Pratishakhya-DT-UTF8.html --></l>
 
+            <l xml:id="yvv-138"> asyārthaḥ || </l>
+
+            <p xml:id="yvv-139"> ato 'pi | asmād api hetoḥ kramaḥ arthavān bhavati <supplied>|
+                </supplied> krameṇa yutā<supplied>nā</supplied>m ṛgvedapārāyaṇe ṛcāṃ bṛṃhaṇaṃ
+                sandhāraṇaṃ bhavati idam ittham | evaṃ pāṭha iti svaramātrādirūpeṇa niścayo bhavati
+                | tathā yajurvedapārāyaṇe yajuṣāṃ bṛṃhaṇaṃ <sic>nāsa</sic>saṃdhāraṇaṃ
+                svaramātrādirūpeṇa idam ittham | evaṃ pāṭha iti niścayo bhavatīty atideśa ity alaṃ
+                prapañena |</p>
+
+            <p xml:id="yvv-140"> ṣaṣṭham āha | mahārṇavakārasamāptau caitā yajuṣā tarpayati | yasyāṃ
+                śākhāyām upākarmaṇi nityaṃ ca kāṇḍa ṛṣyāditarpaṇaṃ sa yajurvedī prajāpatiṃ kāṇḍa
+                ṛṣin ityādi sadasaspatyantāḥ | etā homīyā devatāḥ pratyekaṃ yajurvedena saha
+                tarpayati | yajurvedapārāyaṇe yajurvedasya prādhānyam ucyate | ṛgvedapārāyaṇe
+                kāṇḍaṛṣyādivarje sviṣṭakṛtasthāne ṛkśākhīyā nityatarpaṇoktāḥ śatarcinādayo devatā
+                grāhyāḥ | anyat sarvaṃ samānam |</p>
 
         </body>
     </text>

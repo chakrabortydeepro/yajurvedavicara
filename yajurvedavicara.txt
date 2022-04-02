@@ -200,8 +200,11 @@
         <p>updated transcription of xml:ids yvv-131-133incomp.</p>
       </change>
       <change when="2022-03-26" who="Parthasarathi Aniruddha and Deepro">
-        <p>updated transcription of xml:ids yvv-333-136</p>
-      </change>       
+        <p>updated transcription of xml:ids yvv-133-136</p>
+      </change>
+      <change when="2022-04-02" who="Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-137-140</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -601,10 +604,10 @@
         dvaipadasvaraś ca na si<subst>
           <del rend="crossed out">dhye</del>
           <add place="left margin">dhya</add>
-        </subst>ti | dvipadāsiddhe uttarāraṃbhaḥ ka<lb n="10"/>rtuṃ na śakyate | ataś ca padā<unclear
-          reason="eccentric_ductus" unit="akṣara" quantity="2" confidence="0.5"
-        >rddharca</unclear> ṛksūktasidhya bhavatā pāṃcelena sthā<lb n="11"/>pitānāṃ pārāyaṇakarmaṇāṃ
-        kramapārārāyaṇam uttamaṃ bhavati || </p>
+        </subst>ti | dvipadāsiddhe uttarāraṃbhaḥ ka<lb n="10"/>rtuṃ na śakyate | ataś ca
+          padā<unclear reason="eccentric_ductus" unit="akṣara" quantity="2" confidence="0.5"
+          >rddharca</unclear> ṛksūktasidhya bhavatā pāṃcelena sthā<lb n="11"/>pitānāṃ
+        pārāyaṇakarmaṇāṃ kramapārārāyaṇam uttamaṃ bhavati || </p>
 
       <p xml:id="yvv-134"> cātraślokaḥ || </p>
 
@@ -614,20 +617,24 @@
           || </l>
       </lg>
 
-      <l>atomṛgyajuṣo bṛṃhaṇaṃ padaiḥ svaraiś cādhyāyanaṃ tathā tribhiḥ ||</l>
+      <l xml:id="yvv-137">ato py ṛgyajuṣāṃ bṛṃhaṇaṃ padaiḥ svaraiś cādhyāyanaṃ tathā tribhiḥ ||</l>
 
-      <p> asyā<lb n="2"/>rthaḥ || ato pi | asmādapi hetoḥ kramaḥ arthavān <add place="top margin"
-          >bhavati</add> krameṇa yūtāṃ sṛgvedapārā<lb n="3"/>yaṇe ṛcāṃ bṛṃhaṇaṃ svadhāraṇaṃ bhavati
+      <l xml:id="yvv-138"> asyā<lb n="2"/>rthaḥ || </l>
+
+      <p xml:id="yvv-139"> ato pi | asmād api hetoḥ kramaḥ arthavān <add place="top margin"
+          >bhavati</add> krameṇa yūtāṃ ṛgvedapārā<lb n="3"/>yaṇe ṛcāṃ bṛṃhaṇaṃ saṃdhāraṇaṃ bhavati
         idam itthaṃ | evaṃ pāṭhe iti svaramātrādirūpeṇa <lb n="4"/>niścayo bhavati | tathā
-        yajurvedapārāyaṇe yajuṣāṃ bṛṃhaṇaṃ nāsatyaṃ dhāraṇaṃ svara<lb n="5"/>mātrādirūpeṇa idam
+        yajurvedapārāyaṇe yajuṣāṃ bṛṃhaṇaṃ nāsa saṃdhāraṇaṃ svara<lb n="5"/>mātrādirūpeṇa idam
         itthaṃ | evaṃ pāṭha iti niścayo bhavatīty atideśa ity alaṃ prapaṃ<lb n="6"/>cena |</p>
 
-      <p> ṣaṣṭham āha| mahārṇavakārasamāptau caitā yajuṣā tarpayati | yasyāṃ śā<lb n="7"/>khāyāṃ
-        upākarmaṇi nityaṃ ca kāṇḍa ṛṣyāditarpaṇaṃ sa yajurvedī prajāpa<lb n="8"/>tiṃ
-        kāṇḍṛṣinityādisadasaspatyantāḥ | etā homā yā devatyāḥ pratyekaṃ yajurvedena sa<lb n="9"/>ha
-        tarpayati| yajurvedapārāyaṇe yajurvesya prādhānyena ucyate| ṛgvedapārāyaṇe kā<lb n="10"
-        />ṇḍṛṣyādivarje sviṣṭakṛsthāne ṛkśākhīyā nityatarpaṇoktāḥ śatarcinā<lb n="11"/>dayo devatā
-        māhyāḥ| anyat sarvaṃ samānaṃ|</p>
+      <p xml:id="yvv-140"> ṣaṣṭham āha | mahārṇa<del rend="crossed out">r</del>vakārasamāptau caitā
+        yajuṣā tarpayati | yasyāṃ śā<lb n="7"/>khāyāṃ upākarmaṇi nityaṃ ca kāṃḍa ṛṣyāditarpaṇaṃ sa
+        yajurvedī prajāpa<lb n="8"/>tiṃ kāṇḍa ṛṣin ityādi sadasaspatyantāḥ | etā homīyā devatāḥ
+        pratyekaṃ yajurvedena sa<lb n="9"/>ha tarpayati | yajurvedapārāyaṇe yajurvedasya prādhānyaṃ
+        ucyate | ṛgvedapārāyaṇe kā<lb n="10"/>ṃḍaṛṣyādivarje sviṣṭakṛta<unclear reason="overinking"
+          >sthā</unclear>ne ṛkśākhīyā nityatarpaṇoktāḥ śatarcinā<lb n="11"/>dayo devatā grāhyāḥ |
+        anyat sarvaṃ samānam |</p>
+
       <p> saptamaṃ darśayati | mahārṇavakāraḥ | </p>
       <lg>
         <l>pavamānā<lb n="12"/>nuvākena śataṃ idrānuvākataḥ| </l>
