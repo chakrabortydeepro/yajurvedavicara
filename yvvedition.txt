@@ -126,6 +126,9 @@
             <change when="2022-04-02" who="Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-137-140</p>
             </change>
+            <change when="2022-04-09" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-141-150</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -512,21 +515,60 @@
                 ||
                 <!-- check Ṛgvedaprātiśākhya (37.7) http://www.detlef108.de/RV-Pratishakhya-DT-UTF8.html --></l>
 
-            <l xml:id="yvv-138"> asyārthaḥ || </l>
+            <p xml:id="yvv-138"> asyārthaḥ || </p>
 
             <p xml:id="yvv-139"> ato 'pi | asmād api hetoḥ kramaḥ arthavān bhavati <supplied>|
                 </supplied> krameṇa yutā<supplied>nā</supplied>m ṛgvedapārāyaṇe ṛcāṃ bṛṃhaṇaṃ
                 sandhāraṇaṃ bhavati idam ittham | evaṃ pāṭha iti svaramātrādirūpeṇa niścayo bhavati
                 | tathā yajurvedapārāyaṇe yajuṣāṃ bṛṃhaṇaṃ <sic>nāsa</sic>saṃdhāraṇaṃ
                 svaramātrādirūpeṇa idam ittham | evaṃ pāṭha iti niścayo bhavatīty atideśa ity alaṃ
-                prapañena |</p>
+                prapañcena |</p>
 
             <p xml:id="yvv-140"> ṣaṣṭham āha | mahārṇavakārasamāptau caitā yajuṣā tarpayati | yasyāṃ
-                śākhāyām upākarmaṇi nityaṃ ca kāṇḍa ṛṣyāditarpaṇaṃ sa yajurvedī prajāpatiṃ kāṇḍa
-                ṛṣin ityādi sadasaspatyantāḥ | etā homīyā devatāḥ pratyekaṃ yajurvedena saha
-                tarpayati | yajurvedapārāyaṇe yajurvedasya prādhānyam ucyate | ṛgvedapārāyaṇe
-                kāṇḍaṛṣyādivarje sviṣṭakṛtasthāne ṛkśākhīyā nityatarpaṇoktāḥ śatarcinādayo devatā
-                grāhyāḥ | anyat sarvaṃ samānam |</p>
+                śākhāyām upākarmaṇi nityaṃ ca kāṇḍaṛṣyāditarpaṇaṃ sa yajurvedī prajāpatiṃ kāṇḍaṛṣīn
+                ityādi sadasaspatyantāḥ | etā homīyā devatāḥ pratyekaṃ yajurvedena saha tarpayati |
+                yajurvedapārāyaṇe yajurvedasya prādhānyam ucyate | ṛgvedapārāyaṇe kāṇḍaṛṣyādivarje
+                sviṣṭakṛtasthāne ṛkśākhīyā nityatarpaṇoktāḥ śatarcinādayo devatā grāhyāḥ | anyat
+                sarvaṃ samānam |</p>
+
+            <p xml:id="yvv-141"> saptamaṃ darśayati | mahārṇavakāraḥ | </p>
+            <lg>
+                <l xml:id="yvv-142"> pavamānānuvākena śaṃ na indrānuvākataḥ | </l>
+                <l xml:id="yvv-143"> śaṃ no vātānuvākena ghoṣayec chāntivācanam || iti |</l>
+                <!-- https://archive.org/details/mandanamahaarnavavisvesvarabhattanambiarm.r.embarkrishnamacharyauniversityofbaroda117prayschitt_775_W/page/n91/mode/2up?view=theater -->
+            </lg>
+
+
+            <p xml:id="yvv-144"> śaṃ na indrānuvākena ity anena
+                    āśvalāyanaśākhīyapaṭhitaghoṣa<sic>ya</sic>śātir upalakṣyate | atra ca
+                vedakrameṇa prathamata iyaṃ śānti paṭhanīyā | paścād yājuṣī śāntiḥ | śaṃ no vātaḥ
+                pacatām ityādiyajurvedapaṭhitāḥ paṭhanīyāḥ | etatprasaṅgenaiva eteṣāṃ mantrāṇām
+                ṛṣidaivatacchandāṃsi darśayiṣyan | pratiṣṭhāsi pratiṣṭhāvanto bhūyāsmeti maṃtrasya
+                mayi parvatapūruṣaṃ mayi parvatavarcasaṃ mayi parvatabheṣajam | namo bhavāyetyādikāḥ
+                | namo rudrebhya ityādikāḥ | jayādihome cittaṃ ca svāhetyādayaḥ | anye py etajjātīyā
+                ye mantrās teṣāṃ <supplied>yajus</supplied>tvāt chand<supplied>o'</supplied>bhāva
+                ity uktam | anyac chando vartata iti siddhāntaḥ | tathā sati yajuśchando na vidyata
+                iti ko 'rthaḥ | </p>
+
+            <p xml:id="yvv-145">kiṃ sarvayajurvedaśākhīyānāṃ mantrāṇāṃ chando'bhāvaḥ |
+                uktamantraviśeṣāṇāṃ vā tatra na tāvatādyāḥ | mahārṇavakāreṇa sarveṣāṃ darśitatvāt na
+                dvitīyaḥ | mantraviśeṣānirvacanāt | atrocyate |</p>
+
+            <p xml:id="yvv-146"> nigadākhyaṃ yajurgaṇa yajurveda ity atrāntaḥpātiyajurvedaśabdena
+                aniyatākṣarāvasānayajur iṣe tvorje tveti yajuḥ | āśvalāyanāraṇyakabhāṣye |</p>
+
+            <p xml:id="yvv-147">gadyātmakayajurveda iti śrīdharaḥ | vākyaṃ yajur iti
+                yajurvedaśākhinaḥ | tatra mantrātmakāmantrātmakayajurgaṇasya sakalasyāpi
+                    chand<supplied>o'</supplied>bhāvaḥ | yajuḥsamudāyātmakamantrāṇāṃ sarvatra chanda
+                iti taittirīyakayājurvedīnāṃ śāstrasiddhāntaḥ |</p>
+
+            <p xml:id="yvv-148">aṣṭamam āha | tatra sṛṣṭiprasaṅgena manubhāṣyakāro medhātithiḥ | </p>
+
+            <lg>
+                <l xml:id="yvv-149">agnivāyuravibhyaś ca trayaṃ brahma sanātanam | </l>
+                <l xml:id="yvv-150">dudoha yajñasiddhyartham ṛgyajuḥsāmalakṣaṇam || </l>
+            </lg>
+
 
         </body>
     </text>
