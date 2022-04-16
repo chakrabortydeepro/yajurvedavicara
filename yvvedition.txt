@@ -129,6 +129,9 @@
             <change when="2022-04-09" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-141-150</p>
             </change>
+            <change when="2022-04-16" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-151-155</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -567,6 +570,38 @@
             <lg>
                 <l xml:id="yvv-149">agnivāyuravibhyaś ca trayaṃ brahma sanātanam | </l>
                 <l xml:id="yvv-150">dudoha yajñasiddhyartham ṛgyajuḥsāmalakṣaṇam || </l>
+            </lg>
+
+            <p xml:id="yvv-151"> asyārthaḥ | prajāpatiḥ ṛgyajuḥsāmalakṣaṇaṃ sanātanaṃ brahma
+                yajñasiddhyarthe dudoha ātmānam iti dvitīyaṃ karmakebhyaḥ agnivāyuravibhyaḥ dohanaṃ
+                cādhyayanaṃ || tatrādau agneḥ sakāśād agnimīḻeti ṛgvedam adhītavān | vāyoḥ sakāśād
+                iṣe tvorje tveti yajurvedam adhītavān | bhūr bhuvaḥ svar iti etāvān vyāhṛtayaḥ ime
+                trayo vedā bhūr ity eva ṛgvedo bhuva iti yajurvedaḥ svar iti sāmavedaḥ | iti
+                ṛgvedāraṇyake uktam |</p>
+
+            <p xml:id="yvv-152"> anyac ca | ṣakārānto iṣuśabdaḥ a<supplied>nna</supplied>vācakaḥ |
+                tathā sati iḍannaṃ tanmadhyasthānatvād vāyunā varṣadānena
+                kriyate<!-- Medhātithi: https://archive.org/details/manusmritiwith6commentariesvol1visvanathnarayanmandalikmrml_202003_605_H/page/n41/mode/2up?view=theater -->
+                itīṣe tvā | ṛkprāṇarūpo vāyuḥ so 'pi śvāsocchvāsābhyām adhyayane hetur bhavati
+                    <supplied>|</supplied> annādyād ito vāyukāryasamba<supplied>ndhe</supplied>na
+                vāyor janyayajurvedaḥ | tasya ca adhītā | tasmād asyāṃ daśāyāṃ vāyoḥ sakāśāt
+                prajāpatir yajurveda iṣe tvorje tveti adhītavān | tasyāṃ daśāyāṃ āvaiśampāyanaṃ
+                sūpadiṣṭa ayātayāma ikhe tvorje tveti vājasaneyapāṭhābhāvāt | yātayāma iṣe tvorje
+                tveti evamākāraka eva yajurveda iti | </p>
+
+            <p xml:id="yvv-153"> atha navamam āha | sāmānyasūtrabhāṣyakāraḥ |
+                caturvedanirūpaṇaprasaṅgena | </p>
+
+            <p xml:id="yvv-154"> yadāgneyo 'ṣṭākapālo 'māvāsyāyāṃ ca paurṇamāsyāṃ cācyuto
+                bhavatītyādibhir vākyair yajurvedapaṭhitatvāt | </p>
+
+            <p xml:id="yvv-155">atraivaṃ daśamaṃ darśayati | tac ca
+                hemādrimādhavanṛsiṃhaprasādakālādarśaprayogapārijātādinibandheṣu
+                upākarmanirṇayaprasaṅgena vyākhyātam | tathāhi |</p>
+
+            <lg>
+                <l xml:id="yvv-155a"> adhyāyānām upākarma śrāvaṇyāṃ śravaṇena vā | </l>
+                <l xml:id="yvv-155b"> hastenauṣadhibhāve vā pañcamyāṃ śravaṇena veti | </l>
             </lg>
 
 
