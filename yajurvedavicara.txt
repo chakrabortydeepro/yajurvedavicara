@@ -214,6 +214,9 @@
       <change when="2022-04-16" who="Deepro">
         <p>assigned xml:ids yvv-156-182</p>
       </change>
+      <change when="2022-05-07" who="Aniruddha and Deepro">
+        <p>updated transcription of xml:ids yvv-156a-167</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -655,36 +658,45 @@
 
       <lg>
         <l xml:id="yvv-155a">adhyāyānām upākarma śrāvaṇyāṃ śravaṇena vā |</l>
-        <l xml:id="yvv-155b"> hastenauṣadhibhāve <pb n="11r"/><lb n="1"/>vā paṃcamyāṃ śravaṇena veti |</l>
+        <l xml:id="yvv-155b"> hastenauṣadhibhāve <pb n="11r"/><lb n="1"/>vā paṃcamyāṃ śravaṇena veti
+          |</l>
       </lg>
 
-      <p xml:id="yvv-156"> āśvalāyanaḥ | athāto dhyāyopākaraṇamoṣadhī<lb n="2"/>no prādurbhāve
-        śravaṇena śrāvaṇasya paṃcamyāṃ hastena veti | nigame pi | athāto dhyāyo<lb n="3"
-        />pākarmaśravaṇena śrāvaṇyāṃ paurṇamāsyāṃ |</p>
-      <p xml:id="yvv-157"> baudhāyanaḥ | śrāvaṇyāṃ paurṇamāsyāṃ māṣā <lb n="4"/>ṣṭyāṃ vā pākasya
-        chaṃdāsyadhītya chaṃdāsyadhīyīta | </p>
-      <p xml:id="yvv-158"> vasiṣṭo pi | abhātaḥ svādhyāyo <lb n="5"/>pākakarma śrāvaṇyāṃ
+      <p xml:id="yvv-156a"> āśvalāyanaḥ | athāto dhyāyopākaraṇamoṣadhī<lb n="2"/>nāṃ prādurbhāve
+        śravaṇena śrāvaṇasya paṃcamyāṃ hastena veti | </p>
+      <p xml:id="yvv-156b">nigame pi | athāto dhyāyo<lb n="3"/>pākarmaśravaṇena śrāvaṇyāṃ
+        paurṇamāsyāṃ |</p>
+      <p xml:id="yvv-157"> baudhāyanaḥ | śrāvaṇyāṃ paurṇamāsyā<sic>ṃ</sic>m āṣā<lb n="4"/>ḍhyāṃ
+        vopākṛtya chaṃdāṃsy adhītya chaṃdāsy adhīyīta | </p>
+      <p xml:id="yvv-158"> vasiṣṭo pi | athātaḥ svādhyāyo <lb n="5"/>pākakarma śrāvaṇyāṃ
         prauṣṭapadyāṃ ceti | </p>
-      <p xml:id="yvv-159"> manur api| śrāvaṇyāṃ prauṣṭhapadyāṃ <unclear reason="eccentric_ductus"
-          confidence="0.5">vāpy</unclear> upākasya <lb n="6"/>yathāvidhiḥ | yuktachaṃdāṃsyadhīyīta
-        māsāci prārddhaṃ paṃcama ityādivākyeṣu sa<lb n="7"/>rveṣāṃ śākhīnāṃ copākarmaṇi vyavasthitaḥ
-        | </p>
-      <p xml:id="yvv-160">kālaviśeṣā śrūyaṃte || ataś cedaṃ vya<lb n="8"/>vasthāpakaṃ vacanaṃ | </p>
-      <l xml:id="yvv-161"> upākarma prakurvati kramāt sāmayajurvidaḥ | </l>
-      <l xml:id="yvv-162"> grahasaṃkrāṃtya yukteṣu <lb n="9"/>hastaśravaṇaparvasu | </l>
+      <p xml:id="yvv-159"> manur api | </p>
       <lg>
-        <l xml:id="yvv-163"> dhaniṣṭhā pratiṣṭhā pratipadyukte
-          tyāṣṭa<unclear>ṛ</unclear>kṣasamanvitaṃ |</l>
-        <l xml:id="yvv-164"> śravaṇākarma ku<lb n="10"/>rveti ṛgyajuḥsāmapāṭhakāḥ | </l>
-        <l xml:id="yvv-165"> eva ha saṃkrāṃtyarahitā śrutiparvakarāḥ kramāt | </l>
-        <l xml:id="yvv-166"> para<lb n="11"/>vidvā du pāde yā ṛgyajuḥsāmaśākhibhiḥ |</l>
+        <l xml:id="yvv-159a">śrāvaṇyāṃ prauṣṭhapadyāṃ vāpy upākṛtya <lb n="6"/>yathāvidhiḥ | </l>
+        <l xml:id="yvv-159b">yuktaś chaṃdāṃsy adhīyīta māsāci prārddhaṃ pañcama</l>
       </lg>
-      <p xml:id="yvv-167"> ityādi vākyālocanayā ṛgvedādīnāṃ <lb n="12"/>udayakālinaḥ śravaṇaḥ |
-        yajurvedīnāṃ udayakālinaparva | sāmavedināṃ udayagānā<pb n="11v"/><lb n="1"/>kālino hasta
-        iti vyavasthitaṃ | tathaiva sva sva gatye pratipādanāt | atra ca dhani<lb n="2"/>ṣṭhā
-        pratipadyuktam iti vākye udayakāle vyāpinyāṃ paurṇmāsyāṃ yajurvedibhiḥ eṣā <lb n="3"/>karma
-        kartavyaṃ ity uktaṃ | atra yajurvedaśabdena taittirīyak evocyate | hemādyāditi<lb n="4"
-        />vandhakāraiḥ | tathā hi | </p>
+      <p xml:id="yvv-159c"> ityādivākyeṣu sa<lb n="7"/>rveṣāṃ śākhīnāṃ copākarmaṇi vyavasthitaḥ | </p>
+
+      <p xml:id="yvv-160"> kāṇḍaviśeṣā śrūyaṃte || ataś cedaṃ vya<lb n="8"/>vasthāpakaṃ vacanaṃ | </p>
+      <lg>
+        <l xml:id="yvv-161"> upākarma prakurvati kramāt sāmayajurvidaḥ | </l>
+        <l xml:id="yvv-162"> grahasaṃkrāṃtyayukteṣu <lb n="9"/>hastaśravaṇaparvasu | </l>
+        <l xml:id="yvv-163"> dhaniṣṭhāpratipadyuktṃ tvāṣṭraṛkṣasamanvitaṃ |</l>
+        <l xml:id="yvv-164"> śravaṇākarma ku<lb n="10"/>rvaṃti ṛgyajuḥsāmapāṭhakāḥ | </l>
+        <l xml:id="yvv-165"> grahasaṃkrāṃtyarahitā śrutiparvakarāḥ kramāt | </l>
+        <l xml:id="yvv-166"> para<lb n="11"/>viddhā upādeyā ṛgyajuḥsāmaśākhibhiḥ |</l>
+      </lg>
+      <p xml:id="yvv-167"> ityādivākya<subst>
+          <del rend="crossed out">ā</del>
+          <add place="right margin">paryā</add>
+        </subst>locanayā ṛgvedīnāṃ <lb n="12"/>udayakālinaḥ śravaṇaḥ | yajurvedīnāṃ udayakālinaparva
+        | sāma<choice>
+          <orig>vedi</orig>
+          <corr>gānā</corr>
+        </choice>nāṃ udaya<pb n="11v"/><lb n="1"/>kālino hasta iti vyavasthitaṃ | tathaiva
+        svasvagṛhye pratipādanāt | atra ca dhani<lb n="2"/>ṣṭhāpratipadyuktam iti vākye udayakāle
+        vyāpinyāṃ paurṇmāsyāṃ yajurvedibhiḥ uṣā<lb n="3"/>karma kartavyaṃ ity uktaṃ | atra
+        yajurvedaśabdena taittirīyakā evocyaṃte | hemādryādini<lb n="4"/>bandhakāraiḥ | tathā hi | </p>
       <lg>
         <l xml:id="yvv-168"> caturdaśyāṃ samutpanāv asurau madhukaiṭabhau |</l>
         <l xml:id="yvv-169"> vedān svīkurvataḥ <lb n="5"/>padmayonestau juhutaḥ stutiḥ |</l>

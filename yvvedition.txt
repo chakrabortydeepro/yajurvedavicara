@@ -132,6 +132,9 @@
             <change when="2022-04-16" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-151-155</p>
             </change>
+            <change when="2022-05-07" who="Aniruddha and Deepro">
+                <p>verified the readings of xml:ids yvv-156a-167</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -601,9 +604,43 @@
 
             <lg>
                 <l xml:id="yvv-155a"> adhyāyānām upākarma śrāvaṇyāṃ śravaṇena vā | </l>
-                <l xml:id="yvv-155b"> hastenauṣadhibhāve vā pañcamyāṃ śravaṇena veti | </l>
+                <l xml:id="yvv-155b"> hastenauṣadhibhāve vā pañcamyāṃ śravaṇena vā || </l>
             </lg>
 
+            <p xml:id="yvv-156a"> iti āśvalāyanaḥ | athāto 'dhyāyopākaraṇam oṣadhīnāṃ prādurbhāve
+                śravaṇena śrāvaṇasya pañcamyāṃ hastena veti |</p>
+
+            <p xml:id="yvv-156b"> nigame 'pi | athāto 'dhyāyopākarmaśravaṇena śrāvaṇyāṃ paurṇamāsyām
+                |</p>
+
+            <p xml:id="yvv-157"> baudhāyanaḥ | śrāvaṇyāṃ paurṇamāsyām āṣāḍhyāṃ vopākṛtya chandāṃsy
+                adhītya chandāsy adhīyīta | </p>
+
+            <p xml:id="yvv-158"> vasiṣṭo 'pi | athātaḥ svādhyāyo 'pākakarma śrāvaṇyāṃ prauṣṭapadyāṃ
+                ceti | </p>
+
+            <p xml:id="yvv-159"> manur api | </p>
+            <lg>
+                <l xml:id="yvv-159a">śrāvaṇyāṃ prauṣṭhapadyāṃ vāpy upākṛtya <lb n="6"/>yathāvidhiḥ | </l>
+                <l xml:id="yvv-159b">yuktaś chaṃdāṃsy adhīyīta māsān vipro 'rdhapañcama</l>
+            </lg>
+            <p xml:id="yvv-159c"> ityādivākyeṣu sarveṣāṃ śākhīnāṃ copākarmaṇi vyavasthitaḥ | </p>
+
+            <p xml:id="yvv-160"> kāṇḍaviśeṣāḥ śrūyante || ataś cedaṃ vyavasthāpakaṃ vacanaṃ | </p>
+            <lg>
+                <l xml:id="yvv-161"> upākarma prakurvati kramāt sāmayajurvidaḥ | </l>
+                <l xml:id="yvv-162"> grahasaṅkrāntyayukteṣu hastaśravaṇaparvasu || </l>
+                <l xml:id="yvv-163"> dhaniṣṭhāpratipadyuktaṃ tvāṣṭraṛkṣasamanvitam |</l>
+                <l xml:id="yvv-164"> śrāvaṇakarma kurvanti ṛgyajuḥsāmapāṭhakāḥ || </l>
+                <l xml:id="yvv-165"> grahasaṅkrāntyarahitāḥ śrutiparvakarāḥ kramāt | </l>
+                <l xml:id="yvv-166"> paraviddhā upādeyā ṛgyajuḥsāmaśākhibhiḥ ||</l>
+            </lg>
+
+            <p xml:id="yvv-167"> ityādivākyaparyālocanayā ṛgvedinām udayakālinaḥ śravaṇaḥ |
+                yajurvedinām udayakālinaparva | sāmavedinām udayakālino hasta iti vyavasthitam |
+                tathaiva svasvagṛhye pratipādanāt | atra ca dhaniṣṭhāpratipadyuktam iti vākye
+                udayakāle vyāpinyāṃ paurṇmāsyāṃ yajurvedibhir uṣākarma kartavyam ity uktam | atra
+                yajurvedaśabdena taittirīyakā evocyante | hemādryādinibandhakāraiḥ | tathā hi | </p>
 
         </body>
     </text>
