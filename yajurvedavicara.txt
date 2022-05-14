@@ -217,6 +217,9 @@
       <change when="2022-05-07" who="Aniruddha and Deepro">
         <p>updated transcription of xml:ids yvv-156a-167</p>
       </change>
+      <change when="2022-05-14" who="Aniruddha Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-168-183</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -699,30 +702,46 @@
         yajurvedaśabdena taittirīyakā evocyaṃte | hemādryādini<lb n="4"/>bandhakāraiḥ | tathā hi | </p>
       <lg>
         <l xml:id="yvv-168"> caturdaśyāṃ samutpanāv asurau madhukaiṭabhau |</l>
-        <l xml:id="yvv-169"> vedān svīkurvataḥ <lb n="5"/>padmayonestau juhutaḥ stutiḥ |</l>
-        <l xml:id="yvv-170">hatvā tāv asurau devaḥ pātālatalavāsinau |</l>
-        <l xml:id="yvv-171">āha<lb n="6"/>tyatāścatistasmai dadau lokaguruḥ svayaṃ ||</l>
+        <l xml:id="yvv-169"> vedān svīkurvataḥ <lb n="5"/>padmayones tau <sic>juhutaḥ</sic>
+          <sic>śrutiḥ</sic> |</l>
+        <l xml:id="yvv-170"> hatvā tāv asurau devaḥ pātālatalavāsinau |</l>
+        <l xml:id="yvv-171"> āhṛ<lb n="6"/>tya tā <sic>śrutis</sic> tasmai dadau lokaguruḥ svayaṃ
+          ||</l>
+
+        <l xml:id="yvv-172"> abhū la<unclear reason="damage and overwriting">bdha</unclear><add
+            place="top margin">r brahmā pa</add>rva<sic>ṇyo</sic>dayike punaḥ | </l>
+
+        <l xml:id="yvv-173">
+          <lb n="7"/>ato bhūtayute tasmiṃ nopākaraṇam iṣyate |</l>
       </lg>
-      <p xml:id="yvv-172"> amūlaśkṛtirvaṇyedayike punaḥ | </p>
+      <p xml:id="yvv-175"> pracetaḥ | </p>
       <lg>
-        <l xml:id="yvv-173"><lb n="7"/>ato bhūtayuteta tasminyupākaraṇamiṣyate |</l>
-        <l xml:id="yvv-174">asuraṃ varjayetkālaṃ vedāharaṇaśoka<lb n="8"/>yā |</l>
+        <l xml:id="yvv-175a"> bhaved upākṛtiḥ paurṇamāsyāṃ pū<unclear reason="eccentric_ductus"
+            >rvā</unclear>hṇa eva tu |</l>
+        <l xml:id="yvv-175b"> brāhmaṇān bhojayet tatra pi<lb n="9"/>tṝn uddiśya devatān |</l>
       </lg>
-      <p xml:id="yvv-175">pracetaḥ | bhaved upākṛtiḥ paurṇamāsyāṃ<unclear reason="ink" unit="akṣara"
-          quantity="3">pūrvāhna</unclear> eva tu | brāhmanān bhojayet tatra pi<lb n="9"/>tṝn uddiśya
-        devatān |</p>
+
       <p xml:id="yvv-176"> bhaviṣyottare |</p>
       <lg>
-        <l xml:id="yvv-177"> saṃprāpte śrāvaṇasyāṃte pūrṇamāśādinodaye | </l>
-        <l xml:id="yvv-178"><lb n="10"/>smānaṃ kurvīta matimān śrutismṛtividhānataḥ |</l>
-        <l xml:id="yvv-179">tato devān pitṛścaivatarpayetya <lb n="11"/>ramāṃbhasā |</l>
-        <l xml:id="yvv-180">upākarmādi caivoktaṃ ṛṣīṇāṃ caiva tarpaṇaṃ |</l>
+        <l xml:id="yvv-177"> saṃprāpte śrāvaṇasyāṃte pūrṇamāsyā dinodaye | </l>
+        <l xml:id="yvv-178">
+          <lb n="10"/>snānaṃ kurvīta matimān śrutismṛtividhānataḥ |</l>
+        <l xml:id="yvv-179"> tato devān pitṝṃś caiva tarpayet pa<lb n="11"/>ramāṃbhasā |</l>
+        <l xml:id="yvv-180"> upākarmādi caivoktaṃ ṛṣīṇāṃ caiva tarpaṇaṃ |</l>
+        <l xml:id="yvv-181"> kurvīta brāhmaṇa śrāddhaṃ vedā<lb n="12"/>n uddiśya <unclear
+            reason="overwriting">bha</unclear>ktitaḥ </l>
       </lg>
-      <p xml:id="yvv-181"> kurvīta brāhmaṇa śrāddhaṃ vedā<lb n="12"/>n uddiśya śaktitaḥ
-        ityādivākyeṣu uadayavyāpinyāṃ paurṇamāsyām upākarmakarta<lb n="13"/>vyaṃ | tac ca
-        taittirīyakaiḥ | </p>
+
+      <p xml:id="yvv-181a">ityādivākyeṣu udayavyāpinyāṃ paurṇamāsyām upākarma karta<lb n="13"/>vyaṃ
+        | tac ca taittirīyakaiḥ | </p>
+
       <p xml:id="yvv-182"> atha bahvṛcakārikāsu | </p>
-      <l> parvaṇyau dayikī kuryuḥ śrāvaṇyāṃ </l>
+
+      <lg>
+        <l xml:id="yvv-183"> parvaṇy audayikī kuryuḥ śrāvaṇyāṃ <pb n="12r"/><lb n="1"/>taittirīyakāḥ
+          |</l>
+      </lg>
+      
       <pb n="12v"/>
       <lb n="1"/>
       <p>kakarmakatvo pākarma kartavyam iti | caturṇām api pūrvavidvatvam utvam| tathā ca
