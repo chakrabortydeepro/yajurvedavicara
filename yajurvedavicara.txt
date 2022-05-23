@@ -220,6 +220,9 @@
       <change when="2022-05-14" who="Aniruddha Parthasarathi and Deepro">
         <p>updated transcription of xml:ids yvv-168-183</p>
       </change>
+      <change when="2022-05-23" who="Aniruddha Parthasarathi and Deepro">
+        <p>transcribed folio 12r</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -738,10 +741,51 @@
       <p xml:id="yvv-182"> atha bahvṛcakārikāsu | </p>
 
       <lg>
-        <l xml:id="yvv-183"> parvaṇy audayikī kuryuḥ śrāvaṇyāṃ <pb n="12r"/><lb n="1"/>taittirīyakāḥ
-          |</l>
+        <l xml:id="yvv-183"> parvaṇy audayi<sic>kī</sic> kuryuḥ śrāvaṇyāṃ <pb n="12r"/><lb n="1"
+          />taittirīyakāḥ |</l>
+        <l xml:id="yvv-184"> bahvṛcāḥ śravaṇe kuryur gṛhasaṃkrāntivarjite ti | </l>
       </lg>
-      
+
+      <p xml:id="yvv-185"> a<sic>nyais</sic> tu pūrvavi<lb n="1"/>ddhām eva | tathā coktaṃ | </p>
+
+      <lg>
+        <l xml:id="yvv-186"> śrāvaṇī durganavamī tathā dūrvāṣṭamī ca yā | </l>
+        <l xml:id="yvv-187"> pūrvaviddhā prakarttavyā<lb n="3"/>śivarātrir baler dinam</l>
+      </lg>
+      <!-- https://books.google.ca/books?id=k6tDAAAAYAAJ&pg=PA73&lpg=PA73&dq=%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%A3%E0%A5%80+%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A8%E0%A4%B5%E0%A4%AE%E0%A5%80&source=bl&ots=B7bgKKiBri&sig=ACfU3U1IpGg8vbsxsF31e4u0hUfjYkA5lQ&hl=en&sa=X&ved=2ahUKEwj-75Dphvb3AhXdKDQIHV32AGkQ6AF6BAgDEAM#v=onepage&q=%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%A3%E0%A5%80%20%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A8%E0%A4%B5%E0%A4%AE%E0%A5%80&f=false -->
+      <p xml:id="yvv-188"> iti vacanāt | </p>
+
+      <p xml:id="yvv-189"> tasmāt pūrvodāhṛtavākyabalād yajurvedīnāṃm udayavyāpinyām upākarma | </p>
+      <p xml:id="yvv-190"> śākhāṃtarāṇāṃ vājasanīyānāṃ pūrvaviddhām eva | grahasaṃ<lb n="5"
+        />krāṃtiyukte tasmiṃ taittirīyakaiḥ proṣṭhapadyāṃ karttavyaṃ |</p>
+
+      <p xml:id="yvv-191"> tathā ca - - - - sūtraṃ | </p>
+
+      <lg>
+        <l xml:id="yvv-192"> saṃkrāṃ<lb n="6"/>tigrahaṇaṃ vāpi paurṇamāsyāṃ yadā bhavet | </l>
+        <l xml:id="yvv-193"> upākṛtis tu paṃcamyāṃ kāryā vājasane<lb n="7"/>yibhiḥ | </l>
+      </lg>
+      <p xml:id="yvv-194"> smṛtimahārṇave | </p>
+
+      <lg>
+        <l xml:id="yvv-195"> saṃkrāṃtigrahaṇaṃ vāpi yadi parvaṇi jāyate | </l>
+        <l xml:id="yvv-196"> tanmāse ha<lb n="8"/>stayuktāyāṃ paṃcamyāṃ vā tad iṣyate | </l>
+      </lg>
+
+      <p xml:id="yvv-197"> taittirīyakagṛhye | </p>
+
+      <l xml:id="yvv-198"> śrāvaṇyāṃ paurṇamāsyāṃ prauṣṭhapa<lb n="9"/>dyāṃ vā saha śiṣyair
+        adhyopākarmety evaṃrūpe paṃcamyāṃ śrūyamāṇatvāṃ na taittirīyakā<lb n="10"/>ṇāṃ paṃcamī | </l>
+
+      <p xml:id="yvv-199"> vājasanīyānāṃ gṛhye | </p>
+
+      <l xml:id="yvv-200"> athāto dhyāyopākarma śrāvaṇyāṃ paurṇamāsyāṃ <lb n="11"/>śrāvaṇasya
+        śuklapaṃcamyāṃ hastayuktāyāṃ vety evaṃrūpe paurṇimāpaṃcamīhastānāṃ vikalpe<lb n="12"/>na
+          vājasanīyā<del rend="crossed out">śākhā</del>nām upādānaṃ | </l>
+
+      <p xml:id="yvv-201"> tatrāpi harihareṇa tachākhīyapaddhatikā<lb n="13"/>raiḥ
+        paurṇamādikālacatuṣṭayaṃ yathāsaṃbhave yatra yatra kriyate tatra tatra mādhyāhni</p>
+
       <pb n="12v"/>
       <lb n="1"/>
       <p>kakarmakatvo pākarma kartavyam iti | caturṇām api pūrvavidvatvam utvam| tathā ca

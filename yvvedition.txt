@@ -136,7 +136,10 @@
                 <p>verified the readings of xml:ids yvv-156a-167</p>
             </change>
             <change when="2022-05-14" who="Aniruddha Parthasarathi and Deepro">
-                <p>verified the readings of xml:ids yvv-168-183</p>
+                <p>verified the readings of xml:ids yvv-168-182</p>
+            </change>
+            <change when="2022-05-23" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-183-188</p>
             </change>
         </revisionDesc>
     </teiHeader>
@@ -655,11 +658,11 @@
                 <l xml:id="yvv-174"> asuraṃ varjayet kālaṃ vedāharaṇaśaṅkayā ||</l>
             </lg>
             <p xml:id="yvv-175"> pracetāḥ | </p>
-                <lg>
-                    <l xml:id="yvv-175a"> bhaved upākṛtiḥ paurṇamāsyāṃ pūrvāhṇa eva tu |</l>
-                    <l xml:id="yvv-175b"> brāhmaṇān bhojayet tatra pitṝn uddiśya devatāḥ ||</l>
-                </lg>
-                
+            <lg>
+                <l xml:id="yvv-175a"> bhaved upākṛtiḥ paurṇamāsyāṃ pūrvāhṇa eva tu |</l>
+                <l xml:id="yvv-175b"> brāhmaṇān bhojayet tatra pitṝn uddiśya devatāḥ ||</l>
+            </lg>
+
             <p xml:id="yvv-176"> bhaviṣyottare |</p>
             <lg>
                 <l xml:id="yvv-177"> samprāpte śrāvaṇasyānte pūrṇamāsyā dinodaye | </l>
@@ -668,12 +671,46 @@
                 <l xml:id="yvv-180"> upākarmādi caivoktaṃ ṛṣīṇāṃ caiva tarpaṇam ||</l>
                 <l xml:id="yvv-181"> kurvīta brāhmaṇaḥ śrāddhaṃ vedān uddiśya bhaktitaḥ </l>
             </lg>
-            
-            <p xml:id="yvv-181a">ityādivākyeṣu udayavyāpinyāṃ paurṇamāsyām upākarma kartavyam
-                | tac ca taittirīyakaiḥ | </p>
-            
+
+            <p xml:id="yvv-181a">ityādivākyeṣu udayavyāpinyāṃ paurṇamāsyām upākarma kartavyam | tac
+                ca taittirīyakaiḥ | </p>
+
             <p xml:id="yvv-182"> atha bahvṛcakārikāsu | </p>
 
+            <lg>
+                <l xml:id="yvv-183"> parvaṇy audayike kuryuḥ śrāvaṇyāṃ taittirīyakāḥ |</l>
+                <l xml:id="yvv-184"> bahvṛcāḥ śravaṇe kuryur grahasaṅkrāntivarjite || iti </l>
+            </lg>
+
+            <p xml:id="yvv-185"> anye tu pūrvaviddhām eva | tathā coktaṃ | </p>
+            
+            <lg>
+                <l xml:id="yvv-186"> śrāvaṇī durganavamī tathā dūrvāṣṭamī ca yā | </l>
+                <l xml:id="yvv-187"> pūrvaviddhā prakartavyā śivarātrir baler dinam || </l>
+            </lg>
+            
+            <p xml:id="yvv-188"> iti vacanāt | </p>
+            
+            <p xml:id="yvv-189"> tasmāt pūrvodāhṛtavākyabalād yajurvedinām udayavyāpinyām upākarma | </p>
+            <p xml:id="yvv-190"> śākhāntarāṇāṃ vājasanīyānāṃ pūrvaviddhām eva | grahasaṅkrāntiyukte tasmiṃs taittirīyakaiḥ proṣṭhapadyāṃ kartavyam |</p>
+            
+            <p xml:id="yvv-191"> tathā ca - - - - sūtram | </p>
+            
+            <lg>
+                <l xml:id="yvv-192"> saṅkrāntigrahaṇaṃ vāpi paurṇamāsyāṃ yadā bhavet | </l>
+                <l xml:id="yvv-193"> upākṛtis tu pañcamyāṃ kāryā vājasaneyibhiḥ || </l>
+            </lg>
+            <p xml:id="yvv-194"> smṛtimahārṇave | </p>
+            
+            <lg>
+                <l xml:id="yvv-195"> saṅkrāntigrahaṇaṃ vāpi yadi parvaṇi jāyate | </l>
+                <l xml:id="yvv-196"> tanmāse hastayuktāyāṃ pañcamyāṃ vā tad iṣyate || </l>
+            </lg>
+            
+            <p xml:id="yvv-197"> taittirīyakagṛhye | </p>
+            
+            <l xml:id="yvv-198"> śrāvaṇyāṃ paurṇamāsyāṃ prauṣṭhapadyāṃ vā saha śiṣyair
+                adhyāyopākarmety evaṃrūpe pañcamyāṃ śrūyamāṇatvān na taittirīyakāṇāṃ pañcamī | </l>
 
         </body>
     </text>
