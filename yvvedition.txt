@@ -141,6 +141,9 @@
             <change when="2022-05-23" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-183-188</p>
             </change>
+            <change when="2022-05-31" who="Aniruddha and Deepro">
+                <p>verified the readings of xml:ids yvv-189-214</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -683,34 +686,76 @@
             </lg>
 
             <p xml:id="yvv-185"> anye tu pūrvaviddhām eva | tathā coktaṃ | </p>
-            
+
             <lg>
                 <l xml:id="yvv-186"> śrāvaṇī durganavamī tathā dūrvāṣṭamī ca yā | </l>
                 <l xml:id="yvv-187"> pūrvaviddhā prakartavyā śivarātrir baler dinam || </l>
             </lg>
-            
+
             <p xml:id="yvv-188"> iti vacanāt | </p>
-            
+
             <p xml:id="yvv-189"> tasmāt pūrvodāhṛtavākyabalād yajurvedinām udayavyāpinyām upākarma | </p>
-            <p xml:id="yvv-190"> śākhāntarāṇāṃ vājasanīyānāṃ pūrvaviddhām eva | grahasaṅkrāntiyukte tasmiṃs taittirīyakaiḥ proṣṭhapadyāṃ kartavyam |</p>
-            
+            <p xml:id="yvv-190"> śākhāntarāṇāṃ vājasanīyānāṃ pūrvaviddhām eva | grahasaṅkrāntiyukte
+                tasmiṃs taittirīyakaiḥ proṣṭhapadyāṃ kartavyam |</p>
+
             <p xml:id="yvv-191"> tathā ca - - - - sūtram | </p>
-            
+
             <lg>
                 <l xml:id="yvv-192"> saṅkrāntigrahaṇaṃ vāpi paurṇamāsyāṃ yadā bhavet | </l>
                 <l xml:id="yvv-193"> upākṛtis tu pañcamyāṃ kāryā vājasaneyibhiḥ || </l>
             </lg>
             <p xml:id="yvv-194"> smṛtimahārṇave | </p>
-            
+
             <lg>
                 <l xml:id="yvv-195"> saṅkrāntigrahaṇaṃ vāpi yadi parvaṇi jāyate | </l>
                 <l xml:id="yvv-196"> tanmāse hastayuktāyāṃ pañcamyāṃ vā tad iṣyate || </l>
             </lg>
-            
+
             <p xml:id="yvv-197"> taittirīyakagṛhye | </p>
-            
+
             <l xml:id="yvv-198"> śrāvaṇyāṃ paurṇamāsyāṃ prauṣṭhapadyāṃ vā saha śiṣyair
                 adhyāyopākarmety evaṃrūpe pañcamyāṃ śrūyamāṇatvān na taittirīyakāṇāṃ pañcamī | </l>
+
+            <p xml:id="yvv-199"> vājasanīyānāṃ gṛhye | </p>
+
+            <l xml:id="yvv-200"> athāto 'dhyāyopākarma śrāvaṇyāṃ paurṇamāsyāṃ śrāvaṇasya
+                śuklapañcamyāṃ hastayuktāyāṃ vety evaṃrūpe paurṇimāpañcamīhastānāṃ vikalpena
+                vājasanīyānām upādānaṃ | </l>
+
+            <p xml:id="yvv-201"> tatrāpi harihareṇa tacchākhīyapaddhatikāraiḥ
+                paurṇamādikālacatuṣṭayaṃ yathāsambhave yatra yatra kriyate tatra tatra mādhyāhnikaṃ
+                karma kṛtvopākarma kartavyam iti | caturṇām api pūrvaviddhatvam uktam | </p>
+
+            <p xml:id="yvv-202">tathā ca taittirīyakapadopetavākyeṣu vājasanīyapadopetavākyeṣu
+                nopalakṣaṇatvam | tathaiva vyākhyānakālanirṇayakārair draṣṭavyam | tasmāt
+                sarvaśrutismṛtipurāṇeṣu yatra yatra yajurvedaśabdas tatra tatra taittirīyakapara eva
+                | na vājasaneyīparaḥ | yajurvedādivājasaneyivyākhyānābhāvāt | vinigamanāviharaś ca |
+                yatra vedasādhāraṇaḥ parvādinirṇayaḥ tatra vājasaneyīnāṃ bhinna evety alam || </p>
+
+            <p xml:id="yvv-203"> prayogapārijāte śrāddhakāṇḍe | saurapurāṇe | </p>
+            <lg>
+                <l xml:id="yvv-204"> aṅgavaṅgakaliṅgāṃś ca saurāṣṭrān gurjarāṃs tathā | </l>
+                <l xml:id="yvv-205"> ābhīrān kauṅkaṇāṃś caiva drāviḍān dākṣaṇāyanān || </l>
+                <l xml:id="yvv-206"> āvantyān māgadhāṃś caiva brāhmaṇāṃś ca vivarjayet |</l>
+            </lg>
+
+            <p xml:id="yvv-207"> gārgyo 'pi | </p>
+            <lg>
+                <l xml:id="yvv-208"> naikagotre havir dadyāt samānapravare 'pi vā | </l>
+                <l xml:id="yvv-209"> na vājñātakule dadyād yathā kanyā tathā haviḥ || </l>
+                <l xml:id="yvv-210"> abhāve 'py anyagotrāṇāṃ svagotrān api bhojajayet | </l>
+                <l xml:id="yvv-211"> svagotraṃ bhojayec chrāddhe svagotre yajñakarmaṇi | </l>
+                <l xml:id="yvv-212"> dānaṃ dadyāt svagotrāya kanyādānaṃ ca varjayet || </l>
+            </lg>
+
+            <p xml:id="yvv-213">guṇavantas teṣām abhāve śrutādhyayanasampannāḥ saptamād arvāk
+                cābhojanīyāḥ | iti caturthe <sic>dādyāni brāhmaṇān</sic> parasparayajñavivāhayajñādi
+                śrautasmārte ca kriyata iti | </p>
+
+            <p xml:id="yvv-214">na tu vājasanīyānām | āpastambī bodhāyanī satyāṣāḍhī hiraṇyakeśī
+                augheyī ceti | ete pañca sūtrādyā eteṣām āpastambasūtraṃ prabalam | etair eva sūtrair
+                vyākhyā bhagavatā vyāsena kapardisvāminā dhūrtasvāminā hariharadattena <sic>rudrattakāreṇa</sic>
+                bhāradvājena bodhāyanena sarvair vyākhyātam || ꣸ || || śrī || || śrīkṛṣṇa || ||śrīhari: || </p>
 
         </body>
     </text>

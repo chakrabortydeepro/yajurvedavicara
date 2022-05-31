@@ -223,6 +223,9 @@
       <change when="2022-05-23" who="Aniruddha Parthasarathi and Deepro">
         <p>transcribed folio 12r</p>
       </change>
+      <change when="2022-05-14" who="Aniruddha Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-199-214</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -784,42 +787,53 @@
           vājasanīyā<del rend="crossed out">śākhā</del>nām upādānaṃ | </l>
 
       <p xml:id="yvv-201"> tatrāpi harihareṇa tachākhīyapaddhatikā<lb n="13"/>raiḥ
-        paurṇamādikālacatuṣṭayaṃ yathāsaṃbhave yatra yatra kriyate tatra tatra mādhyāhni</p>
+        paurṇamādikālacatuṣṭayaṃ yathāsaṃbhave yatra yatra kriyate tatra tatra mādhyāhni<pb n="12v"
+          /><lb n="1"/>kaṃ karma kṛtvopākarma karttavyam iti | caturṇām api pūrvaviddhatvam
+          u<sic>tva</sic>ṃ | </p>
 
-      <pb n="12v"/>
-      <lb n="1"/>
-      <p>kakarmakatvo pākarma kartavyam iti | caturṇām api pūrvavidvatvam utvam| tathā ca
-          taittirī<lb n="2"/>yakapadopetavākyeṣu vājasanīyapadopetavākyeṣu nopalakṣaṇatvam |
-        tathaiva vyā<lb n="3"/>khyānakālanirṇayakārairdraṣṭavyaṃ | tasmāt sarvaśrutismṛtipurāṇeṣu
-        yatra yatra <lb n="4"/>yajurvedaśabdas tatra <subst>
+      <p xml:id="yvv-202">tathā ca taittirī<lb n="2"/>yakapadopetavākyeṣu vājasanīyapadopetavākyeṣu
+        nopalakṣaṇatvaṃ | tathaiva vyā<lb n="3"/>khyānakālanirṇayakārair draṣṭavyaṃ | tasmāt
+        sarvaśrutismṛtipurāṇeṣu yatra yatra <lb n="4"/>yajurvedaśabdas tatra <subst>
           <del>sta</del>
           <add rend="overwriting">ta</add>
         </subst>tra taittirīyakapara eva | na vājasaneyīparaḥ | yajurvedā<lb n="5"
-        />divājasaneyivyākhyānābhāvāt | vinigamanā viharaś ca | yatra vedhasādhā<lb n="6"
-        />raṇaḥparvādinirṇayaḥ <sic>s</sic>tatra vājasaneyīnāṃ bhinna evety alaṃ | </p>
-      <p>prayogapārijāte <lb n="7"/>ādyakāṇḍe| saurapurāṇe| </p>
+        />divājasaneyivyākhyānābhāvāt | vinigamanāviharaś ca | yatra vedhasādhā<lb n="6"/>raṇaḥ
+        parvādinirṇayaḥ <sic>s</sic>tatra vājasaneyīnāṃ bhiṃna evety alaṃ || </p>
+
+      <p xml:id="yvv-203"> prayogapārijāte <lb n="7"/>śrāddhakāṃḍe | saurapurāṇe | </p>
       <lg>
-        <l>agabaṅgakaliṅgaśca saurāṣṭrān gurjarāṃs tathā | </l>
-        <l>ābhīrā <lb n="8"/>kauṅkaṇāṃś caiva drāviḍāṃ dākṣaṇāyanān || </l>
-        <l>avantyānmāgadhāṃś caiva brāhmaṇāṃ<lb n="9"/>ś ca vivarjayet|</l>
+        <l xml:id="yvv-204">
+          <sic>aga</sic>vaṃgakaliṃgāś ca saurāṣṭrāṃn gurjarāṃs tathā | </l>
+        <l xml:id="yvv-205"> ābhīrān <lb n="8"/>kauṃkaṇāṃś caiva drāviḍāṃ dākṣaṇāyanān || </l>
+        <l xml:id="yvv-206"> avantyāṃ māgadhāṃś caiva brāhmaṇāṃ<lb n="9"/>ś ca vivarjayet|</l>
       </lg>
-      <p> gārgyopi | </p>
+
+      <p xml:id="yvv-207"> gārgyo pi | </p>
       <lg>
-        <l>naikagotreha virdaghātsamānapravarepi vā| </l>
-        <l>na vā jñāta<lb n="10"/>kule dadyātkathā kanyā tathā haviḥ | </l>
-        <l>abhāvepyanyagotrāraṇaṃ svagotrānapi bhoja<lb n="11"/>jayet| </l>
-        <l>svagotraṃ bhojaye<unclear reason="overwriting">c chrā</unclear>ddhe svagotre
-          yajñakarmaṇi| </l>
-        <l>dānaṃ dadyāt svagotrāya kanyā<lb n="12"/>dānaṃ ca varjayet|</l>
+        <l xml:id="yvv-208"> naikagotre havir dadyāt samānapravare pi vā | </l>
+        <l xml:id="yvv-209"> na vājñāta<lb n="10"/>kule dadyā<subst>
+            <del rend="crossed out">t ka</del>
+            <add place="left margin">d ya</add>
+          </subst>thā kanyā tathā haviḥ | </l>
+        <l xml:id="yvv-210"> abhāve py anyagotrāṇāṃ svagotrān api bhoja<lb n="11"/>jayet | </l>
+        <l xml:id="yvv-211"> svagotraṃ bhojaye<unclear reason="overwriting">c chrā</unclear>ddhe
+          svagotre yajñakarmaṇi | </l>
+        <l xml:id="yvv-212"> dānaṃ <sic>dda</sic>dyāt svagotrāya kanyā<lb n="12"/>dānaṃ ca varjayet
+          |</l>
       </lg>
-      <p>guṇavanto teṣām abhāve śrutādhyayane sampanno saptamādarvāk <lb n="13"/>cābhojanīyāḥ | iti
-        caturthe dādhāni brāhmaṇān parasparayajñāvivāhaya<pb n="13r"/><lb n="1"/>jñādi śrota smārte
-        ca kriyata iti | </p>
-      <p>nanu vājasanīyānāṃ | āpastaṃbī bodhāyanī satyāṣāḍhī <lb n="2"/>hiraṇyakeśī audyeyīśceti |
-        ete paṃca sūtrādhā eteṣāṃ āpastaṃba sūtraṃ prabalaṃ | etaireva<lb n="3"/>sūtrairvyākhyā
-        bhagavatā vyāsena karpādasvāmī dhūrttasvāmī hariharadattena rudrattakāre<lb n="4"/>ṇa
-        bhāradvājena bodhāyanena sarvaṃ vyākhyātaṃ ||6 || ||śrī || || śrīkaṇṭha || ||śrīhari: || </p>
+
+      <p xml:id="yvv-213">guṇavanto teṣām abhāve śrutādhyayanasaṃpaṃno saptamād arvāk <lb n="13"
+        />cābhojanīyāḥ | iti caturthe dādyāni brāhmaṇān parasparayajñavivāhaya<pb n="13r"/><lb n="1"
+        />jñādi śrautasmārte ca kriyata iti | </p>
+
+      <p xml:id="yvv-214">na tu vājasanīyānāṃ | āpastaṃbī bodhāyanī satyāṣāḍhī <lb n="2"
+        />hiraṇyakeśī augheyīś ceti | ete paṃca sūtrādyā eteṣāṃ āpastaṃbasūtraṃ prabalaṃ | etair
+          eva <lb n="3"/>sūtrair vyākhyā bhagavatā vyāsena kapardisvā<sic>mī</sic>
+          dhūrttasvā<sic>mī</sic> hariharadattena rudrattakāre<lb n="4"/>ṇa bhāradvājena bodhāyanena
+        sarvvair vyākhyātaṃ || ꣸ || ||śrī || || śrīkṛṣṇa || ||śrīhari: || </p>
+
       <lg>
+
         <l>sabhāvaḥ kāmanā jādhikarā nādhiradhīnayaḥ ||</l>
         <l>jātu jātva parā krīḍā praśnānupayadākṣarāḥ ||1 ||</l>
       </lg>
