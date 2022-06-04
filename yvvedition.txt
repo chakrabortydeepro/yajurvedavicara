@@ -144,6 +144,9 @@
             <change when="2022-05-31" who="Aniruddha and Deepro">
                 <p>verified the readings of xml:ids yvv-189-214</p>
             </change>
+            <change when="2022-06-04" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-213-214</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -748,13 +751,13 @@
                 <l xml:id="yvv-212"> dānaṃ dadyāt svagotrāya kanyādānaṃ ca varjayet || </l>
             </lg>
 
-            <p xml:id="yvv-213">guṇavantas teṣām abhāve śrutādhyayanasampannāḥ saptamād arvāk
-                cābhojanīyāḥ | iti caturthe <sic>dādyāni brāhmaṇān</sic> parasparayajñavivāhayajñādi
+            <p xml:id="yvv-213">guṇavatāṃ teṣām abhāve śrutādhyayanasampannāḥ saptamād arvāk
+                ca bhojanīyāḥ |<!-- https://books.google.ca/books?id=Z0JBAQAAMAAJ&pg=PA451&lpg=PA451&dq=%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%82+%E0%A4%A4%E0%A5%87%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%87&source=bl&ots=jKezkZ7yqF&sig=ACfU3U2Tbcah1OHFBgo5a4yTbdckwcrgRw&hl=en&sa=X&ved=2ahUKEwjo3JDhoZT4AhWsLzQIHRWhBokQ6AF6BAgCEAM#v=onepage&q=%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%82%20%E0%A4%A4%E0%A5%87%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%87&f=false --> iti caturthe <sic>dādyāni brāhmaṇān</sic> parasparayajñavivāhayajñādi
                 śrautasmārte ca kriyata iti | </p>
 
             <p xml:id="yvv-214">na tu vājasanīyānām | āpastambī bodhāyanī satyāṣāḍhī hiraṇyakeśī
                 augheyī ceti | ete pañca sūtrādyā eteṣām āpastambasūtraṃ prabalam | etair eva sūtrair
-                vyākhyā bhagavatā vyāsena kapardisvāminā dhūrtasvāminā hariharadattena <sic>rudrattakāreṇa</sic>
+                vyākhyā bhagavatā vyāsena kapardisvāminā dhūrtasvāminā hariharadattena rudradattena
                 bhāradvājena bodhāyanena sarvair vyākhyātam || ꣸ || || śrī || || śrīkṛṣṇa || ||śrīhari: || </p>
 
         </body>
