@@ -147,6 +147,9 @@
             <change when="2022-06-04" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-213-214</p>
             </change>
+            <change when="2022-07-02" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-242-265</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -759,6 +762,35 @@
                 augheyī ceti | ete pañca sūtrādyā eteṣām āpastambasūtraṃ prabalam | etair eva sūtrair
                 vyākhyā bhagavatā vyāsena kapardisvāminā dhūrtasvāminā hariharadattena rudradattena
                 bhāradvājena bodhāyanena sarvair vyākhyātam || ꣸ || || śrī || || śrīkṛṣṇa || ||śrīhari: || </p>
+            
+            
+            <p xml:id="yvv-242"> atha deśeṣu vedaśākhayor vibhāga ucyate ||</p>
+            <p xml:id="yvv-243">mahārṇave || </p>
+            
+            <lg>
+                <l xml:id="yvv-244">pṛthivyā madhyarekhā ca narmadā parikīrtitā |</l>
+                <l xml:id="yvv-245">dakṣiṇottarayor bhāge śākhā vedāś ca ucyate || 1 ||</l>
+                <l xml:id="yvv-246">narmadādakṣiṇe bhāge āpastamby āśvalāyanī ||</l>
+                <l xml:id="yvv-247">rāṇāyanī pippalā ca yajñakanyāvibhāginaḥ || 2 ||</l>
+                <l xml:id="yvv-248">mādhyandinī śāṅkhāyanī kauthumī śaunakī tathā |</l>
+                <l xml:id="yvv-249">narmadottarabhāge ca yajñakanyāvibhāginaḥ || 3|| </l>
+                <l xml:id="yvv-250">tuṅgā kṛṣṇā tathā godā sahyādriśikharāvadhi |</l>
+                <l xml:id="yvv-251">ā āndhradeśaparyantaṃ bahvṛcaś cāśvalāyanī || 4 || </l>
+                <l xml:id="yvv-252">uttare gurjare deśe vedo bahvṛcaḥ kīrtitaḥ |</l>
+                <l xml:id="yvv-253">kauṣītakī brāhmaṇaṃ ca śākhā śāṅkhāyanī sthitā || 5 ||</l>
+                <l xml:id="yvv-254">āndhrādi dakṣiṇāgneyī godā sāgara āvadhi |</l>
+                <l xml:id="yvv-255">yajurvedas tu taittirya āpastambī pratiṣṭhitā ||6 ||</l>
+                <l xml:id="yvv-256">sahyādriparvatārambhād diśāṃ nairṛtyasāgarāt | </l>
+                <l xml:id="yvv-257">hiraṇyakeśī śākhā ca parśurāmasya sannidhau ||7 ||</l>
+                <l xml:id="yvv-258">mayūraparvatāc caiva yāvadgurjaradeśataḥ | </l>
+                <l xml:id="yvv-259">vyāptā vāyavyadeśāt tu maitrāyaṇī pratiṣṭhitā ||8 ||</l>
+                <l xml:id="yvv-260">aṅgavaṅgakaliṅgāś ca kānīno gurjaras tathā |</l>
+                <l xml:id="yvv-261">vājasanīyaśākhā ca mādhyandinī pratiṣṭhitā ||9 ||</l>
+                <l xml:id="yvv-262">ṛṣiṇā yājñavalkyena sarvadeśeṣu vistṛtā |</l>
+                <l xml:id="yvv-263">vājasanīyavedasya prathamā kaṇvasaṃjñakā || iti ||</l>
+                <l xml:id="yvv-264">adhvarodgātṛhotṝṇāṃ santi sūtrāṇy anekaśaḥ |</l>
+                <l xml:id="yvv-265">yatrāsti yonisambandhaḥ sūtre jñātikulocitaḥ ||꣸||</l>
+            </lg>
 
         </body>
     </text>
