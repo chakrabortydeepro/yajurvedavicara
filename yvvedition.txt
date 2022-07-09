@@ -150,6 +150,9 @@
             <change when="2022-07-02" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-242-265</p>
             </change>
+            <change when="2022-07-09" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-228-241</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -762,6 +765,28 @@
                 augheyī ceti | ete pañca sūtrādyā eteṣām āpastambasūtraṃ prabalam | etair eva sūtrair
                 vyākhyā bhagavatā vyāsena kapardisvāminā dhūrtasvāminā hariharadattena rudradattena
                 bhāradvājena bodhāyanena sarvair vyākhyātam || ꣸ || || śrī || || śrīkṛṣṇa || ||śrīhari: || </p>
+            
+            <lg>
+            <l xml:id="yvv-228"> kāṇḍās tu sapta vijñeyāḥ praśnāś cādhikā vai catuḥ |</l>
+            <l xml:id="yvv-229"> catvāriṃśat tu vijñeyā anuvākāḥ śatāni ṣaṭ ||7 ||</l>
+            <l xml:id="yvv-230"> ekapañcāśadadhikā saṅkhyā pañcāśad ucyate |</l>
+            <l xml:id="yvv-231"> dvisahasraṃ caikaśatam aṣṭānavatiś cādhikā ||8 ||</l>
+            <l xml:id="yvv-232"> lakṣakaṃ tu dvinavatiḥ sahasrāṇi prakīrtitam | </l>
+            <l xml:id="yvv-233"> padāni navatiś caiva tathākṣaraṃ tad ucyate ||9||</l>
+            <l xml:id="yvv-234"> lakṣadvayatripañcāśatsahasrāṇi śatāṣṭakam |</l>
+            <l xml:id="yvv-235"> aṣṭaṣaṣṭyadhike caiva yajurvedapramāṇakam ||</l>
+            </lg>
+            
+            <p xml:id="yvv-236"> || kāṇḍa 7 | praśna 44 | anuvāka 651 | pannāśī 2198 | padaṃ 192090 | akṣarasaṃkhyā 253868 |</p>
+            
+            
+            <l xml:id="yvv-237">śākhāvākyāny ayutāni sahasrāṇi navāni ca | </l>
+            <l xml:id="yvv-238">catuḥśatāny aśītiś ca aṣṭau vākyāni gaṇyate || </l>
+            
+            <p xml:id="yvv-239">iti brāhmaṇe aṣṭau vākyasaṅkhyā 19480 || </p>
+            <p xml:id="yvv-240">|| iti taittirīyayajurvedasya vicāraḥ || </p>
+            <p xml:id="yvv-241" ana="namaskāra">|| śrīgaṇeśa|śrīsītārāmābhyāṃ namaḥ ||</p>
+            
             
             
             <p xml:id="yvv-242"> atha deśeṣu vedaśākhayor vibhāga ucyate ||</p>

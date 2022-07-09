@@ -238,6 +238,9 @@
       <change when="2022-07-02" who="Aniruddha Parthasarathi and Deepro">
         <p>updated transcription of xml:ids yvv-242-265</p>
       </change>
+      <change when="2022-07-09" who="Aniruddha Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-228-241</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -864,7 +867,11 @@
         <l xml:id="yvv-226"> rayo <del rend="crossed out">varga</del>varge vijānīyāt trya<lb n="11"
           />kṣaraṃ tu tataḥ paraṃ ||</l>
         <l xml:id="yvv-227"> vargottarāṇi varge tu tryakṣaraṃ tu tathā smṛtaṃ ||6 ||</l>
-        <l xml:id="yvv-228"> kāṃḍās tū sapta vijñeyā <lb n="12"/>praśnā<add place="left margin">ś
+        </lg>
+      
+        
+        <lg>
+        <l xml:id="yvv-228"> kāṃḍās tu sapta vijñeyā <lb n="12"/>praśnā<add place="left margin">ś
             cā</add>dhi<sic>ka</sic> vai catuḥ ||</l>
         <l xml:id="yvv-229"> catvāriṃśat tu vijñeyā anuvākāḥ śatāni ṣaṭ ||7 ||</l>
         <l xml:id="yvv-230"> ekapaṃcā<lb n="13"/>śadadhikā saṃkhyā paṃcāśad ucyate ||</l>
@@ -877,11 +884,12 @@
         <l xml:id="yvv-235"> aṣṭaṣaṣṭyadhike caiva ya<lb n="2"/>jurvedapramāṇakaṃ ||</l>
       </lg>
 
-      <p xml:id="yvv-236"> kāṃḍāḥ 7 | praśna 44 | anuvāka 641 | paṃnāśī 2198 | <lb n="3"/> padaṃ
-        109290 | akṣarasaṃkhyā 353836 |</p>
+      <p xml:id="yvv-236"> || kāṃḍāḥ 7 | praśna 44 | anuvāka 651 | paṃnāśī 2198 | <lb n="3"/> padaṃ
+        <sic>109290</sic> | akṣarasaṃkhyā 253868 |</p>
+      
       <l xml:id="yvv-237">śākhāvākyāny ayutāni sahasrā<lb n="4"/>ṇi navāni ca || </l>
       <l xml:id="yvv-238">catuḥśatāny aśītiś ca aṣṭau vākyāni gaṇyate || </l>
-      <p xml:id="yvv-239">|| iti brāhmaṇa <lb n="5"/>aṣṭau vākyāni saṃkhyā 1900480 || </p>
+      <p xml:id="yvv-239">|| iti brāhmaṇe <lb n="5"/>aṣṭau vākya<del rend="crossed out">āni</del>saṃkhyā 1900480 || </p>
       <p xml:id="yvv-240">|| iti taittirīyayajurvedasya vicāraḥ || </p>
       <p xml:id="yvv-241" ana="namaskāra"><lb n="6"/>|| śrīgaṇeśa|śrīsītārāmābhyāṃ namaḥ ||</p>
       
