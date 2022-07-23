@@ -241,6 +241,9 @@
       <change when="2022-07-09" who="Aniruddha Parthasarathi and Deepro">
         <p>updated transcription of xml:ids yvv-228-241</p>
       </change>
+      <change when="2022-07-24" who="Aniruddha Anusrita Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-215-221</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -849,15 +852,16 @@
 
       <lg>
 
-        <l xml:id="yvv-215">sabhāvaḥ kāmanā jādhikarā nādhiradhīnayaḥ ||</l>
-        <l xml:id="yvv-216">jātu jātva parā krīḍā praśnānupayadākṣarāḥ ||1 ||</l>
+        <l xml:id="yvv-215">
+          <lb n="5"/>sabhāvaḥ kāmatā jādhikarā nādhiradhīnayaḥ ||</l>
+        <l xml:id="yvv-216"> jātujālamarā krāṃḍā praśnānupapa<lb n="6"/>dākṣarāḥ ||1||</l>
       </lg>
-      <p xml:id="yvv-217"><lb n="5"/>asyārthaḥ | </p>
+      <p xml:id="yvv-217"> asyārthaḥ | </p>
 
       <lg>
         <l xml:id="yvv-218"> ādyakṣarā'ṣṭakā sapta dvāvakṣaramathādhyāyāḥ|</l>
-        <l xml:id="yvv-219"> cākṣa<lb n="7"/>rā anuvākāś ca vargāś ca catukṣaraiḥ ||2 ||</l>
-        <l xml:id="yvv-220"> padaḥ ṣaḍākṣaraiḥ saṃkhyā ṣaḍakṣaram athākṣaraiḥ | </l>
+        <l xml:id="yvv-219"> tryakṣa<lb n="7"/>rā anuvākāś ca vargāś ca caturakṣaraiḥ ||2 ||</l>
+        <l xml:id="yvv-220"> padaḥ ṣaḍākṣaraiḥ saṃkhyā ṣaḍ akṣaram athākṣaraiḥ | </l>
         <l xml:id="yvv-221">
           <lb n="8"/>evaṃ ślokākṣarair bhāvo yajurvede prakīrttitāḥ ||3 ||</l>
         <l xml:id="yvv-222"> ādyakṣare saptasaṃkhyā vargesthe ca tataḥ <lb n="9"/>pare | </l>
@@ -867,10 +871,10 @@
         <l xml:id="yvv-226"> rayo <del rend="crossed out">varga</del>varge vijānīyāt trya<lb n="11"
           />kṣaraṃ tu tataḥ paraṃ ||</l>
         <l xml:id="yvv-227"> vargottarāṇi varge tu tryakṣaraṃ tu tathā smṛtaṃ ||6 ||</l>
-        </lg>
-      
-        
-        <lg>
+      </lg>
+
+
+      <lg>
         <l xml:id="yvv-228"> kāṃḍās tu sapta vijñeyā <lb n="12"/>praśnā<add place="left margin">ś
             cā</add>dhi<sic>ka</sic> vai catuḥ ||</l>
         <l xml:id="yvv-229"> catvāriṃśat tu vijñeyā anuvākāḥ śatāni ṣaṭ ||7 ||</l>
@@ -885,21 +889,23 @@
       </lg>
 
       <p xml:id="yvv-236"> || kāṃḍāḥ 7 | praśna 44 | anuvāka 651 | paṃnāśī 2198 | <lb n="3"/> padaṃ
-        <sic>109290</sic> | akṣarasaṃkhyā 253868 |</p>
-      
+          <sic>109290</sic> | akṣarasaṃkhyā 253868 |</p>
+
       <l xml:id="yvv-237">śākhāvākyāny ayutāni sahasrā<lb n="4"/>ṇi navāni ca || </l>
       <l xml:id="yvv-238">catuḥśatāny aśītiś ca aṣṭau vākyāni gaṇyate || </l>
-      <p xml:id="yvv-239">|| iti brāhmaṇe <lb n="5"/>aṣṭau vākya<del rend="crossed out">āni</del>saṃkhyā 1900480 || </p>
+      <p xml:id="yvv-239">|| iti brāhmaṇe <lb n="5"/>aṣṭau vākya<del rend="crossed out"
+        >āni</del>saṃkhyā 1900480 || </p>
       <p xml:id="yvv-240">|| iti taittirīyayajurvedasya vicāraḥ || </p>
       <p xml:id="yvv-241" ana="namaskāra"><lb n="6"/>|| śrīgaṇeśa|śrīsītārāmābhyāṃ namaḥ ||</p>
-      
-      
+
+
       <p xml:id="yvv-242">|| atha deśeṣu vedaśākhayor vibhāga ucya<lb n="7"/>te ||</p>
       <p xml:id="yvv-243">mahārṇave || </p>
 
       <lg>
         <l xml:id="yvv-244">pṛthivyā madhyarekhā ca narmadā parikīrttitā |</l>
-        <l xml:id="yvv-245">dakṣiṇottarayor bhā<lb n="8"/>ge śākhā <sic>ve</sic>dāś ca ucyate || 1 ||</l>
+        <l xml:id="yvv-245">dakṣiṇottarayor bhā<lb n="8"/>ge śākhā <sic>ve</sic>dāś ca ucyate || 1
+          ||</l>
         <l xml:id="yvv-246">narmadādakṣiṇe bhāge āpastamby āśvalāyanī ||</l>
         <l xml:id="yvv-247">rā<lb n="9"/>ṇāyanī pippalā ca yajñakanyāvibhāginaḥ || 2 ||</l>
         <l xml:id="yvv-248">mādhyaṃdinī śāṃkhāyanī kauthumī <lb n="10"/>śaunakī tathā ||</l>
@@ -909,20 +915,20 @@
         <l xml:id="yvv-252">utta<lb n="12"/>re gurjare deśe vedo bahvṛ<sic>ca</sic> kīrttitāḥ ||</l>
         <l xml:id="yvv-253">kauṣītakī brāhmaṇaṃ ca śākhā śāṃkhāyanī <lb n="13"/>sthitā || 5 ||</l>
         <l xml:id="yvv-254">āṃdhrādi dakṣiṇāgneyī godā sāgara āvadhi ||</l>
-        <l xml:id="yvv-255">yajurvedas tu taitti<pb n="14r"/><lb n="1"/><sic>ry</sic>o āpastaṃbī pratiṣṭhitā
-          ||6 ||</l>
+        <l xml:id="yvv-255">yajurvedas tu taitti<pb n="14r"/><lb n="1"/><sic>ry</sic>o āpastaṃbī
+          pratiṣṭhitā ||6 ||</l>
         <l xml:id="yvv-256">sahyādriparvatāraṃbhā<unclear>d di</unclear>śāṃ nairṛtyasāgarāt | </l>
         <l xml:id="yvv-257">hira<lb n="2"/>ṇyakeśī śākhā ca parśurāmasya saṃnidhau ||7 ||</l>
         <l xml:id="yvv-258">mayūraparvatāc caiva yāvadgurjaradeśa <damage/></l>
         <l xml:id="yvv-259"><lb n="3"/><unclear>vyā</unclear>ptā vāyavyadeśāt tu maitrāyaṇī
           pratiṣṭhitā ||8 ||</l>
         <l xml:id="yvv-260">aṃgavaṃgakaliṃgāś ca kānī<lb n="4"/>no gurjaras tathā ||</l>
-        <l xml:id="yvv-261">vājasanīyaśā<add place="margin"><supplied>khā</supplied></add> ca mādhyaṃdinī pratiṣṭhitā ||9 ||</l>
+        <l xml:id="yvv-261">vājasanīyaśā<add place="margin"><supplied>khā</supplied></add> ca
+          mādhyaṃdinī pratiṣṭhitā ||9 ||</l>
         <l xml:id="yvv-262">ṛṣiṇā yā<lb n="5"/>jñavalkyena sarvadeśeṣu vistṛtā ||</l>
         <l xml:id="yvv-263">vājasanīyavedasya prathamā kaṇvasaṃ<lb n="6"/>jñakā || iti ||</l>
         <l xml:id="yvv-264">adhvarodgātṛhotṝṇāṃ saṃti sūtrāṇy anekaśaḥ ||</l>
-        <l xml:id="yvv-265">yatrāsti yonisaṃbaṃdhaḥ sū<lb n="7"/>tre jñātikulocitaḥ
-          ||꣸||</l>
+        <l xml:id="yvv-265">yatrāsti yonisaṃbaṃdhaḥ sū<lb n="7"/>tre jñātikulocitaḥ ||꣸||</l>
       </lg>
     </body>
   </text>

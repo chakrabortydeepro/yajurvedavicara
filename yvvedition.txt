@@ -12,7 +12,8 @@
                 <authority>Aniruddha Kar, Anusrita Mandal, Deepro Chakraborty, Parthasarathi
                     Sil</authority>
                 <date calendar="Gregorian">2021</date>
-                <publisher>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil</publisher>
+                <publisher>Deepro Chakraborty, Anusrita Mandal, Parthasarathi Sil, Aniruddha
+                    Kar</publisher>
                 <pubPlace>Edmonton, Calcutta, Agartala</pubPlace>
             </publicationStmt>
             <sourceDesc>
@@ -150,8 +151,8 @@
             <change when="2022-07-02" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-242-265</p>
             </change>
-            <change when="2022-07-09" who="Aniruddha Parthasarathi and Deepro">
-                <p>verified the readings of xml:ids yvv-228-241</p>
+            <change when="2022-07-23" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-215-221</p>
             </change>
         </revisionDesc>
     </teiHeader>
@@ -757,41 +758,66 @@
                 <l xml:id="yvv-212"> dānaṃ dadyāt svagotrāya kanyādānaṃ ca varjayet || </l>
             </lg>
 
-            <p xml:id="yvv-213">guṇavatāṃ teṣām abhāve śrutādhyayanasampannāḥ saptamād arvāk
-                ca bhojanīyāḥ |<!-- https://books.google.ca/books?id=Z0JBAQAAMAAJ&pg=PA451&lpg=PA451&dq=%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%82+%E0%A4%A4%E0%A5%87%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%87&source=bl&ots=jKezkZ7yqF&sig=ACfU3U2Tbcah1OHFBgo5a4yTbdckwcrgRw&hl=en&sa=X&ved=2ahUKEwjo3JDhoZT4AhWsLzQIHRWhBokQ6AF6BAgCEAM#v=onepage&q=%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%82%20%E0%A4%A4%E0%A5%87%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%87&f=false --> iti caturthe <sic>dādyāni brāhmaṇān</sic> parasparayajñavivāhayajñādi
-                śrautasmārte ca kriyata iti | </p>
+            <p xml:id="yvv-213">guṇavatāṃ teṣām abhāve śrutādhyayanasampannāḥ saptamād arvāk ca
+                bhojanīyāḥ
+                |<!-- https://books.google.ca/books?id=Z0JBAQAAMAAJ&pg=PA451&lpg=PA451&dq=%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%82+%E0%A4%A4%E0%A5%87%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%87&source=bl&ots=jKezkZ7yqF&sig=ACfU3U2Tbcah1OHFBgo5a4yTbdckwcrgRw&hl=en&sa=X&ved=2ahUKEwjo3JDhoZT4AhWsLzQIHRWhBokQ6AF6BAgCEAM#v=onepage&q=%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%82%20%E0%A4%A4%E0%A5%87%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%87&f=false -->
+                iti caturthe <sic>dādyāni brāhmaṇān</sic> parasparayajñavivāhayajñādi śrautasmārte
+                ca kriyata iti | </p>
 
             <p xml:id="yvv-214">na tu vājasanīyānām | āpastambī bodhāyanī satyāṣāḍhī hiraṇyakeśī
-                augheyī ceti | ete pañca sūtrādyā eteṣām āpastambasūtraṃ prabalam | etair eva sūtrair
-                vyākhyā bhagavatā vyāsena kapardisvāminā dhūrtasvāminā hariharadattena rudradattena
-                bhāradvājena bodhāyanena sarvair vyākhyātam || ꣸ || || śrī || || śrīkṛṣṇa || ||śrīhari: || </p>
-            
+                augheyī ceti | ete pañca sūtrādyā eteṣām āpastambasūtraṃ prabalam | etair eva
+                sūtrair vyākhyā bhagavatā vyāsena kapardisvāminā dhūrtasvāminā hariharadattena
+                rudradattena bhāradvājena bodhāyanena sarvair vyākhyātam || ꣸ || || śrī || ||
+                śrīkṛṣṇa || ||śrīhari: || </p>
+
             <lg>
-            <l xml:id="yvv-228"> kāṇḍās tu sapta vijñeyāḥ praśnāś cādhikā vai catuḥ |</l>
-            <l xml:id="yvv-229"> catvāriṃśat tu vijñeyā anuvākāḥ śatāni ṣaṭ ||7 ||</l>
-            <l xml:id="yvv-230"> ekapañcāśadadhikā saṅkhyā pañcāśad ucyate |</l>
-            <l xml:id="yvv-231"> dvisahasraṃ caikaśatam aṣṭānavatiś cādhikā ||8 ||</l>
-            <l xml:id="yvv-232"> lakṣakaṃ tu dvinavatiḥ sahasrāṇi prakīrtitam | </l>
-            <l xml:id="yvv-233"> padāni navatiś caiva tathākṣaraṃ tad ucyate ||9||</l>
-            <l xml:id="yvv-234"> lakṣadvayatripañcāśatsahasrāṇi śatāṣṭakam |</l>
-            <l xml:id="yvv-235"> aṣṭaṣaṣṭyadhike caiva yajurvedapramāṇakam ||</l>
+                <l xml:id="yvv-215"> sabhāvaḥ kāmatā jādhikarā nādhiradhīnayaḥ ||</l>
+                <l xml:id="yvv-216"> jātujālamarā krāṇḍapraśnānupapadākṣarāḥ ||1||</l>
             </lg>
-            
-            <p xml:id="yvv-236"> || kāṇḍa 7 | praśna 44 | anuvāka 651 | pannāśī 2198 | padaṃ 192090 | akṣarasaṃkhyā 253868 |</p>
-            
-            
+            <p xml:id="yvv-217"> asyārthaḥ | </p>
+
+            <lg>
+                <l xml:id="yvv-218"> ādyakṣarāṣṭakāḥ sapta dvāv akṣarāv athādhyāyāḥ |</l>
+                <l xml:id="yvv-219"> tryakṣarā anuvākāś ca vargāś ca caturakṣaraiḥ ||2 ||</l>
+                <l xml:id="yvv-220"> padaḥ ṣaḍakṣaraiḥ saṅkhyā ṣaḍ akṣaram athākṣaraiḥ | </l>
+                <l xml:id="yvv-221">
+                    <lb n="8"/>evaṃ ślokākṣarair bhāvo yajurvede prakīrtitaḥ ||3 ||</l>
+                <!-- <l xml:id="yvv-222"> ādyakṣare saptasaṃkhyā vargesthe ca tataḥ <lb n="9"/>pare | </l>
+                <l xml:id="yvv-223"> tathaiva hy akṣaraṃ viddhi vargottaram athākṣare ||4 ||</l>
+                <l xml:id="yvv-224"> vargottarākṣare caiva hy akṣare caiva varga<lb n="10"/>ke | </l>
+                <l xml:id="yvv-225"> nakāre khaṃ vijānīyād vargottaradhakārayoḥ ||5 ||</l>
+                <l xml:id="yvv-226"> rayo <del rend="crossed out">varga</del>varge vijānīyāt trya<lb n="11"
+                />kṣaraṃ tu tataḥ paraṃ ||</l>
+                <l xml:id="yvv-227"> vargottarāṇi varge tu tryakṣaraṃ tu tathā smṛtaṃ ||6 ||</l>-->
+            </lg>
+
+            <lg>
+                <l xml:id="yvv-228"> kāṇḍās tu sapta vijñeyāḥ praśnāś cādhikā vai catuḥ |</l>
+                <l xml:id="yvv-229"> catvāriṃśat tu vijñeyā anuvākāḥ śatāni ṣaṭ ||7 ||</l>
+                <l xml:id="yvv-230"> ekapañcāśadadhikā saṅkhyā pañcāśad ucyate |</l>
+                <l xml:id="yvv-231"> dvisahasraṃ caikaśatam aṣṭānavatiś cādhikā ||8 ||</l>
+                <l xml:id="yvv-232"> lakṣakaṃ tu dvinavatiḥ sahasrāṇi prakīrtitam | </l>
+                <l xml:id="yvv-233"> padāni navatiś caiva tathākṣaraṃ tad ucyate ||9||</l>
+                <l xml:id="yvv-234"> lakṣadvayatripañcāśatsahasrāṇi śatāṣṭakam |</l>
+                <l xml:id="yvv-235"> aṣṭaṣaṣṭyadhike caiva yajurvedapramāṇakam ||</l>
+            </lg>
+
+            <p xml:id="yvv-236"> || kāṇḍa 7 | praśna 44 | anuvāka 651 | pannāśī 2198 | padaṃ 192090
+                | akṣarasaṃkhyā 253868 |</p>
+
+
             <l xml:id="yvv-237">śākhāvākyāny ayutāni sahasrāṇi navāni ca | </l>
             <l xml:id="yvv-238">catuḥśatāny aśītiś ca aṣṭau vākyāni gaṇyate || </l>
-            
+
             <p xml:id="yvv-239">iti brāhmaṇe aṣṭau vākyasaṅkhyā 19480 || </p>
             <p xml:id="yvv-240">|| iti taittirīyayajurvedasya vicāraḥ || </p>
             <p xml:id="yvv-241" ana="namaskāra">|| śrīgaṇeśa|śrīsītārāmābhyāṃ namaḥ ||</p>
-            
-            
-            
+
+
+
             <p xml:id="yvv-242"> atha deśeṣu vedaśākhayor vibhāga ucyate ||</p>
             <p xml:id="yvv-243">mahārṇave || </p>
-            
+
             <lg>
                 <l xml:id="yvv-244">pṛthivyā madhyarekhā ca narmadā parikīrtitā |</l>
                 <l xml:id="yvv-245">dakṣiṇottarayor bhāge śākhā vedāś ca ucyate || 1 ||</l>
