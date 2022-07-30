@@ -151,8 +151,11 @@
             <change when="2022-07-02" who="Aniruddha Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-242-265</p>
             </change>
-            <change when="2022-07-23" who="Aniruddha Parthasarathi and Deepro">
+            <change when="2022-07-23" who="Aniruddha Anusrita Parthasarathi and Deepro">
                 <p>verified the readings of xml:ids yvv-215-221</p>
+            </change>
+            <change when="2022-07-30" who="Aniruddha Anusrita and Deepro">
+                <p>verified the readings of xml:ids yvv-222-225</p>
             </change>
         </revisionDesc>
     </teiHeader>
@@ -771,7 +774,7 @@
                 śrīkṛṣṇa || ||śrīhari: || </p>
 
             <lg>
-                <l xml:id="yvv-215"> sabhāvaḥ kāmatā jādhikarā nādhiradhīnayaḥ ||</l>
+                <l xml:id="yvv-215"> sabhāvaḥ kāmatā jādhikarā nādhinarīdhayaḥ ||</l>
                 <l xml:id="yvv-216"> jātujālamarā krāṇḍapraśnānupapadākṣarāḥ ||1||</l>
             </lg>
             <p xml:id="yvv-217"> asyārthaḥ | </p>
@@ -780,15 +783,13 @@
                 <l xml:id="yvv-218"> ādyakṣarāṣṭakāḥ sapta dvāv akṣarāv athādhyāyāḥ |</l>
                 <l xml:id="yvv-219"> tryakṣarā anuvākāś ca vargāś ca caturakṣaraiḥ ||2 ||</l>
                 <l xml:id="yvv-220"> padaḥ ṣaḍakṣaraiḥ saṅkhyā ṣaḍ akṣaram athākṣaraiḥ | </l>
-                <l xml:id="yvv-221">
-                    <lb n="8"/>evaṃ ślokākṣarair bhāvo yajurvede prakīrtitaḥ ||3 ||</l>
-                <!-- <l xml:id="yvv-222"> ādyakṣare saptasaṃkhyā vargesthe ca tataḥ <lb n="9"/>pare | </l>
+                <l xml:id="yvv-221"> evaṃ ślokākṣarair bhāvo yajurvede prakīrtitaḥ ||3 ||</l>
+                <l xml:id="yvv-222"> ādyakṣare saptasaṅkhyā vargesthe ca tataḥ pare | </l>
                 <l xml:id="yvv-223"> tathaiva hy akṣaraṃ viddhi vargottaram athākṣare ||4 ||</l>
-                <l xml:id="yvv-224"> vargottarākṣare caiva hy akṣare caiva varga<lb n="10"/>ke | </l>
+                <l xml:id="yvv-224"> vargottarākṣare caiva hy akṣare caiva vargake | </l>
                 <l xml:id="yvv-225"> nakāre khaṃ vijānīyād vargottaradhakārayoḥ ||5 ||</l>
-                <l xml:id="yvv-226"> rayo <del rend="crossed out">varga</del>varge vijānīyāt trya<lb n="11"
-                />kṣaraṃ tu tataḥ paraṃ ||</l>
-                <l xml:id="yvv-227"> vargottarāṇi varge tu tryakṣaraṃ tu tathā smṛtaṃ ||6 ||</l>-->
+                <!--<l xml:id="yvv-226"> rayo varge vijānīyāt tryakṣaraṃ tu tataḥ param ||</l>
+                <l xml:id="yvv-227"> vargottarāṇi varge tu tryakṣaraṃ tu tathā smṛtam ||6 ||</l>-->
             </lg>
 
             <lg>

@@ -244,6 +244,9 @@
       <change when="2022-07-24" who="Aniruddha Anusrita Parthasarathi and Deepro">
         <p>updated transcription of xml:ids yvv-215-221</p>
       </change>
+      <change when="2022-07-30" who="Aniruddha Anusrita and Deepro">
+        <p>updated transcription of xml:ids yvv-222-225</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -853,7 +856,7 @@
       <lg>
 
         <l xml:id="yvv-215">
-          <lb n="5"/>sabhāvaḥ kāmatā jādhikarā nādhiradhīnayaḥ ||</l>
+          <lb n="5"/>sabhāvaḥ kāmatā jādhikarā <sic>nādhiradhīnayaḥ</sic> ||</l>
         <l xml:id="yvv-216"> jātujālamarā krāṃḍā praśnānupapa<lb n="6"/>dākṣarāḥ ||1||</l>
       </lg>
       <p xml:id="yvv-217"> asyārthaḥ | </p>
@@ -864,7 +867,7 @@
         <l xml:id="yvv-220"> padaḥ ṣaḍākṣaraiḥ saṃkhyā ṣaḍ akṣaram athākṣaraiḥ | </l>
         <l xml:id="yvv-221">
           <lb n="8"/>evaṃ ślokākṣarair bhāvo yajurvede prakīrttitāḥ ||3 ||</l>
-        <l xml:id="yvv-222"> ādyakṣare saptasaṃkhyā vargesthe ca tataḥ <lb n="9"/>pare | </l>
+        <l xml:id="yvv-222"> ādyakṣare saptasaṃkhyā vargasthe ca tataḥ <lb n="9"/>pare | </l>
         <l xml:id="yvv-223"> tathaiva hy akṣaraṃ viddhi vargottaram athākṣare ||4 ||</l>
         <l xml:id="yvv-224"> vargottarākṣare caiva hy akṣare caiva varga<lb n="10"/>ke | </l>
         <l xml:id="yvv-225"> nakāre khaṃ vijānīyād vargottaradhakārayoḥ ||5 ||</l>
