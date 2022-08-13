@@ -247,6 +247,9 @@
       <change when="2022-07-30" who="Aniruddha Anusrita and Deepro">
         <p>updated transcription of xml:ids yvv-222-225</p>
       </change>
+      <change when="2022-08-13" who="Aniruddha Parthasarathi and Deepro">
+        <p>updated transcription of xml:ids yvv-226-227</p>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Latn">
@@ -856,7 +859,7 @@
       <lg>
 
         <l xml:id="yvv-215">
-          <lb n="5"/>sabhāvaḥ kāmatā jādhikarā <sic>nādhiradhīnayaḥ</sic> ||</l>
+          <lb n="5"/>sa bhāvaḥ kāmatā jādhikarā <sic>nādhiradhīnayaḥ</sic> ||</l>
         <l xml:id="yvv-216"> jātujālamarā krāṃḍā praśnānupapa<lb n="6"/>dākṣarāḥ ||1||</l>
       </lg>
       <p xml:id="yvv-217"> asyārthaḥ | </p>

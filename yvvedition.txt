@@ -157,6 +157,9 @@
             <change when="2022-07-30" who="Aniruddha Anusrita and Deepro">
                 <p>verified the readings of xml:ids yvv-222-225</p>
             </change>
+            <change when="2022-08-13" who="Aniruddha Parthasarathi and Deepro">
+                <p>verified the readings of xml:ids yvv-226-227</p>
+            </change>
         </revisionDesc>
     </teiHeader>
 
@@ -774,8 +777,8 @@
                 śrīkṛṣṇa || ||śrīhari: || </p>
 
             <lg>
-                <l xml:id="yvv-215"> sabhāvaḥ kāmatā jādhikarā nādhinarīdhayaḥ ||</l>
-                <l xml:id="yvv-216"> jātujālamarā krāṇḍapraśnānupapadākṣarāḥ ||1||</l>
+                <l xml:id="yvv-215"> sa bhāvaḥ kāmatā jādhikarā nādhinarīdhayaḥ ||</l>
+                <l xml:id="yvv-216"> jātujālamarā kāṇḍapraśnānupapadākṣarāḥ ||1||</l>
             </lg>
             <p xml:id="yvv-217"> asyārthaḥ | </p>
 
@@ -788,8 +791,8 @@
                 <l xml:id="yvv-223"> tathaiva hy akṣaraṃ viddhi vargottaram athākṣare ||4 ||</l>
                 <l xml:id="yvv-224"> vargottarākṣare caiva hy akṣare caiva vargake | </l>
                 <l xml:id="yvv-225"> nakāre khaṃ vijānīyād vargottaradhakārayoḥ ||5 ||</l>
-                <!--<l xml:id="yvv-226"> rayo varge vijānīyāt tryakṣaraṃ tu tataḥ param ||</l>
-                <l xml:id="yvv-227"> vargottarāṇi varge tu tryakṣaraṃ tu tathā smṛtam ||6 ||</l>-->
+                <l xml:id="yvv-226"> rayau varge vijānīyāt tryakṣaraṃ tu tataḥ param |</l>
+                <l xml:id="yvv-227"> vargottarāṇi varge tu tryakṣaraṃ tu tathā smṛtam ||6 ||</l>
             </lg>
 
             <lg>
