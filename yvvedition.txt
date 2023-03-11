@@ -167,12 +167,20 @@
         <body>
 
             <p xml:id="namaskara"> || śrīgaṇeśāya namaḥ || </p>
-            <p xml:id="yvv-1">
-                <lg>
-                    <l>catvāro vedā vijñātā bhavanti |</l>
-                    <l>ṛgvedo yajurvedaḥ sāmavedo 'tharvavedaś ceti |</l>
-                </lg> tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ pañca bhavanti || āśvalāyanī śāṅkhāyanī
-                śākalā bāṣkalā māṇḍūkeyāś ceti | tatra śākalasya śiṣyāḥ pañca |</p>
+            <p xml:id="yvv-1a"> catvāro vedā vijñātā bhavanti | ṛgvedo yajurvedaḥ sāmavedo
+                'tharvavedaś ceti |</p>
+
+            <ab corresp="#yvv-1a" type="apparatus">
+                <list type="testimonia">
+                    <item corresp="#yvv-1a-n1">Cf. <foreign>Caraṇavyūha</foreign> CVy. 1.2-3 p.
+                            1<foreign>tatra yaduktaṃ cāturvedyaṃ catvāro vedā vijñātā bhavanti || 2
+                            || tatra ṛgvedo yajurvedo 'tharvavedaś ceti || 3 ||</foreign> |
+                            </item>
+                </list>
+            </ab>
+            
+            <p xml:id="yvv-1b"> tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ pañca bhavanti || āśvalāyanī
+                śāṅkhāyanī śākalā bāṣkalā māṇḍūkeyāś ceti | tatra śākalasya śiṣyāḥ pañca |</p>
 
             <l xml:id="yvv-2">mudgalo gokhalo vātsyaḥ śārāraḥ śiśiras tathā | </l>
             <l xml:id="yvv-3">pañcaite śākalāḥ śiṣyāḥ śākhābhedapravartakāḥ ||</l>
