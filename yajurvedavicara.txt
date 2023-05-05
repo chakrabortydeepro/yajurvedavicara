@@ -20,7 +20,7 @@
             <collection>[collection]</collection>
             <idno>SCS</idno>
             <idno type="NCC">Vol. 22, p. 227a</idno>
-            <idno type="siglum">YV</idno>
+            <idno type="siglum">M</idno>
           </msIdentifier>
           <msContents>
             <summary>Number of granthas: 670; Sheet dimensions: 8 3 ⁄⁴ inch; Date not mentioned;
@@ -259,48 +259,56 @@
       <pb n="1v"/>
       <lb n="1"/>
       <p xml:id="namaskara"> || śrīgaṇeśāya namaḥ || </p>
-      <p xml:id="yvv-1">
-        <lg>
-          <l>catvāro vedā vijñātā bhavaṃti |</l>
-          <l>ṛgvedo yajurvedaḥ sā<lb n="2"/>mavedo tharvavedaś ceti |</l>
-        </lg> tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ paṃca bhavaṃti || <lb n="3"/>āśvalāyanī śāṃkhāyanī
-        śākalā bāṣkalā māṃḍūkeyāś ceti | tatra <lb n="4"/>śākalasya śiṣyāḥ paṃca |</p>
+      <p xml:id="yvv-1a"> catvāro vedā vijñātā bhavaṃti | ṛgvedo yajurvedaḥ sā<lb n="2"/>mavedo
+        tharvavedaś ceti |</p>
+      <p xml:id="yvv-1b"> tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ paṃca bhavaṃti ||</p>
+      <p xml:id="yvv-1c"><lb n="3"/>āśvalāyanī śāṃkhāyanī śākalā bāṣkalā māṃḍūkeyāś ceti | </p>
+      <p xml:id="yvv-1d">tatra <lb n="4"/>śākalasya śiṣyāḥ paṃca |</p>
       <l xml:id="yvv-2">mudgalo gokhalo vātsya śārāraḥ śiśiras tathā | </l>
       <lb n="5"/>
       <l xml:id="yvv-3"><supplied>paṃ</supplied>caite śākalāḥ śiṣyāḥ śākhābhedapravarttakāḥ ||</l>
       <p xml:id="yvv-4">tatra sarveṣāṃ uchinatvāt <gap unit="syllable" n="2"/><unclear
           reason="damage">da</unclear>
         <lb n="6"/>rāyaṇāmnāye śākalyaśaiśirīyakasaṃhitāpārāyaṇamiti | prā<supplied><lb n="7"
-          />ti</supplied>śākhyavṛttikārasiddhāṃtaḥ | āśvalāyanasūtramityādi prakṛtānupa<gap
-          unit="syllable" n="1"/><lb n="8"/>ktena vistāreṇa prapaṃcitaṃ || yajurvedaḥ ko vā iti
-        vicārasya prakṛtatvā<lb n="7"/>t tad eva vicāryate || tatra tāvatkarmāṇi dvividhāni bhavaṃti
-        | kānicittraividha<lb n="7"/>kāni agnihotrādīni | kānicidekavedasādhyāni |
-          svasvaśākhīyaṣo<pb n="2r"/><lb n="1"/>ḍaśa saṃskārādīni tāny api
+          />ti</supplied>śākhyavṛttikārasiddhāṃtaḥ | āśvalāyan<subst><del rend="crossed"
+            >ī</del><add>a</add></subst>sūtramityādi prakṛtānupa<gap unit="syllable" n="1"/><lb
+          n="8"/>kte na vistāreṇa prapaṃcitaṃ || </p>
+
+      <p xml:id="yvv-5">yajurvedaḥ ko vā iti vicārasya prakṛtatvā<lb n="7"/>t tad eva vicāryate ||
+        tatra tāvat karmāṇi dvividhāni bhavaṃti | kānicit traividha<lb n="7"/>kāni agnihotrādīni |
+        kānicid ekavedasādhyāni | svasvaśākhīyaṣo<pb n="2r"/><lb n="1"/>ḍaśasaṃskārādīni tāny api
         karmāṃgatraividhakabrāhmaṇabhojanāṃtā ā<lb n="2"/>śīrvādapaṭhanenopacārāt traividhakāni
         bhavaṃti | tatrāpi tattadvedatvena <unclear reason="eccentric_ductus">kro<lb n="3"
           />ḍī</unclear>kṛ<unclear>tā</unclear>nām eva traividhatvaṃ | anyathā vājasaneyāgnihotrasya
           traividhāntarga<lb n="4"/>tataittirīyayajurvedasādhyatvābhāve na
-        traividhakatvābhāvaprasaṅgaḥ | na <sic>ca</sic>tra<lb n="5"/> bhava<unclear>tu</unclear>
+        traividhakatvābhāvaprasaṅgaḥ | na <sic>ca</sic> tra<lb n="5"/> bhava<unclear>tu</unclear>
         tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena traividha<lb n="6"/><gap
           reason="damage" unit="akṣara" quantity="1"/><unclear reason="damage">tvaṃ</unclear> |
         tathāpi sūtrānāliṅgaitatvena pravṛttānāṃ <unclear reason="damage"
-          >vā</unclear>pīkūpataḍāgā<del rend="crossed out">dī</del><unclear reason="overwriting">ṣu
-          dhā</unclear><lb n="7"/>panāni sarvaśākhāsādhāraṇyena vidhāya | nānāśāṃtikapauṣṭikādīnāṃ
-          <lb n="8"/>kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādī<unclear reason="damage">nāṃ
-          vā</unclear>nuṣṭhānaprasaṃgaḥ | <lb n="9"/>tathā hi tattatkarmānuṣṭhānapaddhatikārai
-          maṃḍapapratiṣṭhāvasa<gap reason="damage" unit="akṣara" quantity="1"/>likhitaṃ | ta<lb
-          n="10"/>d uktaṃ | atha yāmye | </p>
-      <l xml:id="yvv-5">namas te dharmarājāya tretāyugādhipāya ca |</l>
-      <l xml:id="yvv-6">yajurvedā<pb n="2v"/><lb n="1"/>dhidevāya subha <unclear
-          reason="eccentric_ductus" confidence="0.3">dra</unclear>dvāradakṣiṇe |</l>
+          >vā</unclear>pīkūpataḍāgā<del rend="crossed out">dī</del><unclear reason="overwriting"
+          >sudhā</unclear><lb n="7"/>panāni sarvaśākhāsādhāraṇyena vidhāya |
+        nānāśāṃtikapauṣṭikādīnāṃ <lb n="8"/>kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādī<unclear
+          reason="damage">nāṃ vā</unclear>nuṣṭhānaprasaṃgaḥ | <lb n="9"/>tathā hi
+        tattatkarmānuṣṭhānapaddhatikārai maṃḍapapratiṣṭhāvasa<gap reason="damage" unit="akṣara"
+          quantity="1"/>likhitaṃ | ta<lb n="10"/>d uktaṃ | atha yāmye | </p>
+
+      <l xml:id="yvv-6">namas te dharmarājāya tretāyugādhipāya ca |
+        <caesura/>
+         yajurvedā<pb n="2v"/><lb n="1"/>dhidevāya subha<unclear reason="eccentric_ductus"
+          confidence="0.3">dra</unclear>dvāradakṣiṇe |</l>
+
       <p xml:id="yvv-7"><lb n="2"/>atha yajurvedadhyānaṃ | </p>
+
       <l xml:id="yvv-7a"><unclear reason="damaged" unit="akṣara" quantity="1" confidence="0.5"
-          >kārtta</unclear>rākṣo yajurvedaḥ <lb n="2"/>traiṣṭubho brahmadaivataḥ |</l>
-      <l xml:id="yvv-7b">kāśyape yas tu vipreṃdra ṛtvik tvaṃme <add place="right margin">ma</add>khe
-          <gap unit="syllable" n="2"/> | </l>
-      <l xml:id="yvv-7c">ajāsyaḥ <lb n="3"/>pītavarṇ<sic>ā</sic> syād yajurvedākṣasūtradhṛk |</l>
-      <l xml:id="yvv-7d">vāme kuli<add place="top margin">śa</add>pāṇis tu bhūtido maṃga<lb n="4"
-        />lapradaḥ |</l>
+          >kārtta</unclear>rākṣo yajurvedaḥ <lb n="2"/>traiṣṭubho brahmadaivataḥ |
+        <caesura/>
+        kāśyapeyas tu vipreṃdra ṛtvik tvaṃ me <add place="right margin">ma</add>khe <gap
+          unit="syllable" n="2"/> | </l>
+      
+      <l xml:id="yvv-7b">ajāsyaḥ <lb n="3"/>pītavarṇā syād yajurvedā kṣasūtradhṛk |
+        <caesura/>
+         vāme kuli<add place="top margin">śa</add>pāṇis tu bhūtido maṃga<lb n="4"/>lapradaḥ |</l>
+      
       <p xml:id="yvv-7e">ityādivākyeṣu vistārabhayād upekṣateṣu cānyeṣu vākyeṣu <lb n="5"/>śrūyamāṇo
         yajuḥśābdas tasya sarve carakādi<unclear reason="damage">ve</unclear>da sādhāraṇatve niga<lb
           n="6"/><unclear reason="damage">da</unclear>viharaprasaṃgaḥ | dakṣiṇe yajurvedānāṃ ṛtvijāv
@@ -568,7 +576,8 @@
             >12</metamark>adhvarodgātṛhotṝṇāṃ saṃti sūtrāṇy anekaśaḥ ||
             <caesura/>
              yatrāsti yonisaṃbaṃdhaḥ sūtre jñātikulocitaḥ ||<metamark
-              function="line_number_from_top">12</metamark></add></l>
+              function="line_number_from_top">12</metamark></add>
+        </l>
       </lg>
       <p xml:id="yvv-128"> yad vā triguṇapaṭhanaṃ tri<subst>
           <del rend="line above"><unclear unit="syllable" n="1" reason="overwriting"/></del>

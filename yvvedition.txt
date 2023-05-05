@@ -172,61 +172,147 @@
 
             <ab corresp="#yvv-1a" type="apparatus">
                 <list type="testimonia">
-                    <item corresp="#yvv-1a-n1">Cf. <foreign>Caraṇavyūha</foreign> CVy. 1.2-3 p.
-                            1<foreign>tatra yaduktaṃ cāturvedyaṃ catvāro vedā vijñātā bhavanti || 2
-                            || tatra ṛgvedo yajurvedo 'tharvavedaś ceti || 3 ||</foreign> |
-                            </item>
+                    <item corresp="#yvv-1a-n1">cf. <ref
+                            target="https://archive.org/details/caranavyuha/page/n10/mode/1up"
+                            >Caraṇavyūha 1.2-3 p. 4</ref>
+                        <foreign>tatra yaduktaṃ cāturvedyaṃ catvāro vedā vijñātā bhavanti || 2 ||
+                            tatra ṛgvedo yajurvedaḥ sāmavedo 'tharvavedaś ceti || 3 ||</foreign> |
+                    </item>
                 </list>
             </ab>
-            
-            <p xml:id="yvv-1b"> tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ pañca bhavanti || āśvalāyanī
-                śāṅkhāyanī śākalā bāṣkalā māṇḍūkeyāś ceti | tatra śākalasya śiṣyāḥ pañca |</p>
 
-            <l xml:id="yvv-2">mudgalo gokhalo vātsyaḥ śārāraḥ śiśiras tathā | </l>
-            <l xml:id="yvv-3">pañcaite śākalāḥ śiṣyāḥ śākhābhedapravartakāḥ ||</l>
+            <p xml:id="yvv-1b"> tatra ṛgvedasyāṣṭabhedānāṃ śākhāḥ pañca bhavanti || </p>
 
-            <p xml:id="yvv-4">tatra sarveṣāṃ ucchinnatvāt [...] vedapārāyaṇāmnāye
-                śākalyaśaiśirīyakasaṃhitāpārāyaṇamiti |
-                pr<supplied>āti</supplied>śākhyavṛttikārasiddhāntaḥ | āśvalāyanīsūtram ityādi
-                    prakṛtānupa<supplied confidence="0.5">yu</supplied>ktena vistāreṇa prapañcitam
-                ||
+
+            <ab corresp="#yvv-1b" type="apparatus">
+                <list type="testimonia">
+                    <item corresp="#yvv-1b-n1">cf. <ref
+                            target="https://archive.org/details/caranavyuha/page/n11/mode/1up"
+                            >Caraṇavyūha 1.4 p.5</ref>
+                        <foreign>tatra ṛgvedasyāṣṭau sthānāni bhavanti || 4 || </foreign>
+                        Caraṇavyūha 1.7 p.13 <foreign>eteṣāṃ śākhāḥ pañcavidhā bhavanti || 7
+                            ||</foreign>
+                    </item>
+                </list>
+            </ab>
+
+
+            <p xml:id="yvv-1c"> āśvalāyanī śāṅkhāyanī śākalā bāṣkalā māṇḍūkeyāś ceti | </p>
+
+            <ab corresp="#yvv-1c" type="apparatus">
+                <list type="testimonia">
+                    <item corresp="#yvv-1c-n1"><ref
+                            target="https://archive.org/details/caranavyuha/page/n19/mode/1up"
+                            >Caraṇavyūha 1.8 p. 13</ref>
+                        <foreign>āśvalāyanī śāṅkhāyanī śākalā bāṣkalā māṇḍukāyanāś ceti || 8
+                            ||</foreign> | </item>
+                </list>
+            </ab>
+
+
+            <p xml:id="yvv-2">tatra śākalasya śiṣyāḥ pañca |</p>
+
+
+            <l xml:id="yvv-3">mudgalo gokhalo vātsyaḥ śārāraḥ śiśiras tathā |
                 <caesura/>
-                 yajurvedaḥ ko vā iti vicārasya prakṛtatvāt tad eva vicāryate ||
+                 pañcaite śākalāḥ śiṣyāḥ śākhābhedapravartakāḥ ||</l>
+
+            <ab corresp="#yvv-3" type="apparatus">
+                <list type="parallels">
+                    <item corresp="#yvv-3-n1"><ref
+                            target="https://archive.org/details/saisiriyasiksa/page/405/mode/1up"
+                            >cf. Śaiśirīyaśikṣā 5-6 p. 405</ref>
+                        <foreign>mudgalo gālavo gārgyaḥ śākalyaḥ śaiśiras tathā | pañcaite śaunakāḥ
+                            śiṣyāḥ śākhābhedapravartakāḥ ||</foreign> | </item>
+
+                    <item corresp="#yvv-3-n2">cf. <ref
+                            target="https://archive.org/details/in.ernet.dli.2015.284197/page/n41/mode/1up"
+                            > Vargadvayavṛtti of Viṣṇumitra 7 p. 16</ref>
+                        <foreign>mudgalo gukhulo vātsyaḥ śārīraḥ śiśiras tathā | pañcaite śākalāḥ
+                            śiṣyāḥ śākhābhedapravartakāḥ ||</foreign></item>
+                </list>
+            </ab>
+
+            <p xml:id="yvv-4">tatra sarveṣām ucchinnatvād ṛgvedapārāyaṇāmnāye
+                śākalyaśaiśirīyakasaṃhitāpārāyaṇamiti prātiśākhyavṛttikārasiddhāntaḥ |
+                āśvalāyanasūtram ityādi prakṛtānupa<supplied confidence="0.5">yu</supplied>kte na
+                vistāreṇa prapañcitam || </p>
+
+            <ab corresp="#yvv-1-4" type="translation">
+                <list type="translation">
+                    <item corresp="#yvv-1-4">Four Vedas are well-known. There are <foreign>Ṛgveda,
+                            Yajurveda, Sāmaveda</foreign> and <foreign>Atharvaveda</foreign> There
+                        are five branches of the eight varieties of the <foreign>Ṛgveda</foreign>:
+                            <foreign>Āśvalāyanī, Śāṅkhāyanī, Śākalā, Bāskalā</foreign> and
+                            <foreign>Māṇḍukeyā</foreign>. Among them Śākala had five disciples.
+                        Mudgala, Gokhala, Vātsya, Śārāra as well as Śiśira were the five disciples
+                        of Śākala who made the divisions of the branches. According to the opinion
+                        of the commentator of the <foreign>Prātiśākhya</foreign>, in the tradition
+                        of the Ṛgvedic recitation, there exists (only) the reading of the Śaiśirīya
+                        Saṃhitā of the Śākala school as all (other branches) were lost. Since the
+                            <foreign>sūtra</foreign>s of Āśvalāyana etc. are not useful to the main
+                        theme they are not discussed in details.</item>
+                </list>
+            </ab>
+
+
+            <p xml:id="yvv-5">yajurvedaḥ ko vā iti vicārasya prakṛtatvāt tad eva vicāryate ||
                 <caesura/>
                  tatra tāvat karmāṇi dvividhāni bhavanti | kānicit traividhakāni agnihotrādīni |
                 kānicid ekavedasādhyāni | svasvaśākhīyaṣoḍaśasaṃskārādīni tāny api
-                    karmāṅgatraividhakabrāhmaṇabhojanāntā<supplied>ny</supplied>
-                āśīrvādapaṭhanenopacārāt traividhakāni bhavanti | tatrāpi tattadvedatvena
-                kroḍīkṛtānām eva traividhatvam | anyathā vājasaneyāgnihotrasya
-                traividhāntargatataittirīyayajurvedasādhyatvābhāve na traividhakatvābhāvaprasaṅgaḥ |
-                na <choice>
+                karmāṅgatraividhakabrāhmaṇabhojanāntāśīrvādapaṭhanenopacārāt traividhakāni bhavanti
+                | tatrāpi tattadvedatvena kroḍīkṛtānām eva traividhatvam | anyathā
+                vājasaneyāgnihotrasya traividhāntargatataittirīyayajurvedasādhyatvābhāve na
+                traividhakatvābhāvaprasaṅgaḥ | na <choice>
                     <orig>ca</orig>
                     <corr>cā</corr>
                 </choice>tra bhavatu tattacchākhīyasūtrādhānakṛtāgnihotrasya kroḍīkṛtatvena
-                    traividha<supplied>ka</supplied>tvam | tathāpi <sic>sūtrānāliṅgaitatvena</sic>
-                pravṛttānāṃ vāpīkūpataḍāgādīṣu dhāpanāni sarvaśākhāsādhāraṇyena vidhāya |
-                nānāśāntikapauṣṭikādīnāṃ kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādīnāṃ
-                vānuṣṭhānaprasaṅgaḥ | tathā hi tattatkarmānuṣṭhānapaddhatikārair
-                    maṇḍapapratiṣṭhāvasa<gap reason="damage" unit="akṣara" quantity="1"/>likhitam |
-                tad uktam | atha yāmye | </p>
+                    traividha<supplied>ka</supplied>tvam | tathāpi sūtrānāliṅgitatvena pravṛttānāṃ
+                vāpīkūpataḍāgādisudhāpanāni sarvaśākhāsādhāraṇyena vidhāya nānāśāntikapauṣṭikādīnāṃ
+                kāmyānāṃ rudrānuṣṭhānalakṣahomakoṭihomādīnāṃ vānuṣṭhānaprasaṅgaḥ | tathā hi
+                tattatkarmānuṣṭhānapaddhatikārair maṇḍapapratiṣṭhāvasare likhitam | tad uktam | atha
+                yāmye | </p>
 
-            <!-- the following xml:id 5-7 are verified by Deepro -->
-            <l xml:id="yvv-5">namas te dharmarājāya tretāyugādhipāya ca |</l>
-            <l xml:id="yvv-6">yajurvedādhidevāya subhadradvāradakṣiṇe ||</l>
+
+            <ab corresp="#yvv-5" type="translation">
+                <list type="translation">
+                    <item corresp="#yvv-5">Since the subject of </item>
+                </list>
+            </ab>
+
+
+
+            <l xml:id="yvv-6">namas te dharmarājāya tretāyugādhipāya ca |
+                <caesura/>
+                 yajurvedādhidevāya subhadradvāradakṣiṇe ||</l>
 
             <p xml:id="yvv-7">atha yajurvedadhyānam || </p>
 
-            <l xml:id="yvv-7a">kārtarākṣo yajurvedaḥ traiṣṭubho brahmadaivataḥ |</l>
-            <l xml:id="yvv-7b">kāśyapeyas tu viprendra ṛtvik tvaṃ makhe <gap unit="syllable" n="2"
-                />||</l>
-            <l xml:id="yvv-7c">ajāsyaḥ pītava<choice>
-                    <orig>rṇā</orig>
-                    <corr>rṇo</corr>
-                </choice> syād yajurve<choice>
-                    <orig>dā</orig>
-                    <corr>do</corr>
-                </choice> 'kṣasūtradhṛk |</l>
-            <l xml:id="yvv-7d">vāme kuliśapāṇis tu bhūtido maṅgalapradaḥ ||</l>
+            <l xml:id="yvv-7a">kārtarākṣo yajurvedas traiṣṭubho brahmadaivataḥ |
+                <caesura/>
+                 kāśyapeyas tu viprendra ṛtvik tvaṃ me makhe bhava ||</l>
+
+            <ab corresp="#yvv-7a" type="apparatus">
+                <list type="parallels">
+                    <item corresp="#yvv-7a-n1"><ref
+                            target="https://archive.org/details/lakShmInArAyaNasaMhitA2/page/n460/mode/1up?view=theater"
+                            > Lakṣmīnārāyaṇasaṃhitā 2.149.102-103</ref>
+                        <foreign>kātarākṣo yajurvedas traiṣṭubho viṣṇudaivataḥ ||102|| kāśyapeyas tu
+                            viprendra ṛtvik tvaṃ me makhe bhava |</foreign></item>
+                </list>
+            </ab>
+
+            <l xml:id="yvv-7b">ajāsyaḥ pītavarṇaḥ syād yajurvedo 'kṣasūtradhṛk |
+                <caesura/>
+                 vāme kuliśapāṇis tu bhūtido maṅgalapradaḥ ||</l>
+            
+            <ab corresp="#yvv-7b" type="apparatus">
+                <list type="source">
+                    <item corresp="#yvv-7b-n1"><ref
+                        target="https://archive.org/details/chaturvargachintamanivol2part1_202003_0_b/page/n142/mode/1up?view=theater"
+                        > Caturvargacintāmaṇi of Hemādri: Vratakhaṇḍa, Chapter 1 pp.104-105</ref></item>
+                </list>
+            </ab>
 
             <p xml:id="yvv-7e">ityādivākyeṣu vistārabhayād upe<choice>
                     <orig>kṣa</orig>
